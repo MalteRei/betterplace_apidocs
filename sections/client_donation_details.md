@@ -2,7 +2,7 @@
 # Client Donation Details ⇄ [List](client_donations_list.md)
 
 ```Cirru
-GET https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/aacf667a485010b23c0f.json
+GET https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/d0d35e347873169aec71.json
 ```
 
 **For [betterplace.org clients](../README.md#client-api) only:**
@@ -32,7 +32,7 @@ The betterplace.org-internal client permalink.
   </tr>
   <tr>
     <th align="left">id</th>
-    <td><code>aacf667a485010b23c0f</code></td>
+    <td><code>d0d35e347873169aec71</code></td>
     <td>yes</td>
 <td>
 
