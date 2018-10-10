@@ -63,6 +63,8 @@ The betterplace.org-internal client permalink.
 ## Response Example
 
 ```json
-null
+[
+  "/Users/flori/scm/betterplace/app/controllers/api_v4/client_donations_controller.rb:98:in `block (2 levels) in <class:ClientDonationsController>'"
+]
 ```
 
