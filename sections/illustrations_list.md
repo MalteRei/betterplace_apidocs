@@ -130,7 +130,7 @@ Title of the illustration
     <tr>
       <th align="left">description</th>
       <td><code>string</code></td>
-      <td><code>They really do…</code></td>
+      <td><code>The kittens really do need your help, don't hesitate…</code></td>
 <td>
 
 More detailed description of the illustration
