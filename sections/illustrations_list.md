@@ -147,10 +147,10 @@ More detailed description of the illustration
           </a>
         </th>
       <td><code>null &#124; object</code></td>
-      <td><code>HALLO</code></td>
+      <td><code>See below</code></td>
 <td>
 
-TODO
+Picture to be displayed in the illustration
 
 </td>
     </tr>
