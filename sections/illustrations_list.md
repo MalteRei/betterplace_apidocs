@@ -2,7 +2,7 @@
 # Illustrations List
 
 ```Cirru
-GET https://api.betterplace.org/de/api_v4/illustrations.json?facets=completed%3Afalse&order=amount_in_cents%3Adesc
+GET https://api.betterplace.org/de/api_v4/illustrations.json?facets=project_id%3A1114&order=amount_in_cents%3Adesc
 ```
 
 A list of betterplace.org project illustrations.
@@ -20,7 +20,7 @@ Results are contained in a *data* attribute.
   </tr>
   <tr>
     <th align="left">facets</th>
-    <td><code>completed:false</code></td>
+    <td><code>project_id:1114</code></td>
     <td>no</td>
 <td>
 
@@ -33,14 +33,7 @@ only shows active projects that can receive donations.
 <br>
 <em>Supported filters are:</em>
 <ul>
-<li><code>tax_deductible:true/false</code>
-<li><code>completed:true/false</code> –
-is this project fully financed (100 %)? See <code>completed_at</code>
-<li><code>closed:true/false</code> –
-has this project been closed by the project manager? See <code>closed_at</code>
-<li><code>prohibit_donations:true/false</code> –
-are donations to this project forbidden at the moment? Closed and blocked projects
-will always return true, for example.
+<li><code>project_id:1114/false</code>
 </ul>
 It is possible to set multiple facet filters.
 <a href="../README.md#request-parameter-format">Learn how to format the parameter</a>.
