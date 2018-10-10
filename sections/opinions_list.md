@@ -1,7 +1,7 @@
 
 # Opinions List
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/projects/1114/opinions.json?order=created_at%3AASC
 ```
 
@@ -407,7 +407,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "matched": false,
       "score": "positive",
       "author": {
-        "name": "Benjamin König",
+        "name": "Adriano Pietsch",
         "picture": {
           "links": [
             {

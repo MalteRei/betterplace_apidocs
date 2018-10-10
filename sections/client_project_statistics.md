@@ -1,7 +1,7 @@
 
 # Client Project Statistics
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/clients/volksfreund/project_statistics.json
 ```
 

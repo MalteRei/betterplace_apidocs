@@ -1,7 +1,7 @@
 
 # Projects List ⇄ [Details](project_details.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/projects.json?around=10997+Berlin%2C+Germany&around_distance=25km&facets=completed%3Afalse&nelat=51.123&nelng=12.123&order=rank%3ADESC&q=Skateistan&scope=location&swlat=51.001&swlng=12.001
 ```
 
@@ -1006,7 +1006,7 @@ opinions
 </th>
 <td>
 
-Link to <a href="opinions_list.md">opinions list</a>
+Link to <a href="opinions_list.md">donations/opinions list</a>
 
 
 </td>
@@ -1364,10 +1364,10 @@ information for the donors.
     {
       "id": 49876,
       "created_at": "2016-11-07T17:06:41+01:00",
-      "updated_at": "2018-03-29T02:09:56+02:00",
+      "updated_at": "2018-09-09T00:29:01+02:00",
       "latitude": -26.19943231282456,
       "longitude": 28.0458325040039,
-      "street": "Frankenstraße 154",
+      "street": "Birkenstraße 59",
       "zip": "1937",
       "city": "Johannesburg",
       "country": "Südafrika",
@@ -1378,22 +1378,22 @@ information for the donors.
       "summary": "Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt; Spende 5€ um einen Unterrichtstag zu unterstützen ",
       "tax_deductible": true,
       "donations_prohibited": false,
-      "completed_at": null,
+      "completed_at": "2018-05-20T17:27:42+02:00",
       "closed_at": null,
-      "open_amount_in_cents": 600,
-      "donated_amount_in_cents": 152400,
-      "positive_opinions_count": 13,
+      "open_amount_in_cents": 0,
+      "donated_amount_in_cents": 153000,
+      "positive_opinions_count": 14,
       "negative_opinions_count": 0,
-      "donations_count": 13,
+      "donations_count": 14,
       "comments_count": 0,
-      "donor_count": 12,
-      "progress_percentage": 99,
-      "incomplete_need_count": 1,
-      "completed_need_count": 5,
+      "donor_count": 13,
+      "progress_percentage": 100,
+      "incomplete_need_count": 0,
+      "completed_need_count": 6,
       "blog_post_count": 7,
       "contact": {
         "id": 506119,
-        "name": "Edward S.",
+        "name": "Kiana V.",
         "picture": {
           "links": [
             {
@@ -1424,11 +1424,11 @@ information for the donors.
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_original_betterplace-logo.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_bp1523439289_Skateistan_facebook-01.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_original_betterplace-logo.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_bp1523439289_Skateistan_facebook-01.png"
             }
           ]
         },
@@ -1514,157 +1514,9 @@ information for the donors.
       ]
     },
     {
-      "id": 60749,
-      "created_at": "2018-02-22T20:01:23+01:00",
-      "updated_at": "2018-02-23T17:07:28+01:00",
-      "latitude": 34.5553494,
-      "longitude": 69.207486,
-      "street": "Tulpenweg 63",
-      "zip": "",
-      "city": "Kabul",
-      "country": "Afghanistan",
-      "content_updated_at": "2018-02-23T09:52:39+01:00",
-      "activated_at": "2018-02-23T09:52:39+01:00",
-      "title": "Unterstütze Sport &amp; Bildung für Kinder und Jugendliche mit Skateboarding",
-      "description": "<div>▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾<br><strong>Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt;&gt;&gt; Spende 5€ um einen Unterrichtstag zu unterstützen &lt;&lt;&lt;</strong><br><br>Wir wollen, dass Skateistan noch mehr Kindern und Jugendlichen die Möglichkeit geben kann, skaten zu lernen. Skateistan glaubt daran, dass alle Kinder und Jugendlichen die gleichen Rechte haben, sicher zu sein, Sport zu treiben, zur Schule zu gehen, selbstsicher zu sein und eine Führungskraft zu werden.</div>",
-      "summary": "Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt; Spende 5€ um einen Unterrichtstag zu unterstützen ",
-      "tax_deductible": true,
-      "donations_prohibited": false,
-      "completed_at": null,
-      "closed_at": null,
-      "open_amount_in_cents": 1000000,
-      "donated_amount_in_cents": 0,
-      "positive_opinions_count": 0,
-      "negative_opinions_count": 0,
-      "donations_count": 0,
-      "comments_count": 0,
-      "donor_count": 0,
-      "progress_percentage": 0,
-      "incomplete_need_count": 10,
-      "completed_need_count": 0,
-      "blog_post_count": 0,
-      "contact": {
-        "id": 506119,
-        "name": "Edward S.",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/fill_100x100_bp1507482554_Profilbild_Skateistan.png"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/crop_original_bp1507482554_Profilbild_Skateistan.png"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/506119"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/506119/contact_data.json"
-          }
-        ]
-      },
-      "carrier": {
-        "name": "Skateistan",
-        "city": "Berlin",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_original_betterplace-logo.png"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_original_betterplace-logo.png"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "self",
-            "href": "https://api.betterplace.org/de/api_v4/organisations/1054.json"
-          }
-        ]
-      },
-      "profile_picture": {
-        "links": [
-          {
-            "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_960x500_bp1519326291_Skateistan_Girl_Power.jpg"
-          },
-          {
-            "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_730x380_bp1519326291_Skateistan_Girl_Power.jpg"
-          },
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_618x322_bp1519326291_Skateistan_Girl_Power.jpg"
-          },
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_410x214_bp1519326291_Skateistan_Girl_Power.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_270x141_bp1519326291_Skateistan_Girl_Power.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/crop_original_bp1519326291_Skateistan_Girl_Power.jpg"
-          }
-        ]
-      },
-      "active_matching_fund": null,
-      "closed_notice": null,
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/projects/60749.json"
-        },
-        {
-          "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/60749-unterstutze-sport-bildung-fur-kinder-und-jugendliche-mit-skateboarding"
-        },
-        {
-          "rel": "opinions",
-          "href": "https://api.betterplace.org/de/api_v4/projects/60749/opinions.json"
-        },
-        {
-          "rel": "pictures",
-          "href": "https://api.betterplace.org/de/api_v4/projects/60749/pictures.json"
-        },
-        {
-          "rel": "needs",
-          "href": "https://api.betterplace.org/de/api_v4/projects/60749/needs.json"
-        },
-        {
-          "rel": "blog_posts",
-          "href": "https://api.betterplace.org/de/api_v4/projects/60749/blog_posts.json"
-        },
-        {
-          "rel": "matching_funds",
-          "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=60749"
-        },
-        {
-          "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/60749/client_donations/new?client_id=%7Bclient_id%7D",
-          "templated": true
-        },
-        {
-          "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/60749/donations/new"
-        }
-      ]
-    },
-    {
       "id": 6233,
       "created_at": "2011-02-25T08:48:43+01:00",
-      "updated_at": "2018-03-29T00:18:45+02:00",
+      "updated_at": "2018-09-09T00:05:30+02:00",
       "latitude": 11.55883121490479,
       "longitude": 104.9174423217773,
       "street": null,
@@ -1693,17 +1545,16 @@ information for the donors.
       "blog_post_count": 36,
       "contact": {
         "id": 287126,
-        "name": "A. Wolff",
+        "name": "Hanka P.",
         "picture": {
-          "fallback": true,
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1523439147_Skateistan_facebook-02.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1523439147_Skateistan_facebook-02.png"
             }
           ]
         },
@@ -1725,11 +1576,11 @@ information for the donors.
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_original_betterplace-logo.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_bp1523439289_Skateistan_facebook-01.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_original_betterplace-logo.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_bp1523439289_Skateistan_facebook-01.png"
             }
           ]
         },
@@ -1807,6 +1658,154 @@ information for the donors.
         {
           "rel": "new_donation",
           "href": "https://www.betterplace.org/de/projects/6233/donations/new"
+        }
+      ]
+    },
+    {
+      "id": 60749,
+      "created_at": "2018-02-22T20:01:23+01:00",
+      "updated_at": "2018-02-23T17:07:28+01:00",
+      "latitude": 34.5553494,
+      "longitude": 69.207486,
+      "street": "Königsberger Straße 62",
+      "zip": "",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "content_updated_at": "2018-02-23T09:52:39+01:00",
+      "activated_at": "2018-02-23T09:52:39+01:00",
+      "title": "Unterstütze Sport &amp; Bildung für Kinder und Jugendliche mit Skateboarding",
+      "description": "<div>▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾<br><strong>Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt;&gt;&gt; Spende 5€ um einen Unterrichtstag zu unterstützen &lt;&lt;&lt;</strong><br><br>Wir wollen, dass Skateistan noch mehr Kindern und Jugendlichen die Möglichkeit geben kann, skaten zu lernen. Skateistan glaubt daran, dass alle Kinder und Jugendlichen die gleichen Rechte haben, sicher zu sein, Sport zu treiben, zur Schule zu gehen, selbstsicher zu sein und eine Führungskraft zu werden.</div>",
+      "summary": "Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt; Spende 5€ um einen Unterrichtstag zu unterstützen ",
+      "tax_deductible": true,
+      "donations_prohibited": false,
+      "completed_at": null,
+      "closed_at": null,
+      "open_amount_in_cents": 1000000,
+      "donated_amount_in_cents": 0,
+      "positive_opinions_count": 0,
+      "negative_opinions_count": 0,
+      "donations_count": 0,
+      "comments_count": 0,
+      "donor_count": 0,
+      "progress_percentage": 0,
+      "incomplete_need_count": 10,
+      "completed_need_count": 0,
+      "blog_post_count": 0,
+      "contact": {
+        "id": 506119,
+        "name": "Kiana V.",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/fill_100x100_bp1507482554_Profilbild_Skateistan.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/crop_original_bp1507482554_Profilbild_Skateistan.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "platform",
+            "href": "https://www.betterplace.org/de/users/506119"
+          },
+          {
+            "rel": "contact_data",
+            "href": "https://api.betterplace.org/de/api_v4/users/506119/contact_data.json"
+          }
+        ]
+      },
+      "carrier": {
+        "name": "Skateistan",
+        "city": "Berlin",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_bp1523439289_Skateistan_facebook-01.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_bp1523439289_Skateistan_facebook-01.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.betterplace.org/de/api_v4/organisations/1054.json"
+          }
+        ]
+      },
+      "profile_picture": {
+        "links": [
+          {
+            "rel": "fill_960x500",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_960x500_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_730x380",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_730x380_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_618x322_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_410x214_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/fill_270x141_bp1519326291_Skateistan_Girl_Power.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/060/749/crop_original_bp1519326291_Skateistan_Girl_Power.jpg"
+          }
+        ]
+      },
+      "active_matching_fund": null,
+      "closed_notice": null,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749.json"
+        },
+        {
+          "rel": "platform",
+          "href": "https://www.betterplace.org/de/projects/60749-unterstutze-sport-bildung-fur-kinder-und-jugendliche-mit-skateboarding"
+        },
+        {
+          "rel": "opinions",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/opinions.json"
+        },
+        {
+          "rel": "pictures",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/pictures.json"
+        },
+        {
+          "rel": "needs",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/needs.json"
+        },
+        {
+          "rel": "blog_posts",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/blog_posts.json"
+        },
+        {
+          "rel": "matching_funds",
+          "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=60749"
+        },
+        {
+          "rel": "new_client_donation",
+          "href": "https://www.betterplace.org/de/projects/60749/client_donations/new?client_id=%7Bclient_id%7D",
+          "templated": true
+        },
+        {
+          "rel": "new_donation",
+          "href": "https://www.betterplace.org/de/projects/60749/donations/new"
         }
       ]
     }

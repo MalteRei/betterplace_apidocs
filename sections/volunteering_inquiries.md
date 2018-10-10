@@ -1,7 +1,7 @@
 
 # Volunteering Inquiries
 
-```Rebol
+```Cirru
 POST https://api.betterplace.org/de/api_v4/clients/volksfreund/volunteering/37443/inquiries.json
 ```
 

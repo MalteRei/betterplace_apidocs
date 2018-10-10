@@ -1,7 +1,7 @@
 
 # Pool Details
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/clients/payback/pool.json
 ```
 
@@ -133,9 +133,9 @@ Link to this resource itself
 {
   "id": 4,
   "created_at": "2016-01-14T15:12:34+01:00",
-  "updated_at": "2018-03-28T19:53:36+02:00",
-  "donated_amount_in_cents": 92876711,
-  "forwarded_amount_in_cents": 91090054,
+  "updated_at": "2018-09-09T15:50:27+02:00",
+  "donated_amount_in_cents": 93768852,
+  "forwarded_amount_in_cents": 92890054,
   "links": [
     {
       "rel": "self",

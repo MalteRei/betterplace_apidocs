@@ -1,4 +1,4 @@
-![betterplace.org](images/betterplace.svg "betterplace.org")
+<img src="images/betterplace.svg" alt="betterplace.org" width="400" />
 
 # The betterplace.org API Version 4
 
@@ -113,7 +113,7 @@ about updates and scheduled downtimes.
 * We support [Cross-origin resource sharing (CORS)](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing), so no proxy or JSONP is required
 * Authentication: Most API calls are public.
   Some client API features require authentication. [Learn more](#client-authentication)
-* The data of betterplace Users, Companies and Portals is not part of the API at this moment.
+* The data of betterplace Users is not part of the API at this moment.
 
 
 ### Request parameter format

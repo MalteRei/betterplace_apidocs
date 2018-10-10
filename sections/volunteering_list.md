@@ -1,7 +1,7 @@
 
 # Volunteering List ⇄ [Details](volunteering_details.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/volunteering.json?around=10997+Berlin%2C+Germany&around_distance=25km&nelat=51.123&nelng=12.123&order=content_updated_at%3AASC&q=Homework+help&scope=location&swlat=51.001&swlng=12.001
 ```
 
@@ -1078,30 +1078,30 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "total_entries": 6978,
+  "total_entries": 10105,
   "offset": 3,
-  "total_pages": 2326,
+  "total_pages": 3369,
   "current_page": 2,
   "per_page": 3,
   "data": [
     {
       "id": 7074,
       "created_at": "2013-03-03T19:43:47+01:00",
-      "updated_at": "2018-03-05T13:53:37+01:00",
+      "updated_at": "2018-08-11T19:32:25+02:00",
       "latitude": 10.6346,
       "longitude": -85.4407,
-      "street": "Ringstraße 11",
+      "street": "An der Kirche 181",
       "zip": "1000",
       "city": "Liberia",
       "country": "Costa Rica",
-      "content_updated_at": "2016-01-17T08:38:25+01:00",
+      "content_updated_at": "2018-04-27T14:32:25+02:00",
       "title": "Projekt des nachhaltigen Tourismus in Costa Rica",
-      "description": "Projekt des nachhaltigen Tourismus in der Buena Vista Lodge<br>An den Hängen des Rincon de la Vieja Vulkan und in der Mitte von fünf Nationalparks (Rincón de la Vieja, Santa Rosa, Guanacaste, Santa Elena und El Acha) finden Sie unsere Lodge, die versucht eine autarke organische touristische Unterkunft zu werden , die nachhaltigen Tourismus betreibt und sich zum Ziel gemacht hat die natürlichen Ressourcen so gut wie möglich zu schützen.<br>Ziel unseres Volontär Programm<br>Ziel unseres Freiwilligen Programms ist Bildungsarbeit im Umweltschutz. Der Schwerpunkt dieser Bildungsarbeit konzentriert sich auf die Erlernung einer verantwortungsvollen und nachhaltigen Nutzung der natürlichen Ressourcen durch praktische Tätigkeiten mit dem Ziel dieses Wissen als Multiplikator an andere Menschen weiterzugeben. Unsere Philosophie ist es, die meisten der grundlegenden Produkte, die wir verbrauchen, in einer kostengünstigen und umweltfreundlichen Weise zu erzeugen, unter Berücksichtigung der sozialen, ökologischen, wirtschaftlichen und politischen Vorgaben.<br><br>Ein Agrarwirt der bekannten agrarwirtschaftlichen Universität EARTH, der sich auf die Verwaltung und Nutzung natürlicher Ressourcen spezialisiert hat, wird die Volontäre durch ihr Volontariat begleiten.<br>Nachhaltige Projekte, bei denen Freiwillige Wissen vermittelt wird:<br>Woche eins und zwei: Abfall ist kein Problem sondern bei richtiger Handhabung die Möglichkeit eine neue nutzbare Ressource herzustellen.<br>• Die Biogasanlage als Ressourcenhersteller<br>Auf der Lodge haben wir eine Kläranlage, die wir als produktives System nutzen. Durch die Zuführung aller organischen Abfälle wie Seife, Lebensmittel und Fette (tierische und pflanzliche Fette) wird die Verschmutzung durch physikalische Verfahren verringert (Filter, Sedimentation und Fest-Trennung) und durch biologische Verfahren (Mikroorganismus Aktivitäten) produzieren wir Methan, das für das Kochen, die Wassererwärmung und demnächst zur Stromherstellung genutzt wird. Weiterhin wird natürliches Düngemittel hergestellt und zur gleichen Zeit, reduzieren wir 98% der Wasserverschmutzung.<br>Durch dieses vorbildliche System können in ländlichen Gemeinden wo manchmal Strom nicht zur Verfügung steht, und man teures Propangas oder teure chemische Düngung für die Acker kaufen muss eine kostengünstige, effiziente und nachhaltige Lösung zur Verfügung gestellt.<br>Woche drei: Arbeiten auf der Bio-Farm<br>• Arbeiten in der hoteleigenen Biofarm",
+      "description": "Projekt des nachhaltigen Tourismus in einer nachhaltigen Lodge.<br><br>An den Hängen des Rincon de la Vieja Vulkan und in der Mitte von fünf Nationalparks (Rincón de la Vieja, Santa Rosa, Guanacaste, Santa Elena und El Acha) finden Sie unsere Lodge, die versucht eine autarke organische touristische Unterkunft zu werden , die nachhaltigen Tourismus betreibt und sich zum Ziel gemacht hat die natürlichen Ressourcen so gut wie möglich zu schützen.<br>Ziel unseres Volontär Programm oder Praktikums. Ziel unseres Volonteur Programms ist Bildungsarbeit im Umweltschutz. Der Schwerpunkt dieser Bildungsarbeit konzentriert sich auf die Erlernung einer verantwortungsvollen und nachhaltigen Nutzung der natürlichen Ressourcen durch praktische Tätigkeiten mit dem Ziel dieses Wissen als Multiplikator an andere Menschen weiterzugeben. Unsere Philosophie ist es, die meisten der grundlegenden Produkte, die wir verbrauchen, in einer kostengünstigen und umweltfreundlichen Weise zu erzeugen, unter Berücksichtigung der sozialen, ökologischen, wirtschaftlichen und politischen Vorgaben.<br>Ein Agrarwirt der bekannten agrarwirtschaftlichen Universität EARTH, der sich auf die Verwaltung und Nutzung natürlicher Ressourcen spezialisiert hat, wird die Volontäre durch ihr Volontariat begleiten.Nachhaltige Projekte, bei denen Freiwillige Wissen vermittelt wird:<br>Woche eins und zwei: Abfall ist kein Problem sondern bei richtiger Handhabung die Möglichkeit eine neue nutzbare Ressource herzustellen.• Die Biogasanlage als Ressourcenhersteller<br>Auf der Lodge haben wir eine Kläranlage, die wir als produktives System nutzen. Durch die Zuführung aller organischen Abfälle wie Seife, Lebensmittel und Fette (tierische und pflanzliche Fette) wird die Verschmutzung durch physikalische Verfahren verringert (Filter, Sedimentation und Fest-Trennung) und durch biologische Verfahren (Mikroorganismus Aktivitäten) produzieren wir Methan, das für das Kochen, die Wassererwärmung und demnächst zur Stromherstellung genutzt wird. Weiterhin wird natürliches Düngemittel hergestellt und zur gleichen Zeit, reduzieren wir 98% der Wasserverschmutzung.Durch dieses vorbildliche System können in ländlichen Gemeinden wo manchmal Strom nicht zur Verfügung steht, und man teures Propangas oder teure chemische Düngung für die Acker kaufen muss eine kostengünstige, effiziente und nachhaltige Lösung zur Verfügung gestellt.Woche drei: Arbeiten auf der Bio-Farm • Arbeiten in der hoteleigenen Biofarm<br>Kosten pro Woche 250 € (Unterkunft)",
       "carrier": {
         "latitude": 51.75091934204102,
         "longitude": 14.64650440216064,
         "name": "(F.A.W.N.) Deutschland e.V.",
-        "street": "Schützenstraße 72",
+        "street": "Stettiner Straße 82",
         "city": "Forst/Lausitz",
         "zip": "03149",
         "country": "Deutschland",
@@ -1163,9 +1163,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Mieke Lang",
-        "phone": "+49 (0) 1577-2623892",
-        "email": "35cf26b928911025f709386a86d547f41231e5fb4352c0e2f069e64ac5b4113e@betterplace.jp",
+        "name": "Sila Kaiser",
+        "phone": "+49 (0)3562 6977800",
+        "email": "4308e79fa07acfd5292dbfe9598d64b5a7675be89f6d3b18d93c3bafd4cdcd0f@betterplace.jp",
         "picture": {
           "links": [
             {
@@ -1253,7 +1253,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     {
       "id": 7259,
       "created_at": "2013-03-08T11:45:28+01:00",
-      "updated_at": "2018-03-25T09:38:05+02:00",
+      "updated_at": "2018-08-29T08:05:36+02:00",
       "latitude": 44.62649917602539,
       "longitude": -85.78849792480469,
       "street": null,
@@ -1267,7 +1267,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         "latitude": 44.62649917602539,
         "longitude": -85.78849792480469,
         "name": "Ndibwami Integrated Rescue Project",
-        "street": "Weiherstraße 189",
+        "street": "Lindenweg 29",
         "city": "Kamapala",
         "zip": "256",
         "country": "Uganda",
@@ -1329,9 +1329,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Mirco / Mirko Becker",
+        "name": "Edwin Williams",
         "phone": "+256773779423",
-        "email": "0377c7cc8c91b8c36bbf246efb0407757c8d67dd32ecb30d83d53a6f5b434ce5@betterplace.jp",
+        "email": "9cdb8c799cedc9c91848df4d2f7669f5183cb14d55739c770ff93205fbaaf85c@betterplace.jp",
         "picture": {
           "links": [
             {
@@ -1418,10 +1418,10 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     {
       "id": 7268,
       "created_at": "2013-03-11T18:00:54+01:00",
-      "updated_at": "2017-11-14T15:02:11+01:00",
+      "updated_at": "2018-04-17T12:43:37+02:00",
       "latitude": 52.52,
       "longitude": 13.405,
-      "street": "Rathausplatz 190",
+      "street": "Kirchenweg 185",
       "zip": "",
       "city": "Berlin",
       "country": "Deutschland",
@@ -1432,7 +1432,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         "latitude": 52.46874,
         "longitude": 13.4341,
         "name": "Bürgerstiftung Neukölln",
-        "street": "Forstweg 178",
+        "street": "Ringstraße 11",
         "city": "Berlin",
         "zip": "12051",
         "country": "Deutschland",
@@ -1494,9 +1494,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Ethan Mack",
+        "name": "Alfred Schneider",
         "phone": "030 627 380 14",
-        "email": "69f299ebba594473ab94e155ba5fdad23f7137af6e0fb3ffb568c65f9552f9ad@betterplace.jp",
+        "email": "1f9671357107c534755301584aa343de447c8badde8cfd715147e92d7e02f330@betterplace.jp",
         "picture": {
           "links": [
             {

@@ -1,7 +1,7 @@
 
 # Matching Funds List ⇄ [Details](matching_fund_details.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/matching_funds.json?facets=state%3Aactivated
 ```
 

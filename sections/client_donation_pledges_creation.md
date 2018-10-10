@@ -1,7 +1,7 @@
 
 # Creating a Client Donation Pledge ⇄ [Status](client_donation_pledge_status.md)
 
-```Rebol
+```Cirru
 POST https://api.betterplace.org/de/api_v4/clients/volksfreund/projects/1114/donation_pledges.json
 ```
 

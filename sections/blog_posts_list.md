@@ -1,7 +1,7 @@
 
 # Project Blog Posts List ⇄ [Details](blog_post_details.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/projects/1114/blog_posts.json
 ```
 
@@ -324,9 +324,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "total_entries": 92,
+  "total_entries": 94,
   "offset": 0,
-  "total_pages": 46,
+  "total_pages": 47,
   "current_page": 1,
   "per_page": 2,
   "data": [
@@ -355,22 +355,22 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       ]
     },
     {
-      "id": 82052,
-      "created_at": "2013-04-23T16:32:03+02:00",
-      "updated_at": "2013-04-23T16:32:03+02:00",
-      "lang": "en",
+      "id": 95557,
+      "created_at": "2014-03-31T17:16:38+02:00",
+      "updated_at": "2017-03-17T13:10:07+01:00",
+      "lang": "de",
       "type": "BlogPost",
-      "title": "Congratulations to our Back to School Class!",
-      "body": "<p>Skateistan is proud to announce the success of our 2012/2013 Back to School (BTS) students in Kabul. After one year of studying at Skateistan, this year 38 students have successfully passed their tests and joined Afghan public school last month, including 50% girls. None of the BTS students had previously attended public school.</p><br><p>We celebrated their success last week by inviting their families to Skateistan and having a party for them. They were all very happy about being enrolled in public schools and having the chance to go to schools with other children their own age.</p><br><p>All of the students have been enrolled into Grade 4 after passing the government entry tests, except one of the youngest students, who will enter Grade 3. Amazingly, eight-year-old Kareshma exceeded all expectations and successfully enrolled in the 4th grade, usually meant for nine-year-olds!</p><br><p><strong>Graudation ceremony</strong></p><br><p>At the award ceremony the parents expressed their gratitude that their children had the opportunity to learn at Skateistan, which they see as a place where their children can come to have fun and learn many new things.</p><br><p>“We have seen changes in the faces of our children, all of their behaviours have changed,” says one of the BTS students’ mothers. The students and their families all live in the same camp for Internally Displaced Persons.</p><br><p>At the graduation ceremony the BTS children were incredibly excited about the new horizons that awaited them at school. Many of the graduates were eager to see what big schools were like and meet many more children from different parts of Kabul.</p><br><p>Reflecting on her year teaching the Back To School students, Skateistan’s Education Coordinator Treena expressed the importance of school and places like Skateistan for building a better future for Afghan children, in particularly the girls.</p><br><p>“All the girls who passed, passed into the 4th grade. They are all so intelligent and all of their results were so good,” says Treena, Skateistan’s 2012/2013 Back to School teacher.</p><br><p> </p><br><p><strong>New Frontiers</strong></p><br><p>After the students had settled into their new schools Fatima, Skateistan’s Student Support Officer, went to see how the children were doing. Speaking to Amina, who obtained the 2nd highest result in the BTS exams, Fatima found out how proud the students were of their Skateistan education.</p><br><p>“When I got to my class no one was more intelligent than me. They [the other students] even chose me to be the leader of the class!” says 12-year-old Amina.</p><br><p>Having graduated from Skateistan the students have a long way ahead of them: they’ll need to maintain the motivation and desire to learn that they have developed over the last year, and remember education is the gateway to their future.</p><br><p>“They can now go on to learn more. They can become doctors, go to university and lots more,” says their very proud teacher Treena.</p><br><p><em>Thank you students for making your parents and Skateistan so proud about your success!</em></p>",
+      "title": "Für diese Bedarfe habe ich eine (Teil-)Auszahlung veranlasst:",
+      "body": "<p>A big thank you to everyone who has donated to Skateistan!</p><br><p>All donations to Skateistan are very gratefully received and are used<br> to further our work at our projects sites. We currently have projects <br>in Afghanistan and Cambodia, with plans to expand sustainably. For more <br>information about Skateistan, or to see more ways in which your donation<br> is put to good use, please visit: <a href=\"http://www.skateistan.org\"></a><a href=\"http://www.skateistan.org\">http://www.skateistan.org</a></p><br><br><p><strong>Es wurden 805,60 € Spendengelder für folgende Bedarfe beantragt:</strong></p><ul>\n<li>Clean Water for the Skateparks in Kabul and MeS 65,60 €</li>\n<li>Kabul Skatepark Food 740,00 €</li>\n</ul>",
       "author": null,
       "links": [
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/blog_posts/82052.json"
+          "href": "https://api.betterplace.org/de/api_v4/blog_posts/95557.json"
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan/news/82052"
+          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan/news/95557"
         },
         {
           "rel": "documentation",

@@ -1,7 +1,7 @@
 
 # Project Blog Post Details ⇄ [List](blog_posts_list.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/projects/1114/blog_posts/88972.json
 ```
 

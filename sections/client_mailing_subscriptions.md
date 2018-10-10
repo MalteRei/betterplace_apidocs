@@ -1,7 +1,7 @@
 
 # Client Mailing Subscriptions
 
-```Rebol
+```Cirru
 POST https://api.betterplace.org/de/api_v4/clients/volksfreund/projects/4425/mailing_subscriptions.json
 ```
 

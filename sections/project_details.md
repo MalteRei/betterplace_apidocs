@@ -1,7 +1,7 @@
 
 # Project Details ⇄ [List](projects_list.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/projects/1114.json
 ```
 
@@ -832,7 +832,7 @@ opinions
 </th>
 <td>
 
-Link to <a href="opinions_list.md">opinions list</a>
+Link to <a href="opinions_list.md">donations/opinions list</a>
 
 
 </td>
@@ -1183,10 +1183,10 @@ information for the donors.
 {
   "id": 1114,
   "created_at": "2009-03-10T11:12:16+01:00",
-  "updated_at": "2018-03-29T00:04:49+02:00",
+  "updated_at": "2018-10-05T15:25:11+02:00",
   "latitude": 34.531617284782,
   "longitude": 69.13581752939456,
-  "street": "Siedlung 134",
+  "street": "Im Winkel 65",
   "zip": "",
   "city": "Kabul",
   "country": "Afghanistan",
@@ -1199,30 +1199,29 @@ information for the donors.
   "donations_prohibited": false,
   "completed_at": null,
   "closed_at": null,
-  "open_amount_in_cents": 815617,
-  "donated_amount_in_cents": 5748235,
-  "positive_opinions_count": 779,
+  "open_amount_in_cents": 781851,
+  "donated_amount_in_cents": 5782001,
+  "positive_opinions_count": 790,
   "negative_opinions_count": 0,
-  "donations_count": 779,
+  "donations_count": 790,
   "comments_count": 0,
-  "donor_count": 574,
-  "progress_percentage": 87,
+  "donor_count": 577,
+  "progress_percentage": 88,
   "incomplete_need_count": 4,
   "completed_need_count": 93,
-  "blog_post_count": 92,
+  "blog_post_count": 94,
   "contact": {
     "id": 287126,
-    "name": "A. Wolff",
+    "name": "Hanka P.",
     "picture": {
-      "fallback": true,
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1523439147_Skateistan_facebook-02.png"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1523439147_Skateistan_facebook-02.png"
         }
       ]
     },
@@ -1244,11 +1243,11 @@ information for the donors.
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_original_betterplace-logo.png"
+          "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_bp1523439289_Skateistan_facebook-01.png"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_original_betterplace-logo.png"
+          "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_bp1523439289_Skateistan_facebook-01.png"
         }
       ]
     },

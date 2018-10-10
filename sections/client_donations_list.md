@@ -1,7 +1,7 @@
 
 # Client Donations List ⇄ [Details](client_donation_details.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations.json?facets=client_reference%3A922ec9b-etc
 ```
 
@@ -226,16 +226,16 @@ Link to the donor contact data
 
 ```json
 {
-  "total_entries": 18434,
+  "total_entries": 18640,
   "offset": 0,
-  "total_pages": 6145,
+  "total_pages": 6214,
   "current_page": 1,
   "per_page": 3,
   "data": [
     {
       "amount_in_cents": 200,
       "state": "confirmed",
-      "token": "540b9325884a2a7dc51c",
+      "token": "d3d9558c624270919490",
       "client_reference": null,
       "created_at": "2011-12-13T13:48:15+01:00",
       "receiver_type": "FundraisingEvent",
@@ -248,18 +248,18 @@ Link to the donor contact data
         },
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/540b9325884a2a7dc51c.json"
+          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/d3d9558c624270919490.json"
         },
         {
           "rel": "donor_contact_data",
-          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/540b9325884a2a7dc51c/donor_contact_data.json"
+          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/d3d9558c624270919490/donor_contact_data.json"
         }
       ]
     },
     {
       "amount_in_cents": 100,
       "state": "confirmed",
-      "token": "563b46eb4213d52454be",
+      "token": "8e8735abc0d2fd13fc9e",
       "client_reference": null,
       "created_at": "2012-05-23T16:41:06+02:00",
       "receiver_type": "FundraisingEvent",
@@ -272,18 +272,18 @@ Link to the donor contact data
         },
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/563b46eb4213d52454be.json"
+          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/8e8735abc0d2fd13fc9e.json"
         },
         {
           "rel": "donor_contact_data",
-          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/563b46eb4213d52454be/donor_contact_data.json"
+          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/8e8735abc0d2fd13fc9e/donor_contact_data.json"
         }
       ]
     },
     {
       "amount_in_cents": 1000,
       "state": "confirmed",
-      "token": "bde16185aac7ac946b58",
+      "token": "b3aa6745147583926ae3",
       "client_reference": null,
       "created_at": "2012-06-12T16:53:03+02:00",
       "receiver_type": "FundraisingEvent",
@@ -296,11 +296,11 @@ Link to the donor contact data
         },
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/bde16185aac7ac946b58.json"
+          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/b3aa6745147583926ae3.json"
         },
         {
           "rel": "donor_contact_data",
-          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/bde16185aac7ac946b58/donor_contact_data.json"
+          "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/b3aa6745147583926ae3/donor_contact_data.json"
         }
       ]
     }

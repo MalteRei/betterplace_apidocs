@@ -1,7 +1,7 @@
 
 # Client Forwarding Request Status ⇄ [Creation](client_forwarding_requests_list.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/clients/some_client/forwarding_requests/1337.json
 ```
 
@@ -221,7 +221,7 @@ Link to the related donation
   "links": [
     {
       "rel": "donation",
-      "href": "https://api.betterplace.org/de/api_v4/clients/particulate-sww/client_donations/edeb98b755309e39dc17.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/particulate-sww/client_donations/d8f182cc7b6a8fb89c5f.json"
     }
   ]
 }

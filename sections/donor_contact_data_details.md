@@ -1,7 +1,7 @@
 
 # Donor Contact Data Details
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/V9mxWWAeuVK9PtJw9mrZRyRk/donor_contact_data.json
 ```
 

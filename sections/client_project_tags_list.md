@@ -1,7 +1,7 @@
 
 # Client-project tags list
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/clients/volksfreund/projects/4425/tags.json?order=projects_count%3ADESC
 ```
 
@@ -145,7 +145,7 @@ Link to the <a href="client_tag_projects_list.md">client-tag projects list</a> â
   "data": [
     {
       "tag": "Trier",
-      "projects_count": 31,
+      "projects_count": 28,
       "links": [
         {
           "rel": "projects",
@@ -155,7 +155,7 @@ Link to the <a href="client_tag_projects_list.md">client-tag projects list</a> â
     },
     {
       "tag": "KinderJugendliche",
-      "projects_count": 45,
+      "projects_count": 39,
       "links": [
         {
           "rel": "projects",

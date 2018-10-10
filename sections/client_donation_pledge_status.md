@@ -1,7 +1,7 @@
 
 # Client Donation Pledges Status ⇄ [Creation](client_donation_pledges_creation.md)
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/clients/devk/donation_pledges/1170.json
 ```
 
@@ -226,7 +226,7 @@ Link to the related donation
   "links": [
     {
       "rel": "donation",
-      "href": "https://api.betterplace.org/de/api_v4/clients/natehelps/client_donations/4b9b5d2b6e38f8102acb.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/natehelps/client_donations/6f7a24f7eb18d92cff92.json"
     }
   ]
 }

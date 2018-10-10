@@ -1,7 +1,7 @@
 
 # User Contact Data Details
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/users/250285/contact_data.json
 ```
 
@@ -96,8 +96,8 @@ The email address of the user or donor.
 
 ```json
 {
-  "first_name": "Kiana",
-  "last_name": "Aydın",
+  "first_name": "آمنة",
+  "last_name": "Neumann",
   "email": "mjo@betterplace.org",
   "links": [
 

@@ -1,7 +1,7 @@
 
 # Fundraising Event Forwardings List
 
-```Rebol
+```Cirru
 GET https://api.betterplace.org/de/api_v4/fundraising_events/19267/forwardings.json
 ```
 
