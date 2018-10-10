@@ -112,31 +112,31 @@ DateTime (ISO8601 with Timezone)
     </tr>
     <tr>
       <th align="left">amount_in_cents</th>
-      <td><code></code></td>
-      <td><code>TODO</code></td>
+      <td><code>number</code></td>
+      <td><code>666</code></td>
 <td>
 
-TODO
+Suggested amount to donate in cents
 
 </td>
     </tr>
     <tr>
       <th align="left">title</th>
-      <td><code></code></td>
-      <td><code>TODO</code></td>
+      <td><code>string</code></td>
+      <td><code>Little cheetah kittens need your help</code></td>
 <td>
 
-TODO
+Title of the illustration
 
 </td>
     </tr>
     <tr>
       <th align="left">description</th>
-      <td><code></code></td>
-      <td><code>TODO</code></td>
+      <td><code>string</code></td>
+      <td><code>They really do…</code></td>
 <td>
 
-TODO
+More detailed description of the illustration
 
 </td>
     </tr>
@@ -147,7 +147,7 @@ TODO
           </a>
         </th>
       <td><code>null &#124; object</code></td>
-      <td><code></code></td>
+      <td><code>HALLO</code></td>
 <td>
 
 TODO
@@ -195,7 +195,6 @@ new_donation
 
 Link to where a new donation can be made
 
-
 </td>
     </tr>
     <tr>
@@ -220,7 +219,7 @@ picture.fill_410x214
 </th>
 <td>
 
-410×214 Pixel
+Illustration picturw with 410×214 Pixel
 
 </td>
     </tr>
