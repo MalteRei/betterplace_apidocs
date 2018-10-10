@@ -226,13 +226,64 @@ Illustration picturw with 410×214 Pixel
 
 ```json
 {
-  "total_entries": 0,
+  "total_entries": 2,
   "offset": 0,
-  "total_pages": 0,
+  "total_pages": 1,
   "current_page": 1,
   "per_page": 3,
   "data": [
-
+    {
+      "id": 1,
+      "created_at": "2018-08-28T13:49:16+02:00",
+      "updated_at": "2018-08-28T13:52:55+02:00",
+      "amount_in_cents": 2000,
+      "title": "Nahrung",
+      "description": "Bereits mit BETRAG können wir ein Kind in Syrien einen Monat lang mit Nahrung unterstützen.",
+      "picture": {
+        "links": [
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/001/fill_410x214_bp1535457175_Syrien-nothilfe-kinder-familien_007_171103_.jpg"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "new_donation",
+          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=20"
+        },
+        {
+          "rel": "project",
+          "href": "https://api.betterplace.org/de/api_v4/projects/10377.json"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "created_at": "2018-08-28T13:55:58+02:00",
+      "updated_at": "2018-08-28T13:56:35+02:00",
+      "amount_in_cents": 10000,
+      "title": "Wasser-Pumpen",
+      "description": "Bereits mit BETRAG können wir mehrere Familien mit Trinkwasser versorgen und verbessern die hygienischen Bedingungen  entscheidend. ",
+      "picture": {
+        "links": [
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/002/fill_410x214_bp1535457395_Syrien-nothilfe-verteilung-kinder_002_171112.jpg"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "new_donation",
+          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=100"
+        },
+        {
+          "rel": "project",
+          "href": "https://api.betterplace.org/de/api_v4/projects/10377.json"
+        }
+      ]
+    }
   ]
 }
 ```
