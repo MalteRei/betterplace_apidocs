@@ -2,7 +2,7 @@
 # Illustrations List
 
 ```Cirru
-GET https://api.betterplace.org/de/api_v4/illustrations.json?facets=project_id%3A1114&order=amount_in_cents%3Adesc
+GET https://api.betterplace.org/de/api_v4/illustrations.json?facets=project_id%3A10377&order=amount_in_cents%3Adesc
 ```
 
 A list of betterplace.org project illustrations.
@@ -20,7 +20,7 @@ Results are contained in a *data* attribute.
   </tr>
   <tr>
     <th align="left">facets</th>
-    <td><code>project_id:1114</code></td>
+    <td><code>project_id:10377</code></td>
     <td>no</td>
 <td>
 
@@ -33,7 +33,7 @@ only shows active projects that can receive donations.
 <br>
 <em>Supported filters are:</em>
 <ul>
-<li><code>project_id:1114/false</code>
+<li><code>project_id:10377/false</code>
 </ul>
 It is possible to set multiple facet filters.
 <a href="../README.md#request-parameter-format">Learn how to format the parameter</a>.
@@ -229,90 +229,13 @@ Illustration picturw with 410×214 Pixel
 
 ```json
 {
-  "total_entries": 62,
+  "total_entries": 0,
   "offset": 0,
-  "total_pages": 21,
+  "total_pages": 0,
   "current_page": 1,
   "per_page": 3,
   "data": [
-    {
-      "id": 1,
-      "created_at": "2018-08-28T13:49:16+02:00",
-      "updated_at": "2018-08-28T13:52:55+02:00",
-      "amount_in_cents": 2000,
-      "title": "Nahrung",
-      "description": "Bereits mit BETRAG können wir ein Kind in Syrien einen Monat lang mit Nahrung unterstützen.",
-      "picture": {
-        "links": [
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/001/fill_410x214_bp1535457175_Syrien-nothilfe-kinder-familien_007_171103_.jpg"
-          }
-        ]
-      },
-      "links": [
-        {
-          "rel": "new_donation",
-          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=20"
-        },
-        {
-          "rel": "project",
-          "href": "https://api.betterplace.org/de/api_v4/projects/10377.json"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "created_at": "2018-08-28T13:55:58+02:00",
-      "updated_at": "2018-08-28T13:56:35+02:00",
-      "amount_in_cents": 10000,
-      "title": "Wasser-Pumpen",
-      "description": "Bereits mit BETRAG können wir mehrere Familien mit Trinkwasser versorgen und verbessern die hygienischen Bedingungen  entscheidend. ",
-      "picture": {
-        "links": [
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/002/fill_410x214_bp1535457395_Syrien-nothilfe-verteilung-kinder_002_171112.jpg"
-          }
-        ]
-      },
-      "links": [
-        {
-          "rel": "new_donation",
-          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=100"
-        },
-        {
-          "rel": "project",
-          "href": "https://api.betterplace.org/de/api_v4/projects/10377.json"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "created_at": "2018-08-29T10:18:08+02:00",
-      "updated_at": "2018-08-29T10:21:07+02:00",
-      "amount_in_cents": 6200,
-      "title": "Spezialnahrung für ein schwer unterernährtes Kind",
-      "description": "Mit BETRAG kann ein schwer unterernährtes Kleinkind sechs Wochen lang mit therapeutischer Spezialnahrung versorgt werden.",
-      "picture": {
-        "links": [
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/003/fill_410x214_bp1535530867_Spezialnahrung2_betterplace.jpg"
-          }
-        ]
-      },
-      "links": [
-        {
-          "rel": "new_donation",
-          "href": "https://api.betterplace.org/de/projects/57620-medizinische-nothilfe-im-jemen/donations/new?donation_amount=62"
-        },
-        {
-          "rel": "project",
-          "href": "https://api.betterplace.org/de/api_v4/projects/57620.json"
-        }
-      ]
-    }
+
   ]
 }
 ```
