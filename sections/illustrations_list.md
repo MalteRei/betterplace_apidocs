@@ -27,13 +27,10 @@ Results are contained in a *data* attribute.
 Filter the result set.
 <br>
 It is strongly recommended to <strong>specify facets</strong> with each request.
-A recommended set of facets is <code>tax_deductible:true| completed:false|
-closed:false| prohibit_donations:false</code> (without the spaces) which
-only shows active projects that can receive donations.
 <br>
 <em>Supported filters are:</em>
 <ul>
-<li><code>project_id:10377/false</code>
+<li><code>project_id:10377</code>
 </ul>
 It is possible to set multiple facet filters.
 <a href="../README.md#request-parameter-format">Learn how to format the parameter</a>.
