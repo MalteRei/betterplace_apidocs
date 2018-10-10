@@ -144,7 +144,7 @@ More detailed description of the illustration
           </a>
         </th>
       <td><code>null &#124; object</code></td>
-      <td><code>See below</code></td>
+      <td><code>See below.</code></td>
 <td>
 
 Picture to be displayed in the illustration
