@@ -214,26 +214,26 @@ Link to the donor contact data
 
 ```json
 {
-  "amount_in_cents": 100,
+  "amount_in_cents": 1000,
   "state": "confirmed",
-  "token": "d0d35e347873169aec71",
-  "client_reference": "",
-  "created_at": "2014-05-06T22:22:02+02:00",
+  "token": "eb73e7e205c4008d2da2",
+  "client_reference": null,
+  "created_at": "2010-10-28T14:44:49+02:00",
   "receiver_type": "Project",
-  "receiver_id": 18417,
-  "receiver_title": "Mobiler Kinder- und Jugendtreff",
+  "receiver_id": 4807,
+  "receiver_title": "Kleinbus für den Palais e.V. Trier",
   "links": [
     {
       "rel": "receiver",
-      "href": "https://api.betterplace.org/de/api_v4/projects/18417.json"
+      "href": "https://api.betterplace.org/de/api_v4/projects/4807.json"
     },
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/d0d35e347873169aec71.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/eb73e7e205c4008d2da2.json"
     },
     {
       "rel": "donor_contact_data",
-      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/d0d35e347873169aec71/donor_contact_data.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/eb73e7e205c4008d2da2/donor_contact_data.json"
     }
   ]
 }
