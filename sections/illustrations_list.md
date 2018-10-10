@@ -216,7 +216,7 @@ picture.fill_410x214
 </th>
 <td>
 
-Illustration picturw with 410×214 Pixel
+Illustration picture with 410×214 Pixel
 
 </td>
     </tr>
