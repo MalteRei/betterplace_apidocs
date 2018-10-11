@@ -65,6 +65,8 @@ about updates and scheduled downtimes.
 1. **MatchingFunds**
     1. [**MatchingFunds** List](sections/matching_funds_list.md)
     1. [**MatchingFund** Details](sections/matching_fund_details.md)
+1. **Illustrations**
+    1. [**Illustrations** List](sections/illustrations_list.md)
 
 ### **Client API**
 

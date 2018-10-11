@@ -250,7 +250,7 @@ Illustration picture with 410×214 Pixel
       "links": [
         {
           "rel": "new_donation",
-          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=100"
+          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=100&donation_illustration_id=2"
         },
         {
           "rel": "project",
@@ -276,7 +276,7 @@ Illustration picture with 410×214 Pixel
       "links": [
         {
           "rel": "new_donation",
-          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=20"
+          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=20&donation_illustration_id=1"
         },
         {
           "rel": "project",
