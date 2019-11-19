@@ -277,7 +277,7 @@ DateTime (ISO8601 with Timezone)
       <td><code>TODO</code></td>
 <td>
 
-Max 100 character unless the volunteering is imported
+Max 100 character
 
 </td>
     </tr>
@@ -447,20 +447,16 @@ Possible results: "consulting/coaching", "crafting/gardening", "doing sports",
     <tr>
       <th align="left">imported_from</th>
       <td><code>null &#124; string</code></td>
-      <td><code>aktion_mensch</code></td>
+      <td><code>somewhere</code></td>
 <td>
 
-Betterplace imports volunteering offers from Aktions Mensch.
+Where Betterplace imports volunteering from.
 
 </td>
     </tr>
     <tr>
-        <th align="left" style="white-space: nowrap">
-          <a id="import_information-ref" href="#import_information">
-            ↓import_information
-          </a>
-        </th>
-      <td><code>null &#124; object</code></td>
+      <th align="left">import_information</th>
+      <td><code></code></td>
       <td><code>TODO</code></td>
 <td>
 
@@ -639,8 +635,6 @@ Image description
 <td>
 
 Fullname of the contact person.
-For imported volunteering offers, this is the
-contact-name that is provided on import.
 
 
 </td>
@@ -700,73 +694,6 @@ User profile picture or a fallback image
 <td>
 
 Specifies whether a fallback image is given or not
-
-</td>
-    </tr>
-  </table>
-
-### <a id="import_information" href="#import_information-ref">↑Nested Attributes: import_information</a>
-
-  <table>
-    <tr>
-      <th>Attribute</th>
-      <th>Types</th>
-      <th>Example</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <th align="left">import_information.created_at</th>
-      <td><code>null &#124; string</code></td>
-      <td><code>"1994-11-05T13:15:30Z"</code></td>
-<td>
-
-DateTime (ISO8601 with Timezone) when the imported record was actually created.
-
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.updated_at</th>
-      <td><code>null &#124; string</code></td>
-      <td><code>"1994-11-05T13:15:30Z"</code></td>
-<td>
-
-DateTime (ISO8601 with Timezone) when the imported record was
-actually updated last.
-
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.import_type</th>
-      <td><code>string</code></td>
-      <td><code>"Import::ImportFormat"</code></td>
-<td>
-
-Type of import this record originated from.
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.import_id</th>
-      <td><code>string</code></td>
-      <td><code>"foo:23"</code></td>
-<td>
-
-Unique identifier for this imported record.
-
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.imported_at</th>
-      <td><code>string</code></td>
-      <td><code>"1994-11-15T13:15:30Z"</code></td>
-<td>
-
-DateTime (ISO8601 with Timezone) when the record was imported at
-betterplace.
-
 
 </td>
     </tr>
@@ -1078,182 +1005,16 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "total_entries": 10105,
+  "total_entries": 722,
   "offset": 3,
-  "total_pages": 3369,
+  "total_pages": 241,
   "current_page": 2,
   "per_page": 3,
   "data": [
     {
-      "id": 7074,
-      "created_at": "2013-03-03T19:43:47+01:00",
-      "updated_at": "2018-08-11T19:32:25+02:00",
-      "latitude": 10.6346,
-      "longitude": -85.4407,
-      "street": "An der Kirche 181",
-      "zip": "1000",
-      "city": "Liberia",
-      "country": "Costa Rica",
-      "content_updated_at": "2018-04-27T14:32:25+02:00",
-      "title": "Projekt des nachhaltigen Tourismus in Costa Rica",
-      "description": "Projekt des nachhaltigen Tourismus in einer nachhaltigen Lodge.<br><br>An den Hängen des Rincon de la Vieja Vulkan und in der Mitte von fünf Nationalparks (Rincón de la Vieja, Santa Rosa, Guanacaste, Santa Elena und El Acha) finden Sie unsere Lodge, die versucht eine autarke organische touristische Unterkunft zu werden , die nachhaltigen Tourismus betreibt und sich zum Ziel gemacht hat die natürlichen Ressourcen so gut wie möglich zu schützen.<br>Ziel unseres Volontär Programm oder Praktikums. Ziel unseres Volonteur Programms ist Bildungsarbeit im Umweltschutz. Der Schwerpunkt dieser Bildungsarbeit konzentriert sich auf die Erlernung einer verantwortungsvollen und nachhaltigen Nutzung der natürlichen Ressourcen durch praktische Tätigkeiten mit dem Ziel dieses Wissen als Multiplikator an andere Menschen weiterzugeben. Unsere Philosophie ist es, die meisten der grundlegenden Produkte, die wir verbrauchen, in einer kostengünstigen und umweltfreundlichen Weise zu erzeugen, unter Berücksichtigung der sozialen, ökologischen, wirtschaftlichen und politischen Vorgaben.<br>Ein Agrarwirt der bekannten agrarwirtschaftlichen Universität EARTH, der sich auf die Verwaltung und Nutzung natürlicher Ressourcen spezialisiert hat, wird die Volontäre durch ihr Volontariat begleiten.Nachhaltige Projekte, bei denen Freiwillige Wissen vermittelt wird:<br>Woche eins und zwei: Abfall ist kein Problem sondern bei richtiger Handhabung die Möglichkeit eine neue nutzbare Ressource herzustellen.• Die Biogasanlage als Ressourcenhersteller<br>Auf der Lodge haben wir eine Kläranlage, die wir als produktives System nutzen. Durch die Zuführung aller organischen Abfälle wie Seife, Lebensmittel und Fette (tierische und pflanzliche Fette) wird die Verschmutzung durch physikalische Verfahren verringert (Filter, Sedimentation und Fest-Trennung) und durch biologische Verfahren (Mikroorganismus Aktivitäten) produzieren wir Methan, das für das Kochen, die Wassererwärmung und demnächst zur Stromherstellung genutzt wird. Weiterhin wird natürliches Düngemittel hergestellt und zur gleichen Zeit, reduzieren wir 98% der Wasserverschmutzung.Durch dieses vorbildliche System können in ländlichen Gemeinden wo manchmal Strom nicht zur Verfügung steht, und man teures Propangas oder teure chemische Düngung für die Acker kaufen muss eine kostengünstige, effiziente und nachhaltige Lösung zur Verfügung gestellt.Woche drei: Arbeiten auf der Bio-Farm • Arbeiten in der hoteleigenen Biofarm<br>Kosten pro Woche 250 € (Unterkunft)",
-      "carrier": {
-        "latitude": 51.75091934204102,
-        "longitude": 14.64650440216064,
-        "name": "(F.A.W.N.) Deutschland e.V.",
-        "street": "Stettiner Straße 82",
-        "city": "Forst/Lausitz",
-        "zip": "03149",
-        "country": "Deutschland",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/002/089/fill_100x100_original_FAWNLogo2010neu.jpg"
-            },
-            {
-              "rel": "fill_200x200",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/002/089/fill_200x200_original_FAWNLogo2010neu.jpg"
-            },
-            {
-              "rel": "fill_400x400",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/002/089/fill_400x400_original_FAWNLogo2010neu.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/002/089/crop_original_original_FAWNLogo2010neu.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "self",
-            "href": "https://api.betterplace.org/de/api_v4/organisations/2089.json"
-          }
-        ]
-      },
-      "vacancies": 6,
-      "image": {
-        "description": "Blick vom Projekt auf Guanacaste bis zum Pazifik",
-        "links": [
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/fill_618x322_P1220394.JPG"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/fill_270x141_P1220394.JPG"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/P1220394.JPG"
-          },
-          {
-            "rel": "thumb",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/thumb_P1220394.JPG"
-          },
-          {
-            "rel": "medium",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/medium_P1220394.JPG"
-          },
-          {
-            "rel": "regular",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/regular_P1220394.JPG"
-          }
-        ]
-      },
-      "contact": {
-        "name": "Sila Kaiser",
-        "phone": "+49 (0)3562 6977800",
-        "email": "4308e79fa07acfd5292dbfe9598d64b5a7675be89f6d3b18d93c3bafd4cdcd0f@betterplace.jp",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/019/008/fill_100x100_original_Carara-Nationalpark.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/019/008/crop_original_original_Carara-Nationalpark.jpg"
-            }
-          ]
-        },
-        "links": [
-
-        ]
-      },
-      "location_fixed": true,
-      "working_time_selection": "egal wann / nach Vereinbarung",
-      "working_time_weekends": [
-
-      ],
-      "working_time_weekdays": [
-
-      ],
-      "begins_at": null,
-      "ends_at": null,
-      "topics": [
-        "Bildung",
-        "Entwicklungszusammenarbeit",
-        "Kultur, Freizeit & Sport",
-        "Tierschutz & Umwelt"
-      ],
-      "activities": [
-        "Gruppen betreuen",
-        "Büroarbeit",
-        "werken/gärtnern",
-        "organisieren/planen"
-      ],
-      "imported_from": null,
-      "import_information": null,
-      "profile_picture": {
-        "links": [
-          {
-            "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/fill_960x500_P1220394.JPG"
-          },
-          {
-            "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/fill_730x380_P1220394.JPG"
-          },
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/fill_618x322_P1220394.JPG"
-          },
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/fill_410x214_P1220394.JPG"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/fill_270x141_P1220394.JPG"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/074/crop_original_P1220394.JPG"
-          }
-        ]
-      },
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/volunteering/7074.json"
-        },
-        {
-          "rel": "platform",
-          "href": "https://www.betterplace.org/de/volunteering/7074-projekt-des-nachhaltigen-tourismus-in-costa-rica"
-        },
-        {
-          "rel": "inquiries",
-          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7074-projekt-des-nachhaltigen-tourismus-in-costa-rica/inquiries.json",
-          "templated": true
-        }
-      ]
-    },
-    {
       "id": 7259,
       "created_at": "2013-03-08T11:45:28+01:00",
-      "updated_at": "2018-08-29T08:05:36+02:00",
+      "updated_at": "2019-07-05T09:58:18+02:00",
       "latitude": 44.62649917602539,
       "longitude": -85.78849792480469,
       "street": null,
@@ -1267,7 +1028,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         "latitude": 44.62649917602539,
         "longitude": -85.78849792480469,
         "name": "Ndibwami Integrated Rescue Project",
-        "street": "Lindenweg 29",
+        "street": "Neuer Weg 99",
         "city": "Kamapala",
         "zip": "256",
         "country": "Uganda",
@@ -1329,9 +1090,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Edwin Williams",
+        "name": "Mia Winkler",
         "phone": "+256773779423",
-        "email": "9cdb8c799cedc9c91848df4d2f7669f5183cb14d55739c770ff93205fbaaf85c@betterplace.jp",
+        "email": "f5c8f3048dc5e77144b9736c699814912a136a141211531bc3b01910ebe2eda8@betterplace.jp",
         "picture": {
           "links": [
             {
@@ -1418,10 +1179,10 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     {
       "id": 7268,
       "created_at": "2013-03-11T18:00:54+01:00",
-      "updated_at": "2018-04-17T12:43:37+02:00",
+      "updated_at": "2019-08-05T12:07:53+02:00",
       "latitude": 52.52,
       "longitude": 13.405,
-      "street": "Kirchenweg 185",
+      "street": "An der Kirche 181",
       "zip": "",
       "city": "Berlin",
       "country": "Deutschland",
@@ -1432,7 +1193,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         "latitude": 52.46874,
         "longitude": 13.4341,
         "name": "Bürgerstiftung Neukölln",
-        "street": "Ringstraße 11",
+        "street": "Ulmenstraße 194",
         "city": "Berlin",
         "zip": "12051",
         "country": "Deutschland",
@@ -1494,9 +1255,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Alfred Schneider",
+        "name": "Shania Greiner",
         "phone": "030 627 380 14",
-        "email": "1f9671357107c534755301584aa343de447c8badde8cfd715147e92d7e02f330@betterplace.jp",
+        "email": "65338f11eb2510949961b808b8e3963f9d02515e1c8dcc6a5c6b40e7f1ee97d5@betterplace.jp",
         "picture": {
           "links": [
             {
@@ -1574,6 +1335,171 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         {
           "rel": "inquiries",
           "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7268-pate-oder-patin-werden-und-mit-einem-neukollner-kind-die-welt-neu-entdecken/inquiries.json",
+          "templated": true
+        }
+      ]
+    },
+    {
+      "id": 7386,
+      "created_at": "2013-03-16T18:13:20+01:00",
+      "updated_at": "2019-09-17T22:54:50+02:00",
+      "latitude": 5.60372,
+      "longitude": -0.186964,
+      "street": "Dorfplatz 174",
+      "zip": "",
+      "city": "Accra",
+      "country": "Ghana",
+      "content_updated_at": "2019-09-17T22:54:50+02:00",
+      "title": "We need your skills and your passion",
+      "description": "Volunteering is a great opportunity for students pursuing a teaching or career to gain hands-on experience or others in the profession to lend a hand with their expertise.  We are always looking for people with all types of skills to help us make a brighter life for children in Ghana. We have the following opportunities available:- <br><br>VOLUNTEER ONLINE <br><br>•\tVolunteer Services Coordinator<br>•\tOnline Volunteer Manager<br>•\tResearch of Potential Partners<br>•\tVolunteer Services Coordinator<br>•\tProject Proposal Writing<br><br>As a volunteer teacher in Ghana, you will receive assistance from the local school teachers with regards to lesson plans and teaching curriculum. You will receive a Teaching Guide book which gives you advice and to assist you in your daily work with the children. You will also receive a timetable displaying when each class and subject is taught throughout the week.<br><br>ON SITE<br><br>•\tArt, dance and theater teaching assistants<br>•\tVocational teaching assistants<br>•\tPhysical education teachers<br>•\tReading and writing teachers<br>•\tTeaching Assistant<br><br>Are you looking for a way to volunteer in an international project from your computer without traveling?  If yes, then, CSAG has an opportunity for you to get involved with CSAG by being an Ambassador in any of the following or under-listed areas. <br><br>•\tSchool Representative<br>•\tUniversity’s Representatives<br>•\tCountry Representative<br>•\tCommunity Representative<br>•\tChurch Representatives<br><br>BENEFIT OF VOLUNTEERING<br><br>•\tChild Survival Aid Ghana gives you an incredible opportunity to change the world. You will change the lives of vulnerable children in rural Ghana.  <br>•\tYou will receive a Certificate of appreciation from CSAG upon completion of task. <br>•\tWe will endorse you of any recommendation you will need  base on your volunteer commitment<br>•\tBy volunteering your time and talents, you will be part of something extraordinary: a movement to end poverty and illiteracy in Ghana.",
+      "carrier": {
+        "latitude": 5.6502799987793,
+        "longitude": -0.19098700582981,
+        "name": "Child Survival Aid Ghana",
+        "street": "Leipziger Straße 188",
+        "city": "Accra",
+        "zip": "233",
+        "country": "Ghana",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/fill_100x100_bp1555159740_logo_for_csag.jpg"
+            },
+            {
+              "rel": "fill_200x200",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/fill_200x200_bp1555159740_logo_for_csag.jpg"
+            },
+            {
+              "rel": "fill_400x400",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/fill_400x400_bp1555159740_logo_for_csag.jpg"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/crop_original_bp1555159740_logo_for_csag.jpg"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.betterplace.org/de/api_v4/organisations/4762.json"
+          }
+        ]
+      },
+      "vacancies": 10,
+      "image": {
+        "description": "",
+        "links": [
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_618x322_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_270x141_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "thumb",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/thumb_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "medium",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/medium_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "regular",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/regular_bp1568753336_IMG_1783.JPG"
+          }
+        ]
+      },
+      "contact": {
+        "name": "Meryem Bergmann",
+        "phone": "+ 233- (0) 267702211",
+        "email": "07d4dceb6344579d76c324e80295b9d997b66c7d827bf0aa20da8f1502be8bf1@betterplace.jp",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/093/671/fill_100x100_ma.jpg"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/093/671/crop_original_ma.jpg"
+            }
+          ]
+        },
+        "links": [
+
+        ]
+      },
+      "location_fixed": true,
+      "working_time_selection": "egal wann / nach Vereinbarung",
+      "working_time_weekends": [
+
+      ],
+      "working_time_weekdays": [
+
+      ],
+      "begins_at": null,
+      "ends_at": null,
+      "topics": [
+        "Bildung",
+        "Kinder & Jugendliche",
+        "Sozial Benachteiligte"
+      ],
+      "activities": [
+        "besuchen/begleiten",
+        "organisieren/planen",
+        "Nachhilfe/vorlesen",
+        "PR / Social Media"
+      ],
+      "imported_from": null,
+      "import_information": null,
+      "profile_picture": {
+        "links": [
+          {
+            "rel": "fill_960x500",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_960x500_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "fill_730x380",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_730x380_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_618x322_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_410x214_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_270x141_bp1568753336_IMG_1783.JPG"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/crop_original_bp1568753336_IMG_1783.JPG"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.betterplace.org/de/api_v4/volunteering/7386.json"
+        },
+        {
+          "rel": "platform",
+          "href": "https://www.betterplace.org/de/volunteering/7386-we-need-your-skills-and-your-passion"
+        },
+        {
+          "rel": "inquiries",
+          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7386-we-need-your-skills-and-your-passion/inquiries.json",
           "templated": true
         }
       ]

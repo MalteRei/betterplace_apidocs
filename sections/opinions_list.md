@@ -9,7 +9,7 @@ A list of betterplace.org projects opinions (donate money).
 (There is no details view for opinions.)
 
 ```Rebol
-GET https://api.betterplace.org/de/api_v4/fundraising_events/19267/opinions.json?facets=has_message:true&order=created_at:AASC
+GET https://api.betterplace.org/de/api_v4/fundraising_events/19267/opinions.json?facets=has_message:true&order=created_at:ASC
 ```
 A list of betterplace.org fundraising event opinions (donate money).
 
@@ -407,7 +407,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "matched": false,
       "score": "positive",
       "author": {
-        "name": "Adriano Pietsch",
+        "name": "Elias Fischer",
         "picture": {
           "links": [
             {

@@ -58,6 +58,18 @@ The name of the tag. It is unique per client.
 </td>
     </tr>
     <tr>
+      <th align="left">slug</th>
+      <td><code>string</code></td>
+      <td><code>"education"</code></td>
+<td>
+
+The slug of the tag. It is unique per client and used to build urls.
+It must not contain any non url-safe characters.
+
+
+</td>
+    </tr>
+    <tr>
       <th align="left">projects_count</th>
       <td><code>number</code></td>
       <td><code>23</code></td>
@@ -106,7 +118,8 @@ Link to the <a href="client_tag_projects_list.md">client-tag projects list</a> ‚
   "data": [
     {
       "tag": "Bed√ºrftige",
-      "projects_count": 12,
+      "slug": "Bed√ºrftige",
+      "projects_count": 10,
       "links": [
         {
           "rel": "projects",
@@ -116,7 +129,8 @@ Link to the <a href="client_tag_projects_list.md">client-tag projects list</a> ‚
     },
     {
       "tag": "Inklusion",
-      "projects_count": 8,
+      "slug": "Behinderte",
+      "projects_count": 9,
       "links": [
         {
           "rel": "projects",

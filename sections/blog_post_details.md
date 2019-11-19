@@ -345,7 +345,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     },
     {
       "rel": "platform",
-      "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan/news/88972"
+      "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/88972"
     },
     {
       "rel": "documentation",

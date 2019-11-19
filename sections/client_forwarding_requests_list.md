@@ -14,7 +14,7 @@ See [betterplace.org clients](../README.md#client-api).
 
 ### Process Flow
 
-[This a flow chart describes the process…](https://ixwphj.axshare.com/forwarding-request-flow.html).
+[This flow chart describes the process…](https://ixwphj.axshare.com/forwarding-request-flow.html).
 
 
 ### What if the donation receiver is fully funded?
@@ -143,13 +143,15 @@ are optional.
     <th align="left">amount_in_cents</th>
     <td><code>100</code></td>
     <td><code>number</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The amount of cents that are forwarded.
 Must be a positive integer between
 1
-and 100000.
+and 1000000.
 
 
 </td>
@@ -158,7 +160,9 @@ and 100000.
     <th align="left">client_reference</th>
     <td><code>djksbf23u4sjkdn234p</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 A unique identifier for this transaction.
@@ -181,7 +185,9 @@ This is to make sure that one transaction is only processed once.
     <th align="left">tracking_via</th>
     <td><code>campaign-0815</code></td>
     <td><code>string</code></td>
-    <td>no</td>
+    <td>
+      no
+    </td>
 <td>
 
 A tracking identifier for the current campaign, origin or similar
@@ -265,7 +271,7 @@ information about it can be gathered.
   "links": [
     {
       "rel": "location",
-      "href": "https://api.betterplace.org/de/api_v4/clients/some_client/forwarding_requests/1337"
+      "href": "https://api.betterplace.test/de/api_v4/clients/some_client/forwarding_requests/1337"
     }
   ]
 }

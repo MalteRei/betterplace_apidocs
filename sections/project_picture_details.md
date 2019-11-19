@@ -151,18 +151,18 @@ The parent object of this picture.
 
 ```json
 {
-  "id": 103307,
-  "created_at": "2015-03-23T14:11:41+01:00",
-  "updated_at": "2017-07-20T13:05:53+02:00",
+  "id": 205866,
+  "created_at": "2019-05-16T13:37:27+02:00",
+  "updated_at": "2019-05-16T13:37:27+02:00",
   "description": null,
   "links": [
     {
       "rel": "image",
-      "href": "https://betterplace-assets.betterplace.org/uploads/project/image/000/001/114/103307/image.jpg"
+      "href": "https://betterplace-assets.betterplace.org/uploads/project/image/000/001/114/205866/image.png"
     },
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/projects/1114/pictures/103307.json"
+      "href": "https://api.betterplace.org/de/api_v4/projects/1114/pictures/205866.json"
     },
     {
       "rel": "parent",

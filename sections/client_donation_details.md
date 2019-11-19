@@ -102,7 +102,7 @@ A token uniquely identifies a donation on the platform.
 
 Client Donations can be identified via a custom client reference token.
 
-This <code>donation_client_reference</code> can be provided by users of our
+This <code>client_reference</code> can be provided by users of our
 <a href="../donation_form/third_party_app_donation_form.md">
 ThirdPartyApp custom donation form for organisations</a>, for example.
 
@@ -216,7 +216,7 @@ Link to the donor contact data
 {
   "amount_in_cents": 1000,
   "state": "confirmed",
-  "token": "eb73e7e205c4008d2da2",
+  "token": "0c787478282d193d0826",
   "client_reference": null,
   "created_at": "2010-10-28T14:44:49+02:00",
   "receiver_type": "Project",
@@ -229,11 +229,11 @@ Link to the donor contact data
     },
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/eb73e7e205c4008d2da2.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/0c787478282d193d0826.json"
     },
     {
       "rel": "donor_contact_data",
-      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/eb73e7e205c4008d2da2/donor_contact_data.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/0c787478282d193d0826/donor_contact_data.json"
     }
   ]
 }

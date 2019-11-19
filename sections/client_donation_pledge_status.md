@@ -163,7 +163,7 @@ part of the <code>failure_reason</code>.
 This list might be extended at any time. Please
 make sure you receive a notification if you encounter
 a new code. Codes will note be removed but might be
-depricated and not used anymore at some point in the
+deprecated and not used anymore at some point in the
 future.
 
 
@@ -226,7 +226,7 @@ Link to the related donation
   "links": [
     {
       "rel": "donation",
-      "href": "https://api.betterplace.org/de/api_v4/clients/natehelps/client_donations/6f7a24f7eb18d92cff92.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/natehelps/client_donations/ccfb62ca3e9bbf7b62d3.json"
     }
   ]
 }

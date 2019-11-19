@@ -226,7 +226,7 @@ Illustration picture with 410×214 Pixel
 
 ```json
 {
-  "total_entries": 2,
+  "total_entries": 3,
   "offset": 0,
   "total_pages": 1,
   "current_page": 1,
@@ -235,22 +235,22 @@ Illustration picture with 410×214 Pixel
     {
       "id": 2,
       "created_at": "2018-08-28T13:55:58+02:00",
-      "updated_at": "2018-08-28T13:56:35+02:00",
+      "updated_at": "2019-01-31T09:27:24+01:00",
       "amount_in_cents": 10000,
-      "title": "Wasser-Pumpen",
-      "description": "Bereits mit BETRAG können wir mehrere Familien mit Trinkwasser versorgen und verbessern die hygienischen Bedingungen  entscheidend. ",
+      "title": "Trinkwasser ",
+      "description": "Bereits mit \"BETRAG\" können wir Wasser-Pumpen erwerben und mehrere syrische Familien mit Trinkwasser versorgen und darüber hinaus die hygienischen Bedingungen verbessern. ",
       "picture": {
         "links": [
           {
             "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/002/fill_410x214_bp1535457395_Syrien-nothilfe-verteilung-kinder_002_171112.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/002/fill_410x214_bp1545132708_jordanien-fluechtlinge-kinder_068_160530.jpg"
           }
         ]
       },
       "links": [
         {
           "rel": "new_donation",
-          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=100&donation_illustration_id=2"
+          "href": "https://api.betterplace.org/de/donate/platform/projects/10377-syrien-hilfe-fur-kinder?donation_amount=100&donation_illustration_id=2"
         },
         {
           "rel": "project",
@@ -261,22 +261,48 @@ Illustration picture with 410×214 Pixel
     {
       "id": 1,
       "created_at": "2018-08-28T13:49:16+02:00",
-      "updated_at": "2018-08-28T13:52:55+02:00",
+      "updated_at": "2019-01-31T09:27:12+01:00",
       "amount_in_cents": 2000,
-      "title": "Nahrung",
+      "title": "Nahrungsmittel ",
       "description": "Bereits mit BETRAG können wir ein Kind in Syrien einen Monat lang mit Nahrung unterstützen.",
       "picture": {
         "links": [
           {
             "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/001/fill_410x214_bp1535457175_Syrien-nothilfe-kinder-familien_007_171103_.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/000/001/fill_410x214_bp1545132551_jordanien-fluechtlinge-kinder_013_160530.jpg"
           }
         ]
       },
       "links": [
         {
           "rel": "new_donation",
-          "href": "https://api.betterplace.org/de/projects/10377-syrien-hilfe-fur-kinder/donations/new?donation_amount=20&donation_illustration_id=1"
+          "href": "https://api.betterplace.org/de/donate/platform/projects/10377-syrien-hilfe-fur-kinder?donation_amount=20&donation_illustration_id=1"
+        },
+        {
+          "rel": "project",
+          "href": "https://api.betterplace.org/de/api_v4/projects/10377.json"
+        }
+      ]
+    },
+    {
+      "id": 1113,
+      "created_at": "2019-01-31T09:26:24+01:00",
+      "updated_at": "2019-01-31T09:26:24+01:00",
+      "amount_in_cents": 1600,
+      "title": "Hygiene-Artikel",
+      "description": "Bereits \"BETRAG\" reichen aus, um eine syrische Familie in einem Flüchtlingslager mit Hygiene-Produkten wie Seife, Windeln, Handtüchern und Binden zu versorgen.  ",
+      "picture": {
+        "links": [
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/illustration/picture/000/001/113/fill_410x214_bp1548923184_syrien-fluechtlinge__1901_21.jpg"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "new_donation",
+          "href": "https://api.betterplace.org/de/donate/platform/projects/10377-syrien-hilfe-fur-kinder?donation_amount=16&donation_illustration_id=1113"
         },
         {
           "rel": "project",

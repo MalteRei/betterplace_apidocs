@@ -153,6 +153,16 @@ by the manager.
 </td>
     </tr>
     <tr>
+      <th align="left">donations_count</th>
+      <td><code>number</code></td>
+      <td><code>42</code></td>
+<td>
+
+Count of confirmed donations for this fundraising event
+
+</td>
+    </tr>
+    <tr>
       <th align="left">donor_count</th>
       <td><code>number</code></td>
       <td><code>46</code></td>
@@ -181,6 +191,16 @@ How many cents were already raised with the fundraising event
 How many cents were requested to be raised with the fundraising event.
 This value is optional! The manager decides if his event has a goal or not.
 
+
+</td>
+    </tr>
+    <tr>
+      <th align="left">forwarded_amount_in_cents</th>
+      <td><code>number</code></td>
+      <td><code>12382</code></td>
+<td>
+
+How many cents were already forwarded to a project.
 
 </td>
     </tr>
@@ -359,6 +379,19 @@ A Fundraising event manager can change the list of supported projects at any tim
     <tr>
 <th align="left">
 
+blog_posts
+
+</th>
+<td>
+
+Link to <a href="blog_posts_list.md">blog posts list</a>
+
+
+</td>
+    </tr>
+    <tr>
+<th align="left">
+
 forwardings
 
 </th>
@@ -421,6 +454,32 @@ new_donation
 
 Link to the regular donation form.
 
+
+</td>
+    </tr>
+    <tr>
+<th align="left">
+
+header_picture
+
+</th>
+<td>
+
+Optional additional image to be used when promoting the fundraising event.
+**This is an experimental feature. Please use it with caution. We might change or remove it any time without notice.**
+
+
+</td>
+    </tr>
+    <tr>
+<th align="left">
+
+new_message
+
+</th>
+<td>
+
+Send message to this fundraising event via betterplace.org
 
 </td>
     </tr>
@@ -559,20 +618,22 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 {
   "id": 19267,
   "created_at": "2014-09-23T21:17:06+02:00",
-  "updated_at": "2018-09-09T00:41:43+02:00",
+  "updated_at": "2019-05-29T00:45:18+02:00",
   "content_updated_at": "2015-06-28T11:32:11+02:00",
   "title": "Gemeinsam gegen Ebola: Deine Spende für Westafrika",
   "description": "Das Ebola-Virus ist für uns* in Westafrika allgegenwärtig: Schüttelt man zur Begrüßung noch die Hand, obwohl die Regierungen davon abraten? Tritt man die Dienstreise in das vom Virus betroffene Nigeria an? Droht die Quarantäne, wenn man bei der Ausreise aus der Region unter Erkältung und Fieber leidet? <br><br>Für die Menschen in Sierra Leone, Liberia und Guinea sind das Luxusprobleme. Dort ist ein normaler Alltag nicht mehr möglich. Im Familienkreis oder der Nachbarschaft gibt es möglicherweise Tote zu beklagen. Der Zugang zu Gesundheitsdienstleistungen ist, auch für andere häufig auftretende Krankheiten wie Malaria, erschwert und kann teilweise nicht mehr gewährleistet werden. <br><br>Viele Ärzte und Krankenschwestern sind selbst gestorben oder haben Angst, sich selbst anzustecken, da es an grundsätzlichen Dingen wie Schutzkleidung und Arzneimitteln fehlt. Unsere Spenden unterstützen Action Medeor beider Ausrüstung zweier neu aufgebauter Isolierstationen in Monrovia, Liberia.<br><br>Die internationale Gemeinschaft reagiert nur sehr langsam – obwohl das Virus bereits seit Anfang des Jahres mehr als 2500 Menschen den Tod gekostet hat. Die langfristigen Folgen für die Volkswirtschaften, die Gesundheitssysteme und das Zusammenleben der Menschen in der Region sind verheerend. <br><br>Wir müssen jetzt handeln, um den Menschen vor Ort und ihren Helfern die notwendigen Materialien zukommen zu lassen. Wir denken dabei auch an unsere Freunde hier in der Region, die wir auf Dienstreisen kennen gelernt haben oder die als Ärzte in Alarmbereitschaft versetzt wurden. Helft uns dabei, den Menschen in ihrer Notlage zu helfen: Teilt diesen Link mit anderen und spendet, auch kleine Beiträge sind willkommen! <br><br>* Jonas lebt seit mehr als zwei Jahren im Senegal, Johanna war für knapp zwei Monate im benachbarten Gambia. Wir beide haben in den letzten Wochen die Nachrichtenlage verfolgt und mit den Menschen vor Ort über die Unsicherheit gesprochen. <br><br>Bild: Jonas Wipfler, Liberia, 2013",
   "tax_deductible": true,
   "donations_prohibited": true,
   "closed_at": "2015-06-28T11:32:11+02:00",
+  "donations_count": 134,
   "donor_count": 124,
   "donated_amount_in_cents": 858280,
   "requested_amount_in_cents": null,
+  "forwarded_amount_in_cents": 858280,
   "progress_percentage": null,
   "contact": {
     "id": 397832,
-    "name": "Maria W.",
+    "name": "William Brown",
     "picture": {
       "links": [
         {
@@ -634,6 +695,10 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "href": "https://api.betterplace.org/de/api_v4/fundraising_events/19267/featured_projects.json"
     },
     {
+      "rel": "blog_posts",
+      "href": "https://api.betterplace.org/de/api_v4/fundraising_events/19267/blog_posts.json"
+    },
+    {
       "rel": "forwardings",
       "href": "https://api.betterplace.org/de/api_v4/fundraising_events/19267/forwardings.json"
     },
@@ -647,12 +712,16 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     },
     {
       "rel": "new_client_donation",
-      "href": "https://www.betterplace.org/de/fundraising-events/19267/client_donations/new?client_id=%7Bclient_id%7D",
+      "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/fundraising-events/19267",
       "templated": true
     },
     {
       "rel": "new_donation",
-      "href": "https://www.betterplace.org/de/fundraising-events/19267/donations/new"
+      "href": "https://www.betterplace.org/de/donate/platform/fundraising-events/19267"
+    },
+    {
+      "rel": "new_message",
+      "href": "https://www.betterplace.org/de/messages/new?recipient=397832"
     }
   ]
 }

@@ -133,9 +133,9 @@ Link to this resource itself
 {
   "id": 4,
   "created_at": "2016-01-14T15:12:34+01:00",
-  "updated_at": "2018-09-09T15:50:27+02:00",
-  "donated_amount_in_cents": 93768852,
-  "forwarded_amount_in_cents": 92890054,
+  "updated_at": "2019-10-09T18:58:21+02:00",
+  "donated_amount_in_cents": 96447014,
+  "forwarded_amount_in_cents": 95440054,
   "links": [
     {
       "rel": "self",

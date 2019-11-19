@@ -2,7 +2,7 @@
 # Volunteering Details ⇄ [List](volunteering_list.md)
 
 ```Cirru
-GET https://api.betterplace.org/de/api_v4/volunteering/63671.json
+GET https://api.betterplace.org/de/api_v4/volunteering/77694.json
 ```
 
 The details of a betterplace.org volunteering offer (donate time).
@@ -22,7 +22,7 @@ This resource is not available at the moment.
   </tr>
   <tr>
     <th align="left">id</th>
-    <td><code>63671</code></td>
+    <td><code>77694</code></td>
     <td>yes</td>
 <td>
 
@@ -151,7 +151,7 @@ DateTime (ISO8601 with Timezone)
       <td><code>TODO</code></td>
 <td>
 
-Max 100 character unless the volunteering is imported
+Max 100 character
 
 </td>
     </tr>
@@ -321,20 +321,16 @@ Possible results: "consulting/coaching", "crafting/gardening", "doing sports",
     <tr>
       <th align="left">imported_from</th>
       <td><code>null &#124; string</code></td>
-      <td><code>aktion_mensch</code></td>
+      <td><code>somewhere</code></td>
 <td>
 
-Betterplace imports volunteering offers from Aktions Mensch.
+Where Betterplace imports volunteering from.
 
 </td>
     </tr>
     <tr>
-        <th align="left" style="white-space: nowrap">
-          <a id="import_information-ref" href="#import_information">
-            ↓import_information
-          </a>
-        </th>
-      <td><code>null &#124; object</code></td>
+      <th align="left">import_information</th>
+      <td><code></code></td>
       <td><code>TODO</code></td>
 <td>
 
@@ -513,8 +509,6 @@ Image description
 <td>
 
 Fullname of the contact person.
-For imported volunteering offers, this is the
-contact-name that is provided on import.
 
 
 </td>
@@ -574,73 +568,6 @@ User profile picture or a fallback image
 <td>
 
 Specifies whether a fallback image is given or not
-
-</td>
-    </tr>
-  </table>
-
-### <a id="import_information" href="#import_information-ref">↑Nested Attributes: import_information</a>
-
-  <table>
-    <tr>
-      <th>Attribute</th>
-      <th>Types</th>
-      <th>Example</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <th align="left">import_information.created_at</th>
-      <td><code>null &#124; string</code></td>
-      <td><code>"1994-11-05T13:15:30Z"</code></td>
-<td>
-
-DateTime (ISO8601 with Timezone) when the imported record was actually created.
-
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.updated_at</th>
-      <td><code>null &#124; string</code></td>
-      <td><code>"1994-11-05T13:15:30Z"</code></td>
-<td>
-
-DateTime (ISO8601 with Timezone) when the imported record was
-actually updated last.
-
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.import_type</th>
-      <td><code>string</code></td>
-      <td><code>"Import::ImportFormat"</code></td>
-<td>
-
-Type of import this record originated from.
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.import_id</th>
-      <td><code>string</code></td>
-      <td><code>"foo:23"</code></td>
-<td>
-
-Unique identifier for this imported record.
-
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">import_information.imported_at</th>
-      <td><code>string</code></td>
-      <td><code>"1994-11-15T13:15:30Z"</code></td>
-<td>
-
-DateTime (ISO8601 with Timezone) when the record was imported at
-betterplace.
-
 
 </td>
     </tr>
@@ -952,62 +879,62 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "id": 63671,
-  "created_at": "2018-09-08T08:15:50+02:00",
-  "updated_at": "2018-09-08T08:15:50+02:00",
-  "latitude": 0.0,
-  "longitude": 0.0,
-  "street": null,
-  "zip": null,
-  "city": null,
-  "country": null,
-  "content_updated_at": "2018-09-08T08:15:50+02:00",
-  "title": "Setzt dich mit deinen tollen Grafiken für die Gleichstellung von Frauen und Männern in Indien ein!",
-  "description": "Wir suchen zum nächstmöglichen Termin ehrenamtliche Grafiker die uns bei folgenden Arbeiten mit ihrer Zeit unterstützen könnten:<br><br>- Logo Designen<br>- Flyer Designen<br>- kleine Broschüre Designen<br>- evtl. gerne auch langfristige PR und Werbung Tätigkeiten wie u. a. unsere Facebook und Instagram Profile pflegen...<br><br>Ganz dringend bräuchten wir einen Flyer Design noch vor Ende September, der Flyer soll Anfang Oktober auf einer Konferenz für nachhaltige Mode in Goa, Indien, verteilt werden ;-)<br><br>Aber vorab ein paar Infos zu uns:<br><br>KAYAPALAT ist ein indo-europäisches nachhaltiges Label das als soziales Unternehmen aufgebaut ist. Unser Fokus geht über das ästhetische Äußere der Produkte hinaus und richtet sich auf die Probleme die die Menschen und die Umwelt betreffen, in der wir leben.<br><br>KAYAPALAT ist ein hindi Wort und bedeutet „Metamorphose“ und „Wiedergeburt“. Als Name unseres Labels steht es für eine soziale, kulturelle und ökologische Verwandlung. <br><br>Indien ist heutzutage noch immer ein sehr männlich geprägtes Land mit einer stark patriarchalischen Gesellschaft, die unausgebildeten und unterprivilegierten Frauen einen deutlich niedrigeren sozialen Status als Männern zuweist. <br><br>KAYAPALAT setzt sich für die Gleichberechtigung, Aufklärung und Förderung der Selbstbestimmung dieser Frauen ein. Wir schaffen einen sicheren Ort der Begegnung, wo unser Fokus zunächst auf der Qualifikations- und Kompetenz-Erweiterung sowie der Hilfe zur Selbsthilfe liegt. Zum einen absolvieren die Frauen eine fachliche Ausbildung und erlernen verschiedene Handarbeitstechniken, zum anderen erhalten sie neben einem fairen Gehalt auch die Möglichkeit, an kostenlosen Bildungsprogrammen und regelmäßigen Gesundheitsvorsorgeuntersuchungen teilzunehmen sowie Mikrokredite zu beantragen.<br><br>Wir stellen Upcycling Textilschmuck in Handarbeit her, und unterstützen somit traditionelle indische Handwerkstechniken wie Stickerei, Blockdruck uvm.<br>Im Gegensatz zur Massenware bemühen wir uns individuelle Bedürfnisse und Wünsche von Verbrauchern zu berücksichtigen und einzigartige Mode Accessoires zu entwerfen.<br><br>Als Sozialunternehmen sorgen wir dafür dass mit jedem Verkauf der Größteil des Gewinns für die Finanzierung unseren Sozial-, Bildungs-, und Gesundheitsprogramme verwendet wird.<br><br>Da wir uns im Aufbau befinden und noch keinerlei Einnahmen haben können wir nur viele gutes-Karma-Punkte anbieten, und nach Absprache gerne Gutscheine für unsere erste Upcycling-Schmuckkollektion!",
+  "id": 77694,
+  "created_at": "2019-10-09T13:12:40+02:00",
+  "updated_at": "2019-10-09T13:12:40+02:00",
+  "latitude": 48.2238,
+  "longitude": 10.1112,
+  "street": "Kreuzweg 187",
+  "zip": "89257",
+  "city": "Illertissen",
+  "country": "Deutschland",
+  "content_updated_at": "2019-10-09T13:12:39+02:00",
+  "title": "Medienabhängigkeit, Onlinesucht, Onlinespielsucht, Cybermobbing &amp; Onlinesexsucht",
+  "description": "Ich suche Mitstreiter die etwas bewegen wollen. Angehörigen und Eltern aber Kindern helfen nicht in den Medien-Boom zu geraten. Mit den Digitalen Medien umzugehen lernen. Gemeinsame Projekte Planen und vielleicht auch einen Verein daraus Gründen.  Grüße Ronald<br><br>www.die-letzte-quest.de",
   "carrier": null,
-  "vacancies": 1,
+  "vacancies": 2,
   "image": {
-    "description": "Sozial benachteiligte Frauen in Indien unterstützen und sich für die Gleichberechtigung zw. den Geschlechtern einsetzen",
+    "description": "Logo Selbsthilfe und Prävention",
     "links": [
       {
         "rel": "fill_618x322",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/fill_618x322_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_618x322_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "fill_270x141",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/fill_270x141_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_270x141_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "original",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "thumb",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/thumb_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/thumb_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "medium",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/medium_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/medium_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "regular",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/regular_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/regular_bp1570619559_Logo_-_Viakleb.jpg"
       }
     ]
   },
   "contact": {
-    "name": "Stine Gottschalk",
-    "phone": "",
-    "email": "fe9ce25893617461e160fe2cae18e0523c24bc4612aa7f22097141ed83a2f50f@betterplace.jp",
+    "name": "Edward Hermann",
+    "phone": "0176 34 41 50 51",
+    "email": "41666acddd9b9cadbab1161035f1414cde77917e8e10709e5d8c37333266f13e@betterplace.jp",
     "picture": {
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/563/166/fill_100x100_bp1536384238_profilepic.jpeg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/578/492/fill_100x100_bp1570619046_Ronald-Stolz_Podcast.jpg"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/563/166/crop_original_bp1536384238_profilepic.jpeg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/578/492/crop_original_bp1570619046_Ronald-Stolz_Podcast.jpg"
         }
       ]
     },
@@ -1015,8 +942,8 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
     ]
   },
-  "location_fixed": false,
-  "working_time_selection": "egal wann / nach Vereinbarung",
+  "location_fixed": true,
+  "working_time_selection": "regelmäßig/langfristig",
   "working_time_weekends": [
 
   ],
@@ -1027,13 +954,14 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "ends_at": null,
   "topics": [
     "Bildung",
-    "Menschenrechte",
-    "Sozial Benachteiligte",
-    "Tierschutz & Umwelt"
+    "Kinder & Jugendliche",
+    "Kranke",
+    "Kultur, Freizeit & Sport"
   ],
   "activities": [
-    "malen/gestalten",
-    "schreiben/übersetzen",
+    "Gruppen betreuen",
+    "organisieren/planen",
+    "programmieren",
     "PR / Social Media"
   ],
   "imported_from": null,
@@ -1042,42 +970,42 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     "links": [
       {
         "rel": "fill_960x500",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/fill_960x500_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_960x500_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "fill_730x380",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/fill_730x380_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_730x380_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "fill_618x322",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/fill_618x322_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_618x322_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "fill_410x214",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/fill_410x214_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_410x214_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "fill_270x141",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/fill_270x141_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_270x141_bp1570619559_Logo_-_Viakleb.jpg"
       },
       {
         "rel": "original",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/063/671/crop_original_bp1536387350_Project_image.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/crop_original_bp1570619559_Logo_-_Viakleb.jpg"
       }
     ]
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/volunteering/63671.json"
+      "href": "https://api.betterplace.org/de/api_v4/volunteering/77694.json"
     },
     {
       "rel": "platform",
-      "href": "https://www.betterplace.org/de/volunteering/63671-setzt-dich-mit-deinen-tollen-grafiken-fur-die-gleichstellung-von-frauen-und-mannern-in-indien-ein"
+      "href": "https://www.betterplace.org/de/volunteering/77694-medienabhangigkeit-onlinesucht-onlinespielsucht-cybermobbing-onlinesexsucht"
     },
     {
       "rel": "inquiries",
-      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/63671-setzt-dich-mit-deinen-tollen-grafiken-fur-die-gleichstellung-von-frauen-und-mannern-in-indien-ein/inquiries.json",
+      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/77694-medienabhangigkeit-onlinesucht-onlinespielsucht-cybermobbing-onlinesexsucht/inquiries.json",
       "templated": true
     }
   ]

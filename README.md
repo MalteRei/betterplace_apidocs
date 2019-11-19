@@ -23,7 +23,7 @@ about updates and scheduled downtimes.
 
 ### **General information**
 
-1. General information [↓ below](#general-information)
+1. General information [↓ below](#general-information-1)
 1. Request Parameter Format [↓ below](#request-parameter-format)
 1. Addressing the locale of a resource [↓ below](#addressing-the-locale-of-a-resource)
 1. Pagination [↓ below](#pagination)
@@ -71,7 +71,7 @@ about updates and scheduled downtimes.
 ### **Client API**
 
 1. **General Information**
-    1. General Information [↓ below](#client-api)
+    1. General Information [↓ below](#client-api-1)
     1. Client Projects [↓ below](#client-projects)
     1. Client Authentication [↓ below](#client-authentication)
     1. [**Client** Details](sections/client_details.md)

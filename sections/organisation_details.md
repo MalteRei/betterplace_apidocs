@@ -486,10 +486,10 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 {
   "id": 125,
   "created_at": "2008-02-06T17:10:42+01:00",
-  "updated_at": "2018-08-15T02:23:22+02:00",
+  "updated_at": "2019-06-15T02:08:19+02:00",
   "latitude": 53.55759811401367,
   "longitude": 9.96815967559815,
-  "street": "Friedenstraße 147",
+  "street": "Kirchweg 32",
   "zip": "20357",
   "city": "Hamburg",
   "country": "Deutschland",
@@ -499,28 +499,28 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "description": "Die Organisation Viva con Agua:<br><br>Viva con Agua de Sankt Pauli e.V. ist eine international tätige Wasserinitiative und wird vom FC St. Pauli ideell unterstützt. Initiator Benjamin Adrion, ehemaliger Mittelfeldspieler des Fußballclubs, gründete 2005 nach einem Trainingslager auf Kuba den gemeinnützigen Verein. <br><br>Ziel der Initiative ist es, die Versorgung mit sauberem Trinkwasser und sanitären Anlagen in Entwicklungsländern nachhaltig zu verbessern. Viva con Agua ist Projektpartner der Welthungerhilfe.<br><br>21 Projekte in 15 Projektländern hat Viva con Agua bereits in Zusammenarbeit mit der Welthungerhilfe realisiert und damit über 300.000 Menschen Zugang zu sauberem Trinkwasser ermöglicht. Des Weiteren haben mehr als 100.000 Schüler und Studenten im deutschsprachigen Raum VcA-Bildungsworkshops, Seminare und Spendenläufe mitgemacht.<br><br>Auszeichnungen:<br><br>ISPO Award 2013<br>HAMMA Award 2012<br>Utopia Award 2012<br>B.A.U.M.-Umweltpreis 2011<br>Werkstatt N-Projekt 2010<br>Bundesverdienstkreuz 2009<br>Utopia Award 2008<br>Ausgewählter Ort im Land der Ideen 2007 (Schirmherrschaft Bundespräsident Horst Köhler)<br>Bundessieger start social 2007 (Schirmherrschaft Bundeskanzlerin Angela Merkel)<br>taz-Panter-Preis 2006 <br><br><br>Aktivitäten und Initiativen<br><br>Viva con Agua veranstaltet laufend Konzerte, Partys, Sport- und Kulturevents, deren Erlöse als Spende in Trinkwasserprojekte fließen.<br><br>Schärfung des Bewusstseins, besonders bei jungen Menschen in Deutschland, für die Themen Wasser und Entwicklungshilfe ist das zweite wichtige Anliegen von Viva con Agua.<br><br>Die Sensibilisierung für diese Bereiche soll einerseits durch die zahlreichen Veranstaltungen von Viva con Agua erfolgen, aber auch in intensiver Bildungsarbeit an Schulen. Damit führt Viva con Agua schon frühzeitig Kinder und Jugendliche an soziales und humanitäres Engagement heran.",
   "tax_deductible": true,
   "contact": {
-    "id": 520218,
-    "name": "Michael L.",
+    "id": 561728,
+    "name": "John Montgomery",
     "picture": {
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/520/218/fill_100x100_bp1484581782_mg6_20160712_0477.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/561/728/fill_100x100_bp1533634327_Micha.jpg"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/520/218/crop_original_bp1484581782_mg6_20160712_0477.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/561/728/crop_original_bp1533634327_Micha.jpg"
         }
       ]
     },
     "links": [
       {
         "rel": "platform",
-        "href": "https://www.betterplace.org/de/users/520218"
+        "href": "https://www.betterplace.org/de/users/561728"
       },
       {
         "rel": "contact_data",
-        "href": "https://api.betterplace.org/de/api_v4/users/520218/contact_data.json"
+        "href": "https://api.betterplace.org/de/api_v4/users/561728/contact_data.json"
       }
     ]
   },

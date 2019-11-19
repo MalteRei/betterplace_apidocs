@@ -1,20 +1,15 @@
 
-# Client Mailing Subscriptions
+# Client Newsletter OptIns
 
 ```Cirru
-POST https://api.betterplace.org/de/api_v4/clients/volksfreund/projects/4425/mailing_subscriptions.json
+POST https://api.betterplace.org/de/api_v4/clients/volksfreund/newsletter_opt_ins.json
 ```
 
-Create or update a mailing subscriptions for a project.
+Start the opt-in process to subscribe an email address to the
+betterplace platform newsletter.
 
 **:lock: Only available if authenticated as a client.**
 See [betterplace.org clients](../README.md#client-api).
-
-
-### Process Flow
-
-[This flow chart describes the process…](https://ixwphj.axshare.com/user-subscriptions-flow.html).
-
 
 ### Response and error codes:
 
@@ -34,20 +29,6 @@ entity). [More error codes](../README.md#http-status-codes).
     <th>Description</th>
   </tr>
   <tr>
-    <th align="left">language</th>
-    <td><code>en</code></td>
-    <td>yes</td>
-<td>
-
-The subscription is marked with the language you use in your URL.
-Newsletter authors write their content in a specific lang which you can
-target with the subscription lang. To target a lang see
-<a href="../README.md#addressing-the-locale-of-a-resource">api setting lang</a>.
-
-
-</td>
-  </tr>
-  <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
     <td>yes</td>
@@ -58,12 +39,12 @@ The betterplace.org-internal client permalink.
 </td>
   </tr>
   <tr>
-    <th align="left">project_id</th>
-    <td><code>4425</code></td>
+    <th align="left">language</th>
+    <td><code>en</code></td>
     <td>yes</td>
 <td>
 
-Project id as an integer number ≥ 14.
+The language preference of the subscriber.
 
 </td>
   </tr>
@@ -83,7 +64,7 @@ are optional.
   "email": "peter.paul@betterplace.org",
   "first_name": "Peter",
   "last_name": "Paul",
-  "active": true
+  "wording": "I want to receive newsletters from betterplace"
 }
 ```
 
@@ -137,15 +118,19 @@ The last name of the user
 </td>
   </tr>
   <tr>
-    <th align="left">active</th>
-    <td><code>true</code></td>
-    <td><code>boolean</code></td>
+    <th align="left">wording</th>
+    <td><code>I want to receive newsletters from betterplace</code></td>
+    <td><code>string</code></td>
     <td>
       yes
     </td>
 <td>
 
-State of the subscription: active/inactive
+The text that has been used to explain the subscription to the user.
+E.g. if you have a checkbox to subscribe, pass its label text.
+
+This text must be recorded due to GDPR requirements.
+
 
 </td>
   </tr>

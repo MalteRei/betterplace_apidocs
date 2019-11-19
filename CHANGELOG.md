@@ -3,6 +3,18 @@ All notable changes to the betterplace.org API v4 will be documented in this
 file. Notifications about changes will also be send to the [mailing list for
 service announcements](README.md#mailing-list-for-service-announcements).
 
+## 2019-02-25
+### Changed
+- Changed behavior of `validate_address` of [donation pledges](sections/client_donation_pledges.md): `first_name`, `last_name` and `email` won't be validated if set to `false`
+
+## 2019-01-28
+### Added
+- Added `donation_count` to [fundraising events details](sections/fundraising_events_details.md)
+- Added `new_message` link to [fundraising events details](sections/fundraising_events_details.md)
+- [Blog posts endpoint](sections/blog_posts_list.md) is now available for fundraising events as well.
+- Extended [fundraising event forwarding list](sections/fundraising_event_forwardings_list.md), eg. with project name and platform url
+
+
 ## 2018-06-01
 ### Fixed
 - Fixed ordering of opinions for projects and fundraising event

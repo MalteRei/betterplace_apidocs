@@ -235,13 +235,13 @@ Link to the regular donation form.
 {
   "id": 142997,
   "created_at": "2016-04-06T10:48:08+02:00",
-  "updated_at": "2017-07-24T21:32:36+02:00",
+  "updated_at": "2019-10-24T17:17:57+02:00",
   "title": "Learning supplies",
   "description": "The equivalent of supplying 60 Back to School children with learning supplies for the semester.",
   "completed": false,
-  "progress_percentage": 0.25,
-  "donated_amount_in_cents": 500,
-  "open_amount_in_cents": 199500,
+  "progress_percentage": 21.93,
+  "donated_amount_in_cents": 43861,
+  "open_amount_in_cents": 156139,
   "requested_amount_in_cents": 200000,
   "links": [
     {
@@ -254,12 +254,12 @@ Link to the regular donation form.
     },
     {
       "rel": "new_client_donation",
-      "href": "https://www.betterplace.org/de/projects/1114/client_donations/new?client_id=%7Bclient_id%7D&donation_earmark_id=142997",
+      "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/1114?need_id=142997",
       "templated": true
     },
     {
       "rel": "new_donation",
-      "href": "https://www.betterplace.org/de/projects/1114/donations/new?donation_earmark_id=142997"
+      "href": "https://www.betterplace.org/de/donate/platform/projects/1114?need_id=142997"
     }
   ]
 }

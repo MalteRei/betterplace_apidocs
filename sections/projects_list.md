@@ -502,6 +502,21 @@ Count of confirmed donations for this project
 </td>
     </tr>
     <tr>
+      <th align="left">newsletter_subscriptions_count</th>
+      <td><code>number</code></td>
+      <td><code>42</code></td>
+<td>
+
+Count of active newsletter subscriptions for this project.
+
+EXPERIMENTAL 2019-02-21
+
+Can be removed at any time. Use with caution
+
+
+</td>
+    </tr>
+    <tr>
       <th align="left">comments_count</th>
       <td><code>number</code></td>
       <td><code>24</code></td>
@@ -1362,38 +1377,188 @@ information for the donors.
   "per_page": 3,
   "data": [
     {
+      "id": 6233,
+      "created_at": "2011-02-25T08:48:43+01:00",
+      "updated_at": "2019-10-09T00:02:23+02:00",
+      "latitude": 11.55883121490479,
+      "longitude": 104.9174423217773,
+      "street": null,
+      "zip": null,
+      "city": "Phnom Penh",
+      "country": "Kambodscha",
+      "content_updated_at": "2019-06-04T16:24:02+02:00",
+      "activated_at": "2011-02-25T09:03:15+01:00",
+      "title": "Skateistan Kambodscha",
+      "description": "<div>Im März 2011 wurde durch Skateistan Kambodscha der erste Skatepark des Landes in Phnom Penh eröffnet. Seit dem können benachteiligte Kinder und Jugendliche an sechs Tagen der Woche an Skateboardstunden und kreativen Bildungsmaßnahmen teilnehmen. <br><br>Skateistan Kambodscha benutzt Skateboarden als ein Instrument zur Starkmachung in Phnom Penh. Diese non-profit Organisation beschäftigt sich jede Woch mit rund 300 Jugendlichenen Kambodschanern zwischen fünf und 18 Jahren. Die Hälfte der Schüler sind weiblich und kommen aus armen Verhältnissen. </div><div><br></div><div>Skateboarding ist eine niedrigschwellige Aktivität, an der Mädchen und Jungen mit unterschiedlichen Hintergründen und Fähigkeiten teilnehmen können.  Hier können die Kinder das ganze Jahr über skateboarden, an verschiedenen Sport- und Bildungsangeboten teilnehmen und die Bücherei nutzen. Durch die bei Skateistan angebotenen Möglichkeiten zur Freizeitgestaltung können die  Kinder und Jugendlichen neue Freundschaften schließen, mehr Selbstvertrauen gewinnen und spielerisch neue Fähigkeiten erlernen. </div><div><br></div><div>Skateboarden ist eine inklusive Sportart - wir arbeiten mit verschiedenen Partnerorganisationen zusammen um Kindern und Jugendlichen den Zugang zum skateboarden zu ermöglichen. Durch die Partnerschaft mit Pour un Sourire d'Enfant (PSE), Friends Intl. und Tiny Toones können wir gefährdete Kinder und Jugendliche auch mit schon vorhandenen Hilfsangeboten in Verbindung bringen.<br> </div><div> Anfang 2019 wurde unsere neue Bibliothek vervollständigt und den Schülern vorgestellt. Über 100 Bücher und vier Computer wurden in dem neuen Lernbereich zur Verfügung gestellt. <br><br>\n</div><div>Unterstützen Sie Skateistan Kambodscha und helfen Sie uns dabei, Kindern und Jugendlichen in Kambodscha einen sicheren Ort für ihre persönliche Entwicklung zu geben. </div><div><br></div>",
+      "summary": "Bei Skateistan Kambodscha haben 300 Kinder und Jugendliche wöchentlich die Möglichkeit, zu skateboarden und an Bildungsmaßnahmen teilzunehmen.",
+      "tax_deductible": true,
+      "donations_prohibited": false,
+      "completed_at": null,
+      "closed_at": null,
+      "open_amount_in_cents": 156996,
+      "donated_amount_in_cents": 816304,
+      "positive_opinions_count": 61,
+      "negative_opinions_count": 0,
+      "donations_count": 61,
+      "newsletter_subscriptions_count": 26,
+      "comments_count": 0,
+      "donor_count": 58,
+      "progress_percentage": 83,
+      "incomplete_need_count": 5,
+      "completed_need_count": 18,
+      "blog_post_count": 38,
+      "contact": {
+        "id": 287126,
+        "name": "Daniel Schäfer",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1523439147_Skateistan_facebook-02.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1523439147_Skateistan_facebook-02.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "platform",
+            "href": "https://www.betterplace.org/de/users/287126"
+          },
+          {
+            "rel": "contact_data",
+            "href": "https://api.betterplace.org/de/api_v4/users/287126/contact_data.json"
+          }
+        ]
+      },
+      "carrier": {
+        "name": "Skateistan",
+        "city": "Berlin",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_bp1523439289_Skateistan_facebook-01.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_bp1523439289_Skateistan_facebook-01.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.betterplace.org/de/api_v4/organisations/1054.json"
+          }
+        ]
+      },
+      "profile_picture": {
+        "links": [
+          {
+            "rel": "fill_960x500",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_960x500_original_327569_368768896527128_1081473646_o.jpg"
+          },
+          {
+            "rel": "fill_730x380",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_730x380_original_327569_368768896527128_1081473646_o.jpg"
+          },
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_618x322_original_327569_368768896527128_1081473646_o.jpg"
+          },
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_410x214_original_327569_368768896527128_1081473646_o.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_270x141_original_327569_368768896527128_1081473646_o.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/crop_original_original_327569_368768896527128_1081473646_o.jpg"
+          }
+        ]
+      },
+      "active_matching_fund": null,
+      "closed_notice": null,
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.betterplace.org/de/api_v4/projects/6233.json"
+        },
+        {
+          "rel": "platform",
+          "href": "https://www.betterplace.org/de/projects/6233-skateistan-kambodscha"
+        },
+        {
+          "rel": "opinions",
+          "href": "https://api.betterplace.org/de/api_v4/projects/6233/opinions.json"
+        },
+        {
+          "rel": "pictures",
+          "href": "https://api.betterplace.org/de/api_v4/projects/6233/pictures.json"
+        },
+        {
+          "rel": "needs",
+          "href": "https://api.betterplace.org/de/api_v4/projects/6233/needs.json"
+        },
+        {
+          "rel": "blog_posts",
+          "href": "https://api.betterplace.org/de/api_v4/projects/6233/blog_posts.json"
+        },
+        {
+          "rel": "matching_funds",
+          "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=6233"
+        },
+        {
+          "rel": "new_client_donation",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/6233",
+          "templated": true
+        },
+        {
+          "rel": "new_donation",
+          "href": "https://www.betterplace.org/de/donate/platform/projects/6233"
+        }
+      ]
+    },
+    {
       "id": 49876,
       "created_at": "2016-11-07T17:06:41+01:00",
-      "updated_at": "2018-09-09T00:29:01+02:00",
+      "updated_at": "2019-05-29T00:29:24+02:00",
       "latitude": -26.19943231282456,
       "longitude": 28.0458325040039,
-      "street": "Birkenstraße 59",
+      "street": "Ulmenweg 81",
       "zip": "1937",
       "city": "Johannesburg",
       "country": "Südafrika",
-      "content_updated_at": "2017-10-08T18:54:54+02:00",
+      "content_updated_at": "2018-09-20T08:00:53+02:00",
       "activated_at": "2016-11-25T16:26:46+01:00",
       "title": " Unterstütze Sport &amp; Bildung für Kinder und Jugendliche mit Skateboarding",
       "description": "<div>▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾▾<br><strong>Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt;&gt;&gt; Spende 5€ um einen Unterrichtstag zu unterstützen &lt;&lt;&lt;</strong><br><br>Wir wollen, dass Skateistan noch mehr Kindern und Jugendlichen die Möglichkeit geben kann, skaten zu lernen. Skateistan glaubt daran, dass alle Kinder und Jugendlichen die gleichen Rechte haben, sicher zu sein, Sport zu treiben, zur Schule zu gehen, selbstsicher zu sein und eine Führungskraft zu werden.</div>",
       "summary": "Wir brauchen eure Unterstützung für alle Kinder und Jugendlichen, denen wir das Skaten ermöglichen möchten. Mach mit SKATE &amp; EDUCATE. <br><br>&gt; Spende 5€ um einen Unterrichtstag zu unterstützen ",
       "tax_deductible": true,
-      "donations_prohibited": false,
+      "donations_prohibited": true,
       "completed_at": "2018-05-20T17:27:42+02:00",
-      "closed_at": null,
+      "closed_at": "2018-09-20T08:00:51+02:00",
       "open_amount_in_cents": 0,
       "donated_amount_in_cents": 153000,
       "positive_opinions_count": 14,
       "negative_opinions_count": 0,
       "donations_count": 14,
+      "newsletter_subscriptions_count": 11,
       "comments_count": 0,
       "donor_count": 13,
       "progress_percentage": 100,
       "incomplete_need_count": 0,
       "completed_need_count": 6,
-      "blog_post_count": 7,
+      "blog_post_count": 8,
       "contact": {
         "id": 506119,
-        "name": "Kiana V.",
+        "name": "Franz Hellmich, der Lahme",
         "picture": {
           "links": [
             {
@@ -1504,170 +1669,22 @@ information for the donors.
         },
         {
           "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/49876/client_donations/new?client_id=%7Bclient_id%7D",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/49876",
           "templated": true
         },
         {
           "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/49876/donations/new"
-        }
-      ]
-    },
-    {
-      "id": 6233,
-      "created_at": "2011-02-25T08:48:43+01:00",
-      "updated_at": "2018-09-09T00:05:30+02:00",
-      "latitude": 11.55883121490479,
-      "longitude": 104.9174423217773,
-      "street": null,
-      "zip": null,
-      "city": "Phnom Penh",
-      "country": "Kambodscha",
-      "content_updated_at": "2016-02-29T09:00:37+01:00",
-      "activated_at": "2011-02-25T09:03:15+01:00",
-      "title": "Skateistan Cambodia",
-      "description": "Skateistan Cambodia began operations in March 2011, building the country's first skatepark in Phnom Penh. Since then the NGO has been teaching skateboarding and creative arts classes with marginalized and streetworking Khmer youth six days a week. <br><br>Skateboarding is a low-barrier, accessible activity that attracts girls and boys of all backgrounds and abilities. The interest from Cambodia's youth has grown so much since March 2011 that Skateistan Cambodia is now building its own facility to accommodate more than the 150 youth we currently work with weekly.<br><br>By building a safe and covered Skateistan facility in Phnom Pehn, Skateistan will provide year-round opportunities for youth to engage in recreational activities that encourages girls and boys of all backgrounds to build relationships with one another, while increasing their self-confidence and leadership skills. The facility will also have classroom spaces providing creative arts and multimedia activities for the students.<br><br>Partnering with local, best-practice NGOs in Cambodia, such as Pour un Sourire d'Enfant (PSE), Friends Intl., and Tiny Toones, Skateistan Cambodia also aims to use skateboarding as a tool to create a bridge between at-risk youth and the quality support services already existing in Phnom Penh.<br><br>Help us grow this grassroots project and create a safe space for all Cambodian youth to be a part of!",
-      "summary": "Skateistan Cambodia uses skateboarding as a tool for empowerment in Phnom Penh. This sport and educational NGO works with over 150 Cambodian youth (ages 5-18) each week.",
-      "tax_deductible": true,
-      "donations_prohibited": false,
-      "completed_at": null,
-      "closed_at": null,
-      "open_amount_in_cents": 356996,
-      "donated_amount_in_cents": 616304,
-      "positive_opinions_count": 60,
-      "negative_opinions_count": 0,
-      "donations_count": 60,
-      "comments_count": 0,
-      "donor_count": 57,
-      "progress_percentage": 63,
-      "incomplete_need_count": 8,
-      "completed_need_count": 15,
-      "blog_post_count": 36,
-      "contact": {
-        "id": 287126,
-        "name": "Hanka P.",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1523439147_Skateistan_facebook-02.png"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1523439147_Skateistan_facebook-02.png"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/287126"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/287126/contact_data.json"
-          }
-        ]
-      },
-      "carrier": {
-        "name": "Skateistan",
-        "city": "Berlin",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/fill_100x100_bp1523439289_Skateistan_facebook-01.png"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/001/054/crop_original_bp1523439289_Skateistan_facebook-01.png"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "self",
-            "href": "https://api.betterplace.org/de/api_v4/organisations/1054.json"
-          }
-        ]
-      },
-      "profile_picture": {
-        "links": [
-          {
-            "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_960x500_original_327569_368768896527128_1081473646_o.jpg"
-          },
-          {
-            "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_730x380_original_327569_368768896527128_1081473646_o.jpg"
-          },
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_618x322_original_327569_368768896527128_1081473646_o.jpg"
-          },
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_410x214_original_327569_368768896527128_1081473646_o.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/fill_270x141_original_327569_368768896527128_1081473646_o.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/006/233/crop_original_original_327569_368768896527128_1081473646_o.jpg"
-          }
-        ]
-      },
-      "active_matching_fund": null,
-      "closed_notice": null,
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/projects/6233.json"
-        },
-        {
-          "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/6233-skateistan-cambodia"
-        },
-        {
-          "rel": "opinions",
-          "href": "https://api.betterplace.org/de/api_v4/projects/6233/opinions.json"
-        },
-        {
-          "rel": "pictures",
-          "href": "https://api.betterplace.org/de/api_v4/projects/6233/pictures.json"
-        },
-        {
-          "rel": "needs",
-          "href": "https://api.betterplace.org/de/api_v4/projects/6233/needs.json"
-        },
-        {
-          "rel": "blog_posts",
-          "href": "https://api.betterplace.org/de/api_v4/projects/6233/blog_posts.json"
-        },
-        {
-          "rel": "matching_funds",
-          "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=6233"
-        },
-        {
-          "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/6233/client_donations/new?client_id=%7Bclient_id%7D",
-          "templated": true
-        },
-        {
-          "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/6233/donations/new"
+          "href": "https://www.betterplace.org/de/donate/platform/projects/49876"
         }
       ]
     },
     {
       "id": 60749,
       "created_at": "2018-02-22T20:01:23+01:00",
-      "updated_at": "2018-02-23T17:07:28+01:00",
+      "updated_at": "2019-03-01T17:36:40+01:00",
       "latitude": 34.5553494,
       "longitude": 69.207486,
-      "street": "Königsberger Straße 62",
+      "street": "Am Sportplatz 22",
       "zip": "",
       "city": "Kabul",
       "country": "Afghanistan",
@@ -1685,6 +1702,7 @@ information for the donors.
       "positive_opinions_count": 0,
       "negative_opinions_count": 0,
       "donations_count": 0,
+      "newsletter_subscriptions_count": 0,
       "comments_count": 0,
       "donor_count": 0,
       "progress_percentage": 0,
@@ -1693,7 +1711,7 @@ information for the donors.
       "blog_post_count": 0,
       "contact": {
         "id": 506119,
-        "name": "Kiana V.",
+        "name": "Franz Hellmich, der Lahme",
         "picture": {
           "links": [
             {
@@ -1800,12 +1818,12 @@ information for the donors.
         },
         {
           "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/60749/client_donations/new?client_id=%7Bclient_id%7D",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/60749",
           "templated": true
         },
         {
           "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/60749/donations/new"
+          "href": "https://www.betterplace.org/de/donate/platform/projects/60749"
         }
       ]
     }

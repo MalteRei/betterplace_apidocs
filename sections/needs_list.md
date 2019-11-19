@@ -256,9 +256,9 @@ Link to the regular donation form.
 
 ```json
 {
-  "total_entries": 97,
+  "total_entries": 101,
   "offset": 0,
-  "total_pages": 33,
+  "total_pages": 34,
   "current_page": 1,
   "per_page": 3,
   "data": [
@@ -284,12 +284,12 @@ Link to the regular donation form.
         },
         {
           "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/client_donations/new?client_id=%7Bclient_id%7D&donation_earmark_id=5228",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/1114?need_id=5228",
           "templated": true
         },
         {
           "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/donations/new?donation_earmark_id=5228"
+          "href": "https://www.betterplace.org/de/donate/platform/projects/1114?need_id=5228"
         }
       ]
     },
@@ -315,12 +315,12 @@ Link to the regular donation form.
         },
         {
           "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/client_donations/new?client_id=%7Bclient_id%7D&donation_earmark_id=5229",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/1114?need_id=5229",
           "templated": true
         },
         {
           "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/donations/new?donation_earmark_id=5229"
+          "href": "https://www.betterplace.org/de/donate/platform/projects/1114?need_id=5229"
         }
       ]
     },
@@ -346,12 +346,12 @@ Link to the regular donation form.
         },
         {
           "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/client_donations/new?client_id=%7Bclient_id%7D&donation_earmark_id=5237",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/1114?need_id=5237",
           "templated": true
         },
         {
           "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/donations/new?donation_earmark_id=5237"
+          "href": "https://www.betterplace.org/de/donate/platform/projects/1114?need_id=5237"
         }
       ]
     }

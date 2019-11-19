@@ -327,6 +327,21 @@ Count of confirmed donations for this project
 </td>
     </tr>
     <tr>
+      <th align="left">newsletter_subscriptions_count</th>
+      <td><code>number</code></td>
+      <td><code>42</code></td>
+<td>
+
+Count of active newsletter subscriptions for this project.
+
+EXPERIMENTAL 2019-02-21
+
+Can be removed at any time. Use with caution
+
+
+</td>
+    </tr>
+    <tr>
       <th align="left">comments_count</th>
       <td><code>number</code></td>
       <td><code>24</code></td>
@@ -1189,36 +1204,37 @@ information for the donors.
     {
       "id": 1114,
       "created_at": "2009-03-10T11:12:16+01:00",
-      "updated_at": "2018-10-05T15:25:11+02:00",
-      "latitude": 34.531617284782,
-      "longitude": 69.13581752939456,
-      "street": "Im Winkel 65",
+      "updated_at": "2019-11-15T12:57:29+01:00",
+      "latitude": 34.5553494,
+      "longitude": 69.207486,
+      "street": "Berliner Straße 73",
       "zip": "",
-      "city": "Kabul",
-      "country": "Afghanistan",
-      "content_updated_at": "2017-07-24T16:25:11+02:00",
-      "activated_at": "2009-03-10T12:29:29+01:00",
-      "title": "Skateistan Afghanistan",
-      "description": "<div>With 68% of Afghanistan’s population under the age of 25, Skateistan strongly believes that youth are the ones most capable of bringing about social change.<br><br>Skateistan is an Afghan NGO which operates Afghanistan’s (and the world’s) first co-educational skateboarding school. The Skateistan school engages nearly 400 Kabul youth weekly through skateboarding, and provides them with new opportunities in cross-cultural interaction, education, and personal empowerment programs. <br><br>The students (ages 5-17) come from all of Afghanistan’s diverse ethnic and socioeconomic backgrounds, and include 40% female students, hundreds of streetworking children, and youth with disabilities. They develop skills in skateboarding, leadership, problem-solving, multimedia, and creative arts. The students themselves decide what they want to learn; we connect them with a safe space and opportunities for them to develop the skills that they consider important. <br><br>For Afghan girls Skateistan's programming is especially important as there are very few recreational opportunities for females. For example, it is not culturally acceptable for girls in Afghanistan to ride bicycles or play sports in public. <br><br>Skateistan has been active in Kabul since 2007 - with our facility built in 2009 - and in that time we’ve seen that Afghan youth of all ethnicities, genders, and socioeconomic backgrounds love to skateboard. Skateistan brings them together, equipping young men and women to lead their communities toward social change and development.<br><br>In 2012 Skateistan will be opening its second Afghan facility in Mazar-e-Sharif, Northern Afghanistan. It will have space to teach up to 1000 youth weekly.<br><br>Our program gives hundreds of oppressed youth a voice. Education and the opportunity for self-expression can break the cycles of poverty, illiteracy and exclusion, with sport paving the way.</div>",
-      "summary": "Skateistan wurde als humanitäres Hilfsprojekt für Kinder und Jugendliche in Afghanistan im Jahr 2007 gegründet. Skateistan will Kindern in Kabul neue Perspektiven eröffnen, Vorurteile abbauen, Gleichberechtigung fördern und Freude bringen.",
+      "city": "Afghanistan, Cambodia",
+      "country": "Südafrika",
+      "content_updated_at": "2019-10-21T17:27:32+02:00",
+      "activated_at": "2009-03-10T00:00:00+01:00",
+      "title": "Unterstütze Skateistan - Sport &amp; Bildung für Kinder",
+      "description": "<div>Skateistan ist eine mehrfach ausgezeichnete, internationale non-profit Organisation, welche Kinder in Afghanistan, Kambodscha und Südafrika durch Skateboarden und Bildung stark macht. Mit unseren innovativen Programmen möchten wir jungen Menschen die Möglichkeit bieten Vorbilder für eine bessere Welt zu werden. Viele unserer Schüler haben nur wenige Möglichkeiten an Sport- und Bildungsangeboten teilzunehmen. Das betrifft insbesondere Mädchen, gehandicapte Kinder und andere Minderheiten. Armut, Konflikte und Gefahren sind die Realitäten für die Menschen in den Gebieten, wo wir aktiv sind. In solchen Umständen ist es schwer für die Kinder gehört zu werden und genauso mühsam ihr physisches und mentales Wohl sicherzustellen.<br><br>Wir von Skateistan glauben, dass jedes Kind einen Zugang zu Bildung und Freizeitgestaltung braucht, bei dem sie Selbstvertrauen aufbauen können, Freunde kennen lernen und neue Fähigkeiten erlernen, die eine positive Vorbildfunktion mit sich bringen. Skateistan erreicht mit ihren Skateschulen derzeit mehr als 2.600 Schüler weltweit. Über die Hälfte der Skateistan Schüler sind weiblich und Skateboarden ist seither der größte Sport für Mädchen in Afghanistan.<br><br>In 2018 haben wir unseren zehnten Geburtstag gefeiert. Von einigen wenigen Mädchen auf Skateboards in Kabul ist Skateistan zu einer internationalen Nichtregierungsorganisation mit über 2000 aktiven Schülern in drei Ländern gewachsen. <strong>Doch das ist für uns erst der Anfang. Wir wollen noch mehr erreichen, so dass noch mehr Kinder durch Bildung und Skateboarding gestärkt werden.<br></strong><br>\n</div><div>Indem wir Programme für Kinder aus sämtlichen Gesellschaftsschichten zur Verfügung stellen, helfen wir, soziale Grenzen abzubauen. Wir zeigen Kindern, dass Vielfalt etwas ist, was es zu feiern gilt. <strong>Über 50% unserer Schüler sind Mädchen und 78% unserer Schüler kommen aus Familien, die über keine finanziellen Mittel zur Selbsthilfe verfügen</strong>. 160 unserer Kinder leben mit Behinderungen und über 70 Kinder sind im eigenen Land vertrieben.<br><br>\n</div><div>Deswegen betreibt Skateistan Skate-Schulen in Afghanistan, Kambodscha und Südafrika, die den Spaß und den Freigeist von Skateboarding verbindet mit der Chance für die Kinder, ihre kreativen Talente und Interessen auszuprobieren. <strong>Wir glauben, dass Bildung der beste Weg ist, um Kinder zu stärken</strong>, sodass sie den Wandel in ihrem eigenen Umfeld, in ihren Familien, ihren Nachbarschaften einleiten und Gelerntes dort weitergeben. Indem sie über Spiel und Spaß lernen, stellen wir eine positive Verbindung zu Bildung her. Skateboarding lehrt sie außerdem Lektionen, die sie für ihr ganzes Leben behalten. <strong>Skateboarding lehrt sie, kreativ zu werden, hinzufallen und wieder aufzustehen und auf ein Ziel hinzuarbeiten.</strong>\n</div><div><br></div>",
+      "summary": "Skateistan will Kindern in Afghanistan, Kambodsha und Sudafrika neue Perspektiven eröffnen, Vorurteile abbauen, Gleichberechtigung fördern und Freude bringen.",
       "tax_deductible": true,
       "donations_prohibited": false,
       "completed_at": null,
       "closed_at": null,
-      "open_amount_in_cents": 781851,
-      "donated_amount_in_cents": 5782001,
-      "positive_opinions_count": 790,
+      "open_amount_in_cents": 1111139,
+      "donated_amount_in_cents": 6463713,
+      "positive_opinions_count": 899,
       "negative_opinions_count": 0,
-      "donations_count": 790,
+      "donations_count": 899,
+      "newsletter_subscriptions_count": 343,
       "comments_count": 0,
-      "donor_count": 577,
-      "progress_percentage": 88,
-      "incomplete_need_count": 4,
-      "completed_need_count": 93,
+      "donor_count": 655,
+      "progress_percentage": 85,
+      "incomplete_need_count": 5,
+      "completed_need_count": 96,
       "blog_post_count": 94,
       "contact": {
         "id": 287126,
-        "name": "Hanka P.",
+        "name": "Daniel Schäfer",
         "picture": {
           "links": [
             {
@@ -1268,27 +1284,27 @@ information for the donors.
         "links": [
           {
             "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_960x500_original_girls-merza-sm.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_960x500_bp1571671652_oman_1.png"
           },
           {
             "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_730x380_original_girls-merza-sm.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_730x380_bp1571671652_oman_1.png"
           },
           {
             "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_618x322_original_girls-merza-sm.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_618x322_bp1571671652_oman_1.png"
           },
           {
             "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_410x214_original_girls-merza-sm.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_410x214_bp1571671652_oman_1.png"
           },
           {
             "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_270x141_original_girls-merza-sm.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_270x141_bp1571671652_oman_1.png"
           },
           {
             "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/crop_original_original_girls-merza-sm.jpg"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/crop_original_bp1571671652_oman_1.png"
           }
         ]
       },
@@ -1301,7 +1317,7 @@ information for the donors.
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-skateistan-afghanistan"
+          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder"
         },
         {
           "rel": "opinions",
@@ -1320,17 +1336,21 @@ information for the donors.
           "href": "https://api.betterplace.org/de/api_v4/projects/1114/blog_posts.json"
         },
         {
+          "rel": "video",
+          "href": "https://www.youtube.com/watch?v=nl79wvm3s_g"
+        },
+        {
           "rel": "matching_funds",
           "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=1114"
         },
         {
           "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/client_donations/new?client_id=%7Bclient_id%7D",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/1114",
           "templated": true
         },
         {
           "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/projects/1114/donations/new"
+          "href": "https://www.betterplace.org/de/donate/platform/projects/1114"
         }
       ]
     }
