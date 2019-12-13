@@ -2,7 +2,7 @@
 # Project Categories List
 
 ```Cirru
-GET https://api.betterplace.org/de/api_v4/projects/1114/categories.json?order=position%3AASC
+GET https://api.betterplace.org/de/api_v4/projects/1114/categories.json
 ```
 
 A list of betterplace.org project categories.
@@ -25,21 +25,6 @@ Results are contained in a *data* attribute.
 <td>
 
 Project id as an integer number ≥ 14.
-
-</td>
-  </tr>
-  <tr>
-    <th align="left">order</th>
-    <td><code>position:ASC</code></td>
-    <td>no</td>
-<td>
-
-Order the result set. Documented and supported orders are:
-<ul>
-  <li><code>position:asc/desc</code> – Position of the category.
-</ul>
-<a href="../README.md#request-parameter-format">Learn how to format the parameter</a>.
-
 
 </td>
   </tr>
