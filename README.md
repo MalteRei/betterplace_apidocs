@@ -46,6 +46,7 @@ about updates and scheduled downtimes.
     1. [Project **Need** Details](sections/need_details.md)
     1. [Project **Blog Posts** List](sections/blog_posts_list.md)
     1. [Project **Blog Post** Details](sections/blog_post_details.md)
+    1. [Project **Categories** List](sections/categories_list.md)
     1. [Project **Opinions** List](sections/opinions_list.md)
     1. [Project **Pictures** List](sections/project_pictures_list.md)
     1. [Project **Picture** Details](sections/project_picture_details.md)
