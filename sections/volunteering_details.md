@@ -2,7 +2,7 @@
 # Volunteering Details ⇄ [List](volunteering_list.md)
 
 ```Cirru
-GET https://api.betterplace.org/de/api_v4/volunteering/77694.json
+GET https://api.betterplace.org/de/api_v4/volunteering/77787.json
 ```
 
 The details of a betterplace.org volunteering offer (donate time).
@@ -22,7 +22,7 @@ This resource is not available at the moment.
   </tr>
   <tr>
     <th align="left">id</th>
-    <td><code>77694</code></td>
+    <td><code>77787</code></td>
     <td>yes</td>
 <td>
 
@@ -879,62 +879,63 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "id": 77694,
-  "created_at": "2019-10-09T13:12:40+02:00",
-  "updated_at": "2019-10-09T13:12:40+02:00",
-  "latitude": 48.2238,
-  "longitude": 10.1112,
-  "street": "Kreuzweg 187",
-  "zip": "89257",
-  "city": "Illertissen",
+  "id": 77787,
+  "created_at": "2019-12-04T15:42:17+01:00",
+  "updated_at": "2019-12-04T15:44:52+01:00",
+  "latitude": 52.5421,
+  "longitude": 13.3901,
+  "street": "Gartenweg 41",
+  "zip": "13355",
+  "city": "Berlin",
   "country": "Deutschland",
-  "content_updated_at": "2019-10-09T13:12:39+02:00",
-  "title": "Medienabhängigkeit, Onlinesucht, Onlinespielsucht, Cybermobbing &amp; Onlinesexsucht",
-  "description": "Ich suche Mitstreiter die etwas bewegen wollen. Angehörigen und Eltern aber Kindern helfen nicht in den Medien-Boom zu geraten. Mit den Digitalen Medien umzugehen lernen. Gemeinsame Projekte Planen und vielleicht auch einen Verein daraus Gründen.  Grüße Ronald<br><br>www.die-letzte-quest.de",
+  "content_updated_at": "2019-12-04T15:44:52+01:00",
+  "title": "Unterstützt uns als Redakteur*in bei unserer konstruktiven News-App",
+  "description": "Wir sind ein kleiner Verein in der Gründungsphase, dessen Ziel es ist, dem Übergewicht an schlechten Nachrichten und Medienbeiträgen ohne Lösungsperspektive etwas entgegenzusetzen. Dafür setzen wir auf digitale Medien und einen neuartigen, kuratierten News-Service.<br><br>Hilfe brauchen wir zurzeit noch bei unserer deutschen Ausgabe: Du könntest an einem oder zwei Tagen pro Woche (jeweils eher 5 als 8 Stunden) die Recherche und Produktion einer News-Ausgabe übernehmen. Dabei durchsuchst Du einen Großteil der verfügbaren, deutschsprachigen Online-Artikel auf spannende und relevante lösungsorientierte Beiträge. Anschließend triffst Du eine Auswahl und sortiert die besten Artikel, Videos etc. nach verschiedenen Kriterien. Teilweise müssen Überschriften und Teaser-Texte umgeschrieben oder neu geschrieben werden. Am Ende wird die fertige Ausgabe in unsere Content Management Systeme (für App, Website und Newsletter) eingespeist und über unsere Social Media Kanäle verbreitet.<br><br>Wenn ihr journalistische Berufserfahrung habt, ist das super. Wichtig ist dabei vor allem das Schreiben von Überschriften und Teasern, das Gewichten und Setzen von Themen, sowie die Auswahl guter Bilder.<br><br>Vor und nach unserem Launch Anfang 2020 werden wir zunächst alle ehrenamtlich arbeiten. Gleichzeitig verfolgen wir aber auch ein solides Online-Fundraising-Modell, so dass nach einiger Zeit auch Budget zur Verfügung stehen soll, um Honorare zu zahlen.<br><br>Home-Office ist grundsätzlich möglich. Allerdings wäre es am besten sich zumindest ein mal pro Woche auch vor Ort (in Berlin) zu treffen und zusammen zu arbeiten (ua. auch mit den Kolleg*innen unserer englischen Ausgabe).",
   "carrier": null,
   "vacancies": 2,
   "image": {
-    "description": "Logo Selbsthilfe und Prävention",
+    "description": "© Stokpic / Pixabay (CC0)",
     "links": [
       {
         "rel": "fill_618x322",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_618x322_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_618x322_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "fill_270x141",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_270x141_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_270x141_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "original",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "thumb",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/thumb_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/thumb_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "medium",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/medium_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/medium_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "regular",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/regular_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/regular_bp1575470537_squirrel-Titelbild-1920.jpg"
       }
     ]
   },
   "contact": {
-    "name": "Edward Hermann",
-    "phone": "0176 34 41 50 51",
-    "email": "41666acddd9b9cadbab1161035f1414cde77917e8e10709e5d8c37333266f13e@betterplace.jp",
+    "name": "Davina Gerber",
+    "phone": "",
+    "email": "0110245283d881e7fe5713e26d3703adb24dcbc2fa3716f1cd1e76ac6bc39933@betterplace.jp",
     "picture": {
+      "fallback": true,
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/578/492/fill_100x100_bp1570619046_Ronald-Stolz_Podcast.jpg"
+          "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/578/492/crop_original_bp1570619046_Ronald-Stolz_Podcast.jpg"
+          "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
         }
       ]
     },
@@ -948,20 +949,19 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
   ],
   "working_time_weekdays": [
-
+    "vormittags",
+    "nachmittags"
   ],
   "begins_at": null,
   "ends_at": null,
   "topics": [
     "Bildung",
-    "Kinder & Jugendliche",
-    "Kranke",
-    "Kultur, Freizeit & Sport"
+    "Kultur, Freizeit & Sport",
+    "Menschenrechte"
   ],
   "activities": [
-    "Gruppen betreuen",
-    "organisieren/planen",
-    "programmieren",
+    "Büroarbeit",
+    "schreiben/übersetzen",
     "PR / Social Media"
   ],
   "imported_from": null,
@@ -970,42 +970,42 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     "links": [
       {
         "rel": "fill_960x500",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_960x500_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_960x500_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "fill_730x380",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_730x380_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_730x380_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "fill_618x322",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_618x322_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_618x322_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "fill_410x214",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_410x214_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_410x214_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "fill_270x141",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/fill_270x141_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_270x141_bp1575470537_squirrel-Titelbild-1920.jpg"
       },
       {
         "rel": "original",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/694/crop_original_bp1570619559_Logo_-_Viakleb.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/crop_original_bp1575470537_squirrel-Titelbild-1920.jpg"
       }
     ]
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/volunteering/77694.json"
+      "href": "https://api.betterplace.org/de/api_v4/volunteering/77787.json"
     },
     {
       "rel": "platform",
-      "href": "https://www.betterplace.org/de/volunteering/77694-medienabhangigkeit-onlinesucht-onlinespielsucht-cybermobbing-onlinesexsucht"
+      "href": "https://www.betterplace.org/de/volunteering/77787-unterstutzt-uns-als-redakteur-in-bei-unserer-konstruktiven-news-app"
     },
     {
       "rel": "inquiries",
-      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/77694-medienabhangigkeit-onlinesucht-onlinespielsucht-cybermobbing-onlinesexsucht/inquiries.json",
+      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/77787-unterstutzt-uns-als-redakteur-in-bei-unserer-konstruktiven-news-app/inquiries.json",
       "templated": true
     }
   ]

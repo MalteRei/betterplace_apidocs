@@ -1012,177 +1012,12 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "per_page": 3,
   "data": [
     {
-      "id": 7259,
-      "created_at": "2013-03-08T11:45:28+01:00",
-      "updated_at": "2019-07-05T09:58:18+02:00",
-      "latitude": 44.62649917602539,
-      "longitude": -85.78849792480469,
-      "street": null,
-      "zip": null,
-      "city": null,
-      "country": null,
-      "content_updated_at": "2016-02-03T07:23:47+01:00",
-      "title": "Improve our website and online info: Social media expert",
-      "description": "The volunteer will: <br>Help to translate our project blog in Germany<br>Volunteer will help in office work. <br>The volunteer will mobilise his or her network to help spread the word about our crowdfunding campaigns.<br>The volunteer will write online reports and blogs about the implemented work in the organisation. <br>Volunteer will engage in unskillled work like construction of domesticated animal houses. <br>Help in updating our betterplace project page.<br>The volunteer will post pictures of our activities and write comments about them in German.",
-      "carrier": {
-        "latitude": 44.62649917602539,
-        "longitude": -85.78849792480469,
-        "name": "Ndibwami Integrated Rescue Project",
-        "street": "Neuer Weg 99",
-        "city": "Kamapala",
-        "zip": "256",
-        "country": "Uganda",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/177/fill_100x100_original_NIRP_LOGO.jpg"
-            },
-            {
-              "rel": "fill_200x200",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/177/fill_200x200_original_NIRP_LOGO.jpg"
-            },
-            {
-              "rel": "fill_400x400",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/177/fill_400x400_original_NIRP_LOGO.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/177/crop_original_original_NIRP_LOGO.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "self",
-            "href": "https://api.betterplace.org/de/api_v4/organisations/4177.json"
-          }
-        ]
-      },
-      "vacancies": 3,
-      "image": {
-        "description": "Volunteers share business skills with women groups",
-        "links": [
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/fill_618x322_home-office.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/fill_270x141_home-office.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/home-office.jpg"
-          },
-          {
-            "rel": "thumb",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/thumb_home-office.jpg"
-          },
-          {
-            "rel": "medium",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/medium_home-office.jpg"
-          },
-          {
-            "rel": "regular",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/regular_home-office.jpg"
-          }
-        ]
-      },
-      "contact": {
-        "name": "Mia Winkler",
-        "phone": "+256773779423",
-        "email": "f5c8f3048dc5e77144b9736c699814912a136a141211531bc3b01910ebe2eda8@betterplace.jp",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/106/107/fill_100x100_original_nalugo.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/106/107/crop_original_original_nalugo.jpg"
-            }
-          ]
-        },
-        "links": [
-
-        ]
-      },
-      "location_fixed": false,
-      "working_time_selection": "egal wann / nach Vereinbarung",
-      "working_time_weekends": [
-
-      ],
-      "working_time_weekdays": [
-
-      ],
-      "begins_at": null,
-      "ends_at": null,
-      "topics": [
-        "Bildung",
-        "Kinder & Jugendliche",
-        "Kranke",
-        "Sozial Benachteiligte"
-      ],
-      "activities": [
-        "Büroarbeit",
-        "programmieren",
-        "PR / Social Media"
-      ],
-      "imported_from": null,
-      "import_information": null,
-      "profile_picture": {
-        "links": [
-          {
-            "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/fill_960x500_home-office.jpg"
-          },
-          {
-            "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/fill_730x380_home-office.jpg"
-          },
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/fill_618x322_home-office.jpg"
-          },
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/fill_410x214_home-office.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/fill_270x141_home-office.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/259/crop_original_home-office.jpg"
-          }
-        ]
-      },
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/volunteering/7259.json"
-        },
-        {
-          "rel": "platform",
-          "href": "https://www.betterplace.org/de/volunteering/7259-improve-our-website-and-online-info-social-media-expert"
-        },
-        {
-          "rel": "inquiries",
-          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7259-improve-our-website-and-online-info-social-media-expert/inquiries.json",
-          "templated": true
-        }
-      ]
-    },
-    {
       "id": 7268,
       "created_at": "2013-03-11T18:00:54+01:00",
       "updated_at": "2019-08-05T12:07:53+02:00",
       "latitude": 52.52,
       "longitude": 13.405,
-      "street": "An der Kirche 181",
+      "street": "Grüner Weg 70",
       "zip": "",
       "city": "Berlin",
       "country": "Deutschland",
@@ -1193,7 +1028,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         "latitude": 52.46874,
         "longitude": 13.4341,
         "name": "Bürgerstiftung Neukölln",
-        "street": "Ulmenstraße 194",
+        "street": "Hölderlinstraße 168",
         "city": "Berlin",
         "zip": "12051",
         "country": "Deutschland",
@@ -1255,9 +1090,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Shania Greiner",
+        "name": "Milan Hiller",
         "phone": "030 627 380 14",
-        "email": "65338f11eb2510949961b808b8e3963f9d02515e1c8dcc6a5c6b40e7f1ee97d5@betterplace.jp",
+        "email": "3093875abe77f5f6f24507030196f4e01a1ff2d7e755e7082f11d80014789662@betterplace.jp",
         "picture": {
           "links": [
             {
@@ -1340,96 +1175,96 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       ]
     },
     {
-      "id": 7386,
-      "created_at": "2013-03-16T18:13:20+01:00",
-      "updated_at": "2019-09-17T22:54:50+02:00",
-      "latitude": 5.60372,
-      "longitude": -0.186964,
-      "street": "Dorfplatz 174",
-      "zip": "",
-      "city": "Accra",
-      "country": "Ghana",
-      "content_updated_at": "2019-09-17T22:54:50+02:00",
-      "title": "We need your skills and your passion",
-      "description": "Volunteering is a great opportunity for students pursuing a teaching or career to gain hands-on experience or others in the profession to lend a hand with their expertise.  We are always looking for people with all types of skills to help us make a brighter life for children in Ghana. We have the following opportunities available:- <br><br>VOLUNTEER ONLINE <br><br>•\tVolunteer Services Coordinator<br>•\tOnline Volunteer Manager<br>•\tResearch of Potential Partners<br>•\tVolunteer Services Coordinator<br>•\tProject Proposal Writing<br><br>As a volunteer teacher in Ghana, you will receive assistance from the local school teachers with regards to lesson plans and teaching curriculum. You will receive a Teaching Guide book which gives you advice and to assist you in your daily work with the children. You will also receive a timetable displaying when each class and subject is taught throughout the week.<br><br>ON SITE<br><br>•\tArt, dance and theater teaching assistants<br>•\tVocational teaching assistants<br>•\tPhysical education teachers<br>•\tReading and writing teachers<br>•\tTeaching Assistant<br><br>Are you looking for a way to volunteer in an international project from your computer without traveling?  If yes, then, CSAG has an opportunity for you to get involved with CSAG by being an Ambassador in any of the following or under-listed areas. <br><br>•\tSchool Representative<br>•\tUniversity’s Representatives<br>•\tCountry Representative<br>•\tCommunity Representative<br>•\tChurch Representatives<br><br>BENEFIT OF VOLUNTEERING<br><br>•\tChild Survival Aid Ghana gives you an incredible opportunity to change the world. You will change the lives of vulnerable children in rural Ghana.  <br>•\tYou will receive a Certificate of appreciation from CSAG upon completion of task. <br>•\tWe will endorse you of any recommendation you will need  base on your volunteer commitment<br>•\tBy volunteering your time and talents, you will be part of something extraordinary: a movement to end poverty and illiteracy in Ghana.",
+      "id": 7402,
+      "created_at": "2013-03-18T22:27:45+01:00",
+      "updated_at": "2019-11-28T04:30:35+01:00",
+      "latitude": 54.0424,
+      "longitude": 13.7688,
+      "street": "Kirchplatz 47",
+      "zip": "17438",
+      "city": "Wolgast",
+      "country": "Deutschland",
+      "content_updated_at": "2019-01-01T09:19:14+01:00",
+      "title": "Möchtest Du Dich gern ehrenamtlich engagieren? Dann komm zu uns ins Katzenhaus! Tel. 0174 17 42 010 ",
+      "description": "Wir suchen Freiwillige, die uns helfen die über 54 Katzen im Katzenschutzverein zu versorgen. Dazu gehört das Füttern, das Säubern der Katzenklos und natürlich ganz viel streicheln, spielen und schmusen! Jede Hilfe ist willkommen, daher sind regelmäßige Einsätze wünschenswert, aber nicht Voraussetzung. Wir freuen uns auf Dich!",
       "carrier": {
-        "latitude": 5.6502799987793,
-        "longitude": -0.19098700582981,
-        "name": "Child Survival Aid Ghana",
-        "street": "Leipziger Straße 188",
-        "city": "Accra",
-        "zip": "233",
-        "country": "Ghana",
+        "latitude": 54.04240036010742,
+        "longitude": 13.76879978179932,
+        "name": "Katzenschutzverein Wolgast e.V.",
+        "street": "Friedhofstraße 27",
+        "city": "Wolgast",
+        "zip": "17438",
+        "country": "Deutschland",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/fill_100x100_bp1555159740_logo_for_csag.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/fill_100x100_original_391835_297273170296885_1980697066_n.jpg"
             },
             {
               "rel": "fill_200x200",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/fill_200x200_bp1555159740_logo_for_csag.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/fill_200x200_original_391835_297273170296885_1980697066_n.jpg"
             },
             {
               "rel": "fill_400x400",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/fill_400x400_bp1555159740_logo_for_csag.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/fill_400x400_original_391835_297273170296885_1980697066_n.jpg"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/762/crop_original_bp1555159740_logo_for_csag.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/crop_original_original_391835_297273170296885_1980697066_n.jpg"
             }
           ]
         },
         "links": [
           {
             "rel": "self",
-            "href": "https://api.betterplace.org/de/api_v4/organisations/4762.json"
+            "href": "https://api.betterplace.org/de/api_v4/organisations/4503.json"
           }
         ]
       },
-      "vacancies": 10,
+      "vacancies": 4,
       "image": {
-        "description": "",
+        "description": "Für alle unseren schnurrenden Miezen im Katzenhaus!",
         "links": [
           {
             "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_618x322_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_618x322_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_270x141_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_270x141_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "thumb",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/thumb_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/thumb_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "medium",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/medium_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/medium_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "regular",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/regular_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/regular_bp1546329190_20181227_185142.jpg"
           }
         ]
       },
       "contact": {
-        "name": "Meryem Bergmann",
-        "phone": "+ 233- (0) 267702211",
-        "email": "07d4dceb6344579d76c324e80295b9d997b66c7d827bf0aa20da8f1502be8bf1@betterplace.jp",
+        "name": "Vera Lechner",
+        "phone": "0174 17 42 010",
+        "email": "69fc96f7ca1dd644d815fed847dd6c362380424d4775ad20ba8788ddfecad4ab@betterplace.jp",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/093/671/fill_100x100_ma.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/124/889/fill_100x100_bp1541552429_Logo_Katzenschutzverein.jpg"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/093/671/crop_original_ma.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/124/889/crop_original_bp1541552429_Logo_Katzenschutzverein.jpg"
             }
           ]
         },
@@ -1448,15 +1283,10 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "begins_at": null,
       "ends_at": null,
       "topics": [
-        "Bildung",
-        "Kinder & Jugendliche",
-        "Sozial Benachteiligte"
+        "Tierschutz & Umwelt"
       ],
       "activities": [
-        "besuchen/begleiten",
-        "organisieren/planen",
-        "Nachhilfe/vorlesen",
-        "PR / Social Media"
+        "pflegen/betreuen"
       ],
       "imported_from": null,
       "import_information": null,
@@ -1464,42 +1294,207 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         "links": [
           {
             "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_960x500_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_960x500_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_730x380_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_730x380_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_618x322_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_618x322_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_410x214_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_410x214_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/fill_270x141_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_270x141_bp1546329190_20181227_185142.jpg"
           },
           {
             "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/386/crop_original_bp1568753336_IMG_1783.JPG"
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/crop_original_bp1546329190_20181227_185142.jpg"
           }
         ]
       },
       "links": [
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/volunteering/7386.json"
+          "href": "https://api.betterplace.org/de/api_v4/volunteering/7402.json"
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/volunteering/7386-we-need-your-skills-and-your-passion"
+          "href": "https://www.betterplace.org/de/volunteering/7402-mochtest-du-dich-gern-ehrenamtlich-engagieren-dann-komm-zu-uns-ins-katzenhaus-tel-0174-17-42-010"
         },
         {
           "rel": "inquiries",
-          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7386-we-need-your-skills-and-your-passion/inquiries.json",
+          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7402-mochtest-du-dich-gern-ehrenamtlich-engagieren-dann-komm-zu-uns-ins-katzenhaus-tel-0174-17-42-010/inquiries.json",
+          "templated": true
+        }
+      ]
+    },
+    {
+      "id": 7435,
+      "created_at": "2013-03-20T10:22:43+01:00",
+      "updated_at": "2019-10-31T11:05:26+01:00",
+      "latitude": 52.5077,
+      "longitude": 13.3319,
+      "street": "Waldweg 46",
+      "zip": "10623",
+      "city": "Berlin",
+      "country": "Deutschland",
+      "content_updated_at": "2019-05-24T12:37:31+02:00",
+      "title": "Medizinische Hilfe für obdachlose Menschen - Ambulanz, Arztmobil, Krankenwohnung",
+      "description": "+++ Medizinische Hilfe für obdachlose Menschen +++ Wir behandeln obdachlose Menschen, die keine Krankenversicherung haben und nicht in andere Arztpraxen gehen. Angebote: Krankenwohnung in der Turmstraße, medizinische Ambulanz  am Bahnhof Zoo, Arztmobil. Das Arztmobil ist ein zu einer mobilen Praxis ausgebauter Kleintransporter und fährt dahin, wo sich Obdachlose aufhalten: an bekannte Szeneplätze, vor Suppenküchen etc. Für alle Angebote suchen wir ehrenamtlich engagierte Ärztinnen und Ärzte (mit Approbation) aller Fachrichtungen, gerne auch im Ruhestand, die in der Krankenwhnung, der med. Ambulanz oder im Arztmobil helfen wollen. Der ehrenamtliche Einsatz kann flexibel eingeteilt werden, es gibt eine Aufwandsentschädigung.",
+      "carrier": {
+        "latitude": 52.55973,
+        "longitude": 13.37038,
+        "name": "Caritasverband für das Erzbistum Berlin e.V.",
+        "street": "Markt 161",
+        "city": "Berlin",
+        "zip": "12203",
+        "country": "Deutschland",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/568/fill_100x100_bp1481028470_logo_caritas_erzbistum_links_web.jpg"
+            },
+            {
+              "rel": "fill_200x200",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/568/fill_200x200_bp1481028470_logo_caritas_erzbistum_links_web.jpg"
+            },
+            {
+              "rel": "fill_400x400",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/568/fill_400x400_bp1481028470_logo_caritas_erzbistum_links_web.jpg"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/568/crop_original_bp1481028470_logo_caritas_erzbistum_links_web.jpg"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.betterplace.org/de/api_v4/organisations/13568.json"
+          }
+        ]
+      },
+      "vacancies": 4,
+      "image": {
+        "description": "Untersuchung im Arztmobil.",
+        "links": [
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/fill_618x322_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/fill_270x141_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "thumb",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/thumb_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "medium",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/medium_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "regular",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/regular_Behandlung_Arztmobil.jpg"
+          }
+        ]
+      },
+      "contact": {
+        "name": "Dorian Wolf",
+        "phone": "030666331279",
+        "email": "bb2dceb6e1e2c8f616aae3059aa167eb3e8588ca1879560274a460efa3f4e463@betterplace.jp",
+        "picture": {
+          "fallback": true,
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+            }
+          ]
+        },
+        "links": [
+
+        ]
+      },
+      "location_fixed": true,
+      "working_time_selection": "regelmäßig/langfristig",
+      "working_time_weekends": [
+
+      ],
+      "working_time_weekdays": [
+        "vormittags",
+        "nachmittags",
+        "abends"
+      ],
+      "begins_at": null,
+      "ends_at": null,
+      "topics": [
+        "Kranke",
+        "Menschenrechte",
+        "Sozial Benachteiligte"
+      ],
+      "activities": [
+        "pflegen/betreuen"
+      ],
+      "imported_from": null,
+      "import_information": null,
+      "profile_picture": {
+        "links": [
+          {
+            "rel": "fill_960x500",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/fill_960x500_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "fill_730x380",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/fill_730x380_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/fill_618x322_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/fill_410x214_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/fill_270x141_Behandlung_Arztmobil.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/435/crop_original_Behandlung_Arztmobil.jpg"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.betterplace.org/de/api_v4/volunteering/7435.json"
+        },
+        {
+          "rel": "platform",
+          "href": "https://www.betterplace.org/de/volunteering/7435-medizinische-hilfe-fur-obdachlose-menschen-ambulanz-arztmobil-krankenwohnung"
+        },
+        {
+          "rel": "inquiries",
+          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7435-medizinische-hilfe-fur-obdachlose-menschen-ambulanz-arztmobil-krankenwohnung/inquiries.json",
           "templated": true
         }
       ]

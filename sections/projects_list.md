@@ -1107,6 +1107,19 @@ Link to <a href="matching_funds_list.md">matching funds list</a>
     <tr>
 <th align="left">
 
+categories
+
+</th>
+<td>
+
+Link to <a href="categories_list.md">categories list</a>
+
+
+</td>
+    </tr>
+    <tr>
+<th align="left">
+
 new_client_donation
 
 </th>
@@ -1379,7 +1392,7 @@ information for the donors.
     {
       "id": 6233,
       "created_at": "2011-02-25T08:48:43+01:00",
-      "updated_at": "2019-10-09T00:02:23+02:00",
+      "updated_at": "2019-12-04T00:01:50+01:00",
       "latitude": 11.55883121490479,
       "longitude": 104.9174423217773,
       "street": null,
@@ -1395,21 +1408,21 @@ information for the donors.
       "donations_prohibited": false,
       "completed_at": null,
       "closed_at": null,
-      "open_amount_in_cents": 156996,
-      "donated_amount_in_cents": 816304,
-      "positive_opinions_count": 61,
+      "open_amount_in_cents": 146996,
+      "donated_amount_in_cents": 826304,
+      "positive_opinions_count": 62,
       "negative_opinions_count": 0,
-      "donations_count": 61,
-      "newsletter_subscriptions_count": 26,
+      "donations_count": 62,
+      "newsletter_subscriptions_count": 27,
       "comments_count": 0,
-      "donor_count": 58,
-      "progress_percentage": 83,
+      "donor_count": 59,
+      "progress_percentage": 84,
       "incomplete_need_count": 5,
       "completed_need_count": 18,
       "blog_post_count": 38,
       "contact": {
         "id": 287126,
-        "name": "Daniel Schäfer",
+        "name": "Katharina Pfeffer",
         "picture": {
           "links": [
             {
@@ -1515,6 +1528,10 @@ information for the donors.
           "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=6233"
         },
         {
+          "rel": "categories",
+          "href": "https://api.betterplace.org/de/api_v4/projects/6233/categories.json"
+        },
+        {
           "rel": "new_client_donation",
           "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/6233",
           "templated": true
@@ -1531,7 +1548,7 @@ information for the donors.
       "updated_at": "2019-05-29T00:29:24+02:00",
       "latitude": -26.19943231282456,
       "longitude": 28.0458325040039,
-      "street": "Ulmenweg 81",
+      "street": "Karlstraße 108",
       "zip": "1937",
       "city": "Johannesburg",
       "country": "Südafrika",
@@ -1558,7 +1575,7 @@ information for the donors.
       "blog_post_count": 8,
       "contact": {
         "id": 506119,
-        "name": "Franz Hellmich, der Lahme",
+        "name": "Miray Yıldırım",
         "picture": {
           "links": [
             {
@@ -1668,6 +1685,10 @@ information for the donors.
           "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=49876"
         },
         {
+          "rel": "categories",
+          "href": "https://api.betterplace.org/de/api_v4/projects/49876/categories.json"
+        },
+        {
           "rel": "new_client_donation",
           "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/projects/49876",
           "templated": true
@@ -1681,10 +1702,10 @@ information for the donors.
     {
       "id": 60749,
       "created_at": "2018-02-22T20:01:23+01:00",
-      "updated_at": "2019-03-01T17:36:40+01:00",
+      "updated_at": "2019-12-02T18:19:56+01:00",
       "latitude": 34.5553494,
       "longitude": 69.207486,
-      "street": "Am Sportplatz 22",
+      "street": "Meisenweg 48",
       "zip": "",
       "city": "Kabul",
       "country": "Afghanistan",
@@ -1711,7 +1732,7 @@ information for the donors.
       "blog_post_count": 0,
       "contact": {
         "id": 506119,
-        "name": "Franz Hellmich, der Lahme",
+        "name": "Miray Yıldırım",
         "picture": {
           "links": [
             {
@@ -1815,6 +1836,10 @@ information for the donors.
         {
           "rel": "matching_funds",
           "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=60749"
+        },
+        {
+          "rel": "categories",
+          "href": "https://api.betterplace.org/de/api_v4/projects/60749/categories.json"
         },
         {
           "rel": "new_client_donation",

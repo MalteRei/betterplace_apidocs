@@ -633,7 +633,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "progress_percentage": null,
   "contact": {
     "id": 397832,
-    "name": "William Brown",
+    "name": "Moritz Krüger",
     "picture": {
       "links": [
         {

@@ -169,7 +169,7 @@ Link to the <a href="client_tag_projects_list.md">client-tag projects list</a> â
     {
       "tag": "KinderJugendliche",
       "slug": "KinderJugendliche",
-      "projects_count": 34,
+      "projects_count": 36,
       "links": [
         {
           "rel": "projects",
@@ -180,7 +180,7 @@ Link to the <a href="client_tag_projects_list.md">client-tag projects list</a> â
     {
       "tag": "Familien",
       "slug": "Familien",
-      "projects_count": 13,
+      "projects_count": 14,
       "links": [
         {
           "rel": "projects",

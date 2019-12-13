@@ -257,9 +257,9 @@ Link to this resource in the documentation
 
 ```json
 {
-  "total_entries": 8,
+  "total_entries": 9,
   "offset": 0,
-  "total_pages": 4,
+  "total_pages": 5,
   "current_page": 1,
   "per_page": 2,
   "data": [

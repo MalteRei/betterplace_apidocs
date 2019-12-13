@@ -235,13 +235,13 @@ Link to the regular donation form.
 {
   "id": 142997,
   "created_at": "2016-04-06T10:48:08+02:00",
-  "updated_at": "2019-10-24T17:17:57+02:00",
+  "updated_at": "2019-11-20T11:36:22+01:00",
   "title": "Learning supplies",
   "description": "The equivalent of supplying 60 Back to School children with learning supplies for the semester.",
   "completed": false,
-  "progress_percentage": 21.93,
-  "donated_amount_in_cents": 43861,
-  "open_amount_in_cents": 156139,
+  "progress_percentage": 24.93,
+  "donated_amount_in_cents": 49861,
+  "open_amount_in_cents": 150139,
   "requested_amount_in_cents": 200000,
   "links": [
     {

@@ -723,7 +723,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "progress_percentage": 9260,
       "contact": {
         "id": 6,
-        "name": "Elif Yılmaz",
+        "name": "Selina Vogt",
         "picture": {
           "links": [
             {
@@ -816,118 +816,6 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       ]
     },
     {
-      "id": 13224,
-      "created_at": "2013-01-31T15:09:18+01:00",
-      "updated_at": "2019-02-05T15:35:50+01:00",
-      "content_updated_at": "2015-11-22T08:05:39+01:00",
-      "title": "Matthiass Spendenaktion",
-      "description": "Schön, dass Du meine Spendenaktion bei betterplace.org besuchst! Das Spenden über betterplace.org ist sicher und unkompliziert. betterplace.org leitet das von uns zusammen gesammelte Geld weiter. Wenn Du willst, kannst Du das sogar nachverfolgen: Denn betterplace.org ist nicht nur klasse, um mit einer Aktion Spenden zu sammeln, sondern - durch seine Transparenz - auch toll, um zu sehen, was die Hilfe beim Projekt vor Ort bewirkt.<br><br>Deshalb freue ich mich um so mehr, wenn Du jetzt hier an meine Aktion spendest! Vielen Dank.<br>",
-      "tax_deductible": false,
-      "donations_prohibited": true,
-      "closed_at": "2015-11-22T08:05:38+01:00",
-      "donations_count": 0,
-      "donor_count": 0,
-      "donated_amount_in_cents": 0,
-      "requested_amount_in_cents": null,
-      "forwarded_amount_in_cents": 0,
-      "progress_percentage": null,
-      "contact": {
-        "id": 296030,
-        "name": "Louie Seidl",
-        "picture": {
-          "fallback": true,
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/296030"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/296030/contact_data.json"
-          }
-        ]
-      },
-      "profile_picture": {
-        "fallback": true,
-        "links": [
-          {
-            "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_960x500_default.jpg"
-          },
-          {
-            "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_730x380_default.jpg"
-          },
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_618x322_default.jpg"
-          },
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_410x214_default.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_270x141_default.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/crop_original_default.jpg"
-          }
-        ]
-      },
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/13224.json"
-        },
-        {
-          "rel": "featured_projects",
-          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/13224/featured_projects.json"
-        },
-        {
-          "rel": "blog_posts",
-          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/13224/blog_posts.json"
-        },
-        {
-          "rel": "forwardings",
-          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/13224/forwardings.json"
-        },
-        {
-          "rel": "platform",
-          "href": "https://www.betterplace.org/de/fundraising-events/13224-matthiass-spendenaktion"
-        },
-        {
-          "rel": "opinions",
-          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/13224/opinions.json"
-        },
-        {
-          "rel": "new_client_donation",
-          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/fundraising-events/13224",
-          "templated": true
-        },
-        {
-          "rel": "new_donation",
-          "href": "https://www.betterplace.org/de/donate/platform/fundraising-events/13224"
-        },
-        {
-          "rel": "new_message",
-          "href": "https://www.betterplace.org/de/messages/new?recipient=296030"
-        }
-      ]
-    },
-    {
       "id": 5947,
       "created_at": "2011-01-19T12:48:33+01:00",
       "updated_at": "2019-02-05T15:31:24+01:00",
@@ -945,7 +833,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "progress_percentage": null,
       "contact": {
         "id": 152691,
-        "name": "Tillman / Tilman Bertram",
+        "name": "Maria Kühn",
         "picture": {
           "fallback": true,
           "links": [
@@ -1036,6 +924,117 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         {
           "rel": "new_message",
           "href": "https://www.betterplace.org/de/messages/new?recipient=152691"
+        }
+      ]
+    },
+    {
+      "id": 4518,
+      "created_at": "2010-09-27T15:39:44+02:00",
+      "updated_at": "2019-02-05T15:30:20+01:00",
+      "content_updated_at": "2015-11-22T08:10:31+01:00",
+      "title": "Moritzs Spendenaktion",
+      "description": "Schön, dass Du meine Spendenaktion bei betterplace.org besuchst! Das Spenden über betterplace.org ist sicher und unkompliziert. betterplace.org leitet das von uns zusammen gesammelte Geld weiter. Wenn Du willst, kannst Du das sogar nachverfolgen: Denn betterplace.org ist nicht nur klasse, um mit einer Aktion Spenden zu sammeln, sondern - durch seine Transparenz - auch toll, um zu sehen, was die Hilfe beim Projekt vor Ort bewirkt.<br><br>Deshalb freue ich mich um so mehr, wenn Du jetzt hier an meine Aktion spendest! Vielen Dank.",
+      "tax_deductible": true,
+      "donations_prohibited": true,
+      "closed_at": "2015-11-22T08:10:30+01:00",
+      "donations_count": 0,
+      "donor_count": 0,
+      "donated_amount_in_cents": 0,
+      "requested_amount_in_cents": null,
+      "forwarded_amount_in_cents": 0,
+      "progress_percentage": null,
+      "contact": {
+        "id": 6,
+        "name": "Selina Vogt",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/fill_100x100_original_eckert.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/crop_original_original_eckert.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "platform",
+            "href": "https://www.betterplace.org/de/users/6"
+          },
+          {
+            "rel": "contact_data",
+            "href": "https://api.betterplace.org/de/api_v4/users/6/contact_data.json"
+          }
+        ]
+      },
+      "profile_picture": {
+        "fallback": true,
+        "links": [
+          {
+            "rel": "fill_960x500",
+            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_960x500_default.jpg"
+          },
+          {
+            "rel": "fill_730x380",
+            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_730x380_default.jpg"
+          },
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_618x322_default.jpg"
+          },
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_410x214_default.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/fill_270x141_default.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/assets/default/fundraising_event_profile_picture/crop_original_default.jpg"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/4518.json"
+        },
+        {
+          "rel": "featured_projects",
+          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/4518/featured_projects.json"
+        },
+        {
+          "rel": "blog_posts",
+          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/4518/blog_posts.json"
+        },
+        {
+          "rel": "forwardings",
+          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/4518/forwardings.json"
+        },
+        {
+          "rel": "platform",
+          "href": "https://www.betterplace.org/de/fundraising-events/4518-moritzs-spendenaktion"
+        },
+        {
+          "rel": "opinions",
+          "href": "https://api.betterplace.org/de/api_v4/fundraising_events/4518/opinions.json"
+        },
+        {
+          "rel": "new_client_donation",
+          "href": "https://www.betterplace.org/de/donate/%7Bclient_id%7D/fundraising-events/4518",
+          "templated": true
+        },
+        {
+          "rel": "new_donation",
+          "href": "https://www.betterplace.org/de/donate/platform/fundraising-events/4518"
+        },
+        {
+          "rel": "new_message",
+          "href": "https://www.betterplace.org/de/messages/new?recipient=6"
         }
       ]
     }

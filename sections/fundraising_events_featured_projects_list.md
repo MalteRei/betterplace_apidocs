@@ -932,6 +932,19 @@ Link to <a href="matching_funds_list.md">matching funds list</a>
     <tr>
 <th align="left">
 
+categories
+
+</th>
+<td>
+
+Link to <a href="categories_list.md">categories list</a>
+
+
+</td>
+    </tr>
+    <tr>
+<th align="left">
+
 new_client_donation
 
 </th>
@@ -1204,14 +1217,14 @@ information for the donors.
     {
       "id": 1114,
       "created_at": "2009-03-10T11:12:16+01:00",
-      "updated_at": "2019-11-15T12:57:29+01:00",
+      "updated_at": "2019-12-04T00:01:22+01:00",
       "latitude": 34.5553494,
       "longitude": 69.207486,
-      "street": "Berliner Straße 73",
+      "street": "Talstraße 40",
       "zip": "",
       "city": "Afghanistan, Cambodia",
       "country": "Südafrika",
-      "content_updated_at": "2019-10-21T17:27:32+02:00",
+      "content_updated_at": "2019-06-04T16:13:58+02:00",
       "activated_at": "2009-03-10T00:00:00+01:00",
       "title": "Unterstütze Skateistan - Sport &amp; Bildung für Kinder",
       "description": "<div>Skateistan ist eine mehrfach ausgezeichnete, internationale non-profit Organisation, welche Kinder in Afghanistan, Kambodscha und Südafrika durch Skateboarden und Bildung stark macht. Mit unseren innovativen Programmen möchten wir jungen Menschen die Möglichkeit bieten Vorbilder für eine bessere Welt zu werden. Viele unserer Schüler haben nur wenige Möglichkeiten an Sport- und Bildungsangeboten teilzunehmen. Das betrifft insbesondere Mädchen, gehandicapte Kinder und andere Minderheiten. Armut, Konflikte und Gefahren sind die Realitäten für die Menschen in den Gebieten, wo wir aktiv sind. In solchen Umständen ist es schwer für die Kinder gehört zu werden und genauso mühsam ihr physisches und mentales Wohl sicherzustellen.<br><br>Wir von Skateistan glauben, dass jedes Kind einen Zugang zu Bildung und Freizeitgestaltung braucht, bei dem sie Selbstvertrauen aufbauen können, Freunde kennen lernen und neue Fähigkeiten erlernen, die eine positive Vorbildfunktion mit sich bringen. Skateistan erreicht mit ihren Skateschulen derzeit mehr als 2.600 Schüler weltweit. Über die Hälfte der Skateistan Schüler sind weiblich und Skateboarden ist seither der größte Sport für Mädchen in Afghanistan.<br><br>In 2018 haben wir unseren zehnten Geburtstag gefeiert. Von einigen wenigen Mädchen auf Skateboards in Kabul ist Skateistan zu einer internationalen Nichtregierungsorganisation mit über 2000 aktiven Schülern in drei Ländern gewachsen. <strong>Doch das ist für uns erst der Anfang. Wir wollen noch mehr erreichen, so dass noch mehr Kinder durch Bildung und Skateboarding gestärkt werden.<br></strong><br>\n</div><div>Indem wir Programme für Kinder aus sämtlichen Gesellschaftsschichten zur Verfügung stellen, helfen wir, soziale Grenzen abzubauen. Wir zeigen Kindern, dass Vielfalt etwas ist, was es zu feiern gilt. <strong>Über 50% unserer Schüler sind Mädchen und 78% unserer Schüler kommen aus Familien, die über keine finanziellen Mittel zur Selbsthilfe verfügen</strong>. 160 unserer Kinder leben mit Behinderungen und über 70 Kinder sind im eigenen Land vertrieben.<br><br>\n</div><div>Deswegen betreibt Skateistan Skate-Schulen in Afghanistan, Kambodscha und Südafrika, die den Spaß und den Freigeist von Skateboarding verbindet mit der Chance für die Kinder, ihre kreativen Talente und Interessen auszuprobieren. <strong>Wir glauben, dass Bildung der beste Weg ist, um Kinder zu stärken</strong>, sodass sie den Wandel in ihrem eigenen Umfeld, in ihren Familien, ihren Nachbarschaften einleiten und Gelerntes dort weitergeben. Indem sie über Spiel und Spaß lernen, stellen wir eine positive Verbindung zu Bildung her. Skateboarding lehrt sie außerdem Lektionen, die sie für ihr ganzes Leben behalten. <strong>Skateboarding lehrt sie, kreativ zu werden, hinzufallen und wieder aufzustehen und auf ein Ziel hinzuarbeiten.</strong>\n</div><div><br></div>",
@@ -1220,21 +1233,21 @@ information for the donors.
       "donations_prohibited": false,
       "completed_at": null,
       "closed_at": null,
-      "open_amount_in_cents": 1111139,
-      "donated_amount_in_cents": 6463713,
-      "positive_opinions_count": 899,
+      "open_amount_in_cents": 1049939,
+      "donated_amount_in_cents": 6524913,
+      "positive_opinions_count": 909,
       "negative_opinions_count": 0,
-      "donations_count": 899,
-      "newsletter_subscriptions_count": 343,
+      "donations_count": 909,
+      "newsletter_subscriptions_count": 345,
       "comments_count": 0,
-      "donor_count": 655,
-      "progress_percentage": 85,
+      "donor_count": 659,
+      "progress_percentage": 86,
       "incomplete_need_count": 5,
       "completed_need_count": 96,
-      "blog_post_count": 94,
+      "blog_post_count": 95,
       "contact": {
         "id": 287126,
-        "name": "Daniel Schäfer",
+        "name": "Katharina Pfeffer",
         "picture": {
           "links": [
             {
@@ -1284,27 +1297,27 @@ information for the donors.
         "links": [
           {
             "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_960x500_bp1571671652_oman_1.png"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_960x500_bp1541167187_Skateistan_Press_Image_Mazar7_2018_credit_Andy_Buchanan_for_Skateistan.JPG"
           },
           {
             "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_730x380_bp1571671652_oman_1.png"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_730x380_bp1541167187_Skateistan_Press_Image_Mazar7_2018_credit_Andy_Buchanan_for_Skateistan.JPG"
           },
           {
             "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_618x322_bp1571671652_oman_1.png"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_618x322_bp1541167187_Skateistan_Press_Image_Mazar7_2018_credit_Andy_Buchanan_for_Skateistan.JPG"
           },
           {
             "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_410x214_bp1571671652_oman_1.png"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_410x214_bp1541167187_Skateistan_Press_Image_Mazar7_2018_credit_Andy_Buchanan_for_Skateistan.JPG"
           },
           {
             "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_270x141_bp1571671652_oman_1.png"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/fill_270x141_bp1541167187_Skateistan_Press_Image_Mazar7_2018_credit_Andy_Buchanan_for_Skateistan.JPG"
           },
           {
             "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/crop_original_bp1571671652_oman_1.png"
+            "href": "https://betterplace-assets.betterplace.org/uploads/project/profile_picture/000/001/114/crop_original_bp1541167187_Skateistan_Press_Image_Mazar7_2018_credit_Andy_Buchanan_for_Skateistan.JPG"
           }
         ]
       },
@@ -1342,6 +1355,10 @@ information for the donors.
         {
           "rel": "matching_funds",
           "href": "https://api.betterplace.org/de/api_v4/matching_funds.json?project_id=1114"
+        },
+        {
+          "rel": "categories",
+          "href": "https://api.betterplace.org/de/api_v4/projects/1114/categories.json"
         },
         {
           "rel": "new_client_donation",
