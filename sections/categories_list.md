@@ -76,7 +76,7 @@ DateTime (ISO8601 with Timezone)
     <tr>
       <th align="left">name</th>
       <td><code>string</code></td>
-      <td><code></code></td>
+      <td><code>The category</code></td>
 <td>
 
 Name to be displayed for this category
@@ -86,40 +86,10 @@ Name to be displayed for this category
     <tr>
       <th align="left">slug</th>
       <td><code>string</code></td>
-      <td><code></code></td>
+      <td><code>category</code></td>
 <td>
 
 Slug for this category
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">position</th>
-      <td><code>number</code></td>
-      <td><code></code></td>
-<td>
-
-Position this category should be displayed at
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">page_title</th>
-      <td><code>string</code></td>
-      <td><code></code></td>
-<td>
-
-Page title to be displayed for this category
-
-</td>
-    </tr>
-    <tr>
-      <th align="left">social_media_description</th>
-      <td><code>string</code></td>
-      <td><code></code></td>
-<td>
-
-Description to be used on social media for this category
 
 </td>
     </tr>
@@ -163,9 +133,6 @@ Permalink to betterplace.org discover category
       "updated_at": "2018-12-03T17:26:13+01:00",
       "name": "Bildung",
       "slug": "bildung",
-      "position": 3,
-      "page_title": "Spende für Bildung auf betterplace.org",
-      "social_media_description": "Entdecke Bildungsprojekte auf betterplace.org und spende Kindern nicht nur Bildung, sondern Zukunft!",
       "links": [
         {
           "rel": "platform",
@@ -179,9 +146,6 @@ Permalink to betterplace.org discover category
       "updated_at": "2018-03-02T12:21:51+01:00",
       "name": "Sport",
       "slug": "sport",
-      "position": 1000,
-      "page_title": "Spenden für Sportprojekte auf betterplace.org",
-      "social_media_description": "Finde spannende Projekte zum Thema Sport",
       "links": [
         {
           "rel": "platform",
@@ -195,9 +159,6 @@ Permalink to betterplace.org discover category
       "updated_at": "2019-08-23T15:43:38+02:00",
       "name": "Kinder und Jugend",
       "slug": "kinder",
-      "position": 3,
-      "page_title": "Spenden für Kinder auf betterplace.org",
-      "social_media_description": "Entdecke großartige Projekte, die sich für Kinder und Jugendliche weltweit einsetzen, und sorge mit deiner Spende glückliche Kinderaugen!",
       "links": [
         {
           "rel": "platform",
