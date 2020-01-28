@@ -216,7 +216,7 @@ Link to the donor contact data
 {
   "amount_in_cents": 1000,
   "state": "confirmed",
-  "token": "cb88e81a12bae9e155f9",
+  "token": "ea0d070a281c8aa9b3d9",
   "client_reference": null,
   "created_at": "2010-10-28T14:44:49+02:00",
   "receiver_type": "Project",
@@ -229,11 +229,11 @@ Link to the donor contact data
     },
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/cb88e81a12bae9e155f9.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/ea0d070a281c8aa9b3d9.json"
     },
     {
       "rel": "donor_contact_data",
-      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/cb88e81a12bae9e155f9/donor_contact_data.json"
+      "href": "https://api.betterplace.org/de/api_v4/clients/volksfreund/client_donations/ea0d070a281c8aa9b3d9/donor_contact_data.json"
     }
   ]
 }

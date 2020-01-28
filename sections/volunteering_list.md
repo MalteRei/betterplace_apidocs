@@ -1005,19 +1005,19 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "total_entries": 722,
+  "total_entries": 705,
   "offset": 3,
-  "total_pages": 241,
+  "total_pages": 235,
   "current_page": 2,
   "per_page": 3,
   "data": [
     {
       "id": 7268,
       "created_at": "2013-03-11T18:00:54+01:00",
-      "updated_at": "2019-08-05T12:07:53+02:00",
+      "updated_at": "2020-01-13T10:53:57+01:00",
       "latitude": 52.52,
       "longitude": 13.405,
-      "street": "Grüner Weg 70",
+      "street": "Gartenweg 41",
       "zip": "",
       "city": "Berlin",
       "country": "Deutschland",
@@ -1028,7 +1028,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         "latitude": 52.46874,
         "longitude": 13.4341,
         "name": "Bürgerstiftung Neukölln",
-        "street": "Hölderlinstraße 168",
+        "street": "Nordstraße 101",
         "city": "Berlin",
         "zip": "12051",
         "country": "Deutschland",
@@ -1090,18 +1090,18 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Milan Hiller",
+        "name": "Emilia Kaiser",
         "phone": "030 627 380 14",
-        "email": "3093875abe77f5f6f24507030196f4e01a1ff2d7e755e7082f11d80014789662@betterplace.jp",
+        "email": "b4e9e434a27b831742b2ad757a4b1cdef9e5a9f60bd53655c1e776241962fa83@betterplace.jp",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/293/450/fill_100x100_bp1499158831_Ines_offizielles_Foto_BS.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/293/450/fill_100x100_bp1576608523_Ines_offizielles_Foto_BS.jpg"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/293/450/crop_original_bp1499158831_Ines_offizielles_Foto_BS.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/293/450/crop_original_bp1576608523_Ines_offizielles_Foto_BS.jpg"
             }
           ]
         },
@@ -1175,183 +1175,23 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       ]
     },
     {
-      "id": 7402,
-      "created_at": "2013-03-18T22:27:45+01:00",
-      "updated_at": "2019-11-28T04:30:35+01:00",
-      "latitude": 54.0424,
-      "longitude": 13.7688,
-      "street": "Kirchplatz 47",
-      "zip": "17438",
-      "city": "Wolgast",
-      "country": "Deutschland",
-      "content_updated_at": "2019-01-01T09:19:14+01:00",
-      "title": "Möchtest Du Dich gern ehrenamtlich engagieren? Dann komm zu uns ins Katzenhaus! Tel. 0174 17 42 010 ",
-      "description": "Wir suchen Freiwillige, die uns helfen die über 54 Katzen im Katzenschutzverein zu versorgen. Dazu gehört das Füttern, das Säubern der Katzenklos und natürlich ganz viel streicheln, spielen und schmusen! Jede Hilfe ist willkommen, daher sind regelmäßige Einsätze wünschenswert, aber nicht Voraussetzung. Wir freuen uns auf Dich!",
-      "carrier": {
-        "latitude": 54.04240036010742,
-        "longitude": 13.76879978179932,
-        "name": "Katzenschutzverein Wolgast e.V.",
-        "street": "Friedhofstraße 27",
-        "city": "Wolgast",
-        "zip": "17438",
-        "country": "Deutschland",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/fill_100x100_original_391835_297273170296885_1980697066_n.jpg"
-            },
-            {
-              "rel": "fill_200x200",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/fill_200x200_original_391835_297273170296885_1980697066_n.jpg"
-            },
-            {
-              "rel": "fill_400x400",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/fill_400x400_original_391835_297273170296885_1980697066_n.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/004/503/crop_original_original_391835_297273170296885_1980697066_n.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "self",
-            "href": "https://api.betterplace.org/de/api_v4/organisations/4503.json"
-          }
-        ]
-      },
-      "vacancies": 4,
-      "image": {
-        "description": "Für alle unseren schnurrenden Miezen im Katzenhaus!",
-        "links": [
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_618x322_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_270x141_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "thumb",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/thumb_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "medium",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/medium_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "regular",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/regular_bp1546329190_20181227_185142.jpg"
-          }
-        ]
-      },
-      "contact": {
-        "name": "Vera Lechner",
-        "phone": "0174 17 42 010",
-        "email": "69fc96f7ca1dd644d815fed847dd6c362380424d4775ad20ba8788ddfecad4ab@betterplace.jp",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/124/889/fill_100x100_bp1541552429_Logo_Katzenschutzverein.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/124/889/crop_original_bp1541552429_Logo_Katzenschutzverein.jpg"
-            }
-          ]
-        },
-        "links": [
-
-        ]
-      },
-      "location_fixed": true,
-      "working_time_selection": "egal wann / nach Vereinbarung",
-      "working_time_weekends": [
-
-      ],
-      "working_time_weekdays": [
-
-      ],
-      "begins_at": null,
-      "ends_at": null,
-      "topics": [
-        "Tierschutz & Umwelt"
-      ],
-      "activities": [
-        "pflegen/betreuen"
-      ],
-      "imported_from": null,
-      "import_information": null,
-      "profile_picture": {
-        "links": [
-          {
-            "rel": "fill_960x500",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_960x500_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "fill_730x380",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_730x380_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "fill_618x322",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_618x322_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "fill_410x214",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_410x214_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "fill_270x141",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/fill_270x141_bp1546329190_20181227_185142.jpg"
-          },
-          {
-            "rel": "original",
-            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/402/crop_original_bp1546329190_20181227_185142.jpg"
-          }
-        ]
-      },
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/volunteering/7402.json"
-        },
-        {
-          "rel": "platform",
-          "href": "https://www.betterplace.org/de/volunteering/7402-mochtest-du-dich-gern-ehrenamtlich-engagieren-dann-komm-zu-uns-ins-katzenhaus-tel-0174-17-42-010"
-        },
-        {
-          "rel": "inquiries",
-          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7402-mochtest-du-dich-gern-ehrenamtlich-engagieren-dann-komm-zu-uns-ins-katzenhaus-tel-0174-17-42-010/inquiries.json",
-          "templated": true
-        }
-      ]
-    },
-    {
       "id": 7435,
       "created_at": "2013-03-20T10:22:43+01:00",
-      "updated_at": "2019-10-31T11:05:26+01:00",
+      "updated_at": "2019-12-12T15:47:04+01:00",
       "latitude": 52.5077,
       "longitude": 13.3319,
-      "street": "Waldweg 46",
+      "street": "Tulpenweg 63",
       "zip": "10623",
       "city": "Berlin",
       "country": "Deutschland",
-      "content_updated_at": "2019-05-24T12:37:31+02:00",
+      "content_updated_at": "2019-12-12T15:47:04+01:00",
       "title": "Medizinische Hilfe für obdachlose Menschen - Ambulanz, Arztmobil, Krankenwohnung",
-      "description": "+++ Medizinische Hilfe für obdachlose Menschen +++ Wir behandeln obdachlose Menschen, die keine Krankenversicherung haben und nicht in andere Arztpraxen gehen. Angebote: Krankenwohnung in der Turmstraße, medizinische Ambulanz  am Bahnhof Zoo, Arztmobil. Das Arztmobil ist ein zu einer mobilen Praxis ausgebauter Kleintransporter und fährt dahin, wo sich Obdachlose aufhalten: an bekannte Szeneplätze, vor Suppenküchen etc. Für alle Angebote suchen wir ehrenamtlich engagierte Ärztinnen und Ärzte (mit Approbation) aller Fachrichtungen, gerne auch im Ruhestand, die in der Krankenwhnung, der med. Ambulanz oder im Arztmobil helfen wollen. Der ehrenamtliche Einsatz kann flexibel eingeteilt werden, es gibt eine Aufwandsentschädigung.",
+      "description": "++ Medizinische Hilfe für obdachlose Menschen ++ Wir behandeln obdachlose Menschen, die keine Krankenversicherung haben und nicht in andere Arztpraxen gehen. Angebote: Krankenwohnung in der Turmstraße, medizinische Ambulanz  am Bahnhof Zoo, Arztmobil. Das Arztmobil ist ein zu einer mobilen Praxis ausgebauter Kleintransporter und fährt dahin, wo sich Obdachlose aufhalten: an bekannte Szeneplätze, vor Suppenküchen etc. Für alle Angebote suchen wir ehrenamtlich engagierte Ärztinnen und Ärzte (mit Approbation) aller Fachrichtungen, gerne auch im Ruhestand, die in der Krankenwhnung, der med. Ambulanz oder im Arztmobil helfen wollen. Der ehrenamtliche Einsatz kann flexibel eingeteilt werden, es gibt eine Aufwandsentschädigung.",
       "carrier": {
         "latitude": 52.55973,
         "longitude": 13.37038,
         "name": "Caritasverband für das Erzbistum Berlin e.V.",
-        "street": "Markt 161",
+        "street": "Weinbergstraße 144",
         "city": "Berlin",
         "zip": "12203",
         "country": "Deutschland",
@@ -1413,9 +1253,9 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         ]
       },
       "contact": {
-        "name": "Dorian Wolf",
+        "name": "Anton Scharf",
         "phone": "030666331279",
-        "email": "bb2dceb6e1e2c8f616aae3059aa167eb3e8588ca1879560274a460efa3f4e463@betterplace.jp",
+        "email": "eb2a768a46379694abdf3ecd87ead58fd084f5e9b01445836d5821e66256d63b@betterplace.jp",
         "picture": {
           "fallback": true,
           "links": [
@@ -1495,6 +1335,169 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         {
           "rel": "inquiries",
           "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7435-medizinische-hilfe-fur-obdachlose-menschen-ambulanz-arztmobil-krankenwohnung/inquiries.json",
+          "templated": true
+        }
+      ]
+    },
+    {
+      "id": 7629,
+      "created_at": "2013-04-10T18:12:51+02:00",
+      "updated_at": "2019-12-10T10:20:53+01:00",
+      "latitude": 52.4994,
+      "longitude": 13.4496,
+      "street": "Fliederweg 49",
+      "zip": "",
+      "city": "Berlin",
+      "country": "Deutschland",
+      "content_updated_at": "2019-07-05T09:22:48+02:00",
+      "title": "Werde Neuheiten-Tester*in und hilf mit betterplace.org zu verbessern",
+      "description": "Die Website von betterplace.org wird ständig weiterentwickelt. Daher suchen wir Freiwillige, die unseren neuen Funktionen auszuprobieren. Deine Unterstützung ist für uns eine große Hilfe um betterplace.org besser zu machen. <br><br>Am besten kommst Du zu uns ins Büro nach Berlin-Kreuzberg (Schlesische Str. 26). Wir erwarten Dich dann mit Kaffee und Keksen und zeigen Euch bei dieser Gelegenheit gerne unser Büro!<br>Wenn Du nicht in Berlin wohnt, können wir den Neuheiten-Test auch gerne über das Internet an Deinem Computer machen.<br><br>Die Teilnahme an einem solchen Neuheiten-Test dauert maximal eine Stunde.",
+      "carrier": {
+        "latitude": 52.49900732358751,
+        "longitude": 13.44932556032711,
+        "name": "betterplace.org (gut.org gAG)",
+        "street": "Kreuzweg 187",
+        "city": "Berlin",
+        "zip": "",
+        "country": "Deutschland",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/865/fill_100x100_bp1529503770_Logo-betterplace.png"
+            },
+            {
+              "rel": "fill_200x200",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/865/fill_200x200_bp1529503770_Logo-betterplace.png"
+            },
+            {
+              "rel": "fill_400x400",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/865/fill_400x400_bp1529503770_Logo-betterplace.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/013/865/crop_original_bp1529503770_Logo-betterplace.png"
+            }
+          ]
+        },
+        "links": [
+          {
+            "rel": "self",
+            "href": "https://api.betterplace.org/de/api_v4/organisations/13865.json"
+          }
+        ]
+      },
+      "vacancies": 10,
+      "image": {
+        "description": "Anica (rechts) bei der Durchführung eines Usability Tests im Büro von betterplace.org",
+        "links": [
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/fill_618x322_Foto-2.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/fill_270x141_Foto-2.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/Foto-2.jpg"
+          },
+          {
+            "rel": "thumb",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/thumb_Foto-2.jpg"
+          },
+          {
+            "rel": "medium",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/medium_Foto-2.jpg"
+          },
+          {
+            "rel": "regular",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/regular_Foto-2.jpg"
+          }
+        ]
+      },
+      "contact": {
+        "name": "Kader Heim",
+        "phone": "030-76 76 44 88 0",
+        "email": "product@betterplace.org",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/239/443/fill_100x100_bp1579002129_original_flyingsparks_gross.png"
+            },
+            {
+              "rel": "original",
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/239/443/crop_original_bp1579002129_original_flyingsparks_gross.png"
+            }
+          ]
+        },
+        "links": [
+
+        ]
+      },
+      "location_fixed": true,
+      "working_time_selection": "egal wann / nach Vereinbarung",
+      "working_time_weekends": [
+
+      ],
+      "working_time_weekdays": [
+
+      ],
+      "begins_at": null,
+      "ends_at": null,
+      "topics": [
+        "Bildung",
+        "Kultur, Freizeit & Sport",
+        "Sozial Benachteiligte",
+        "Tierschutz & Umwelt"
+      ],
+      "activities": [
+        "beraten/coachen"
+      ],
+      "imported_from": null,
+      "import_information": null,
+      "profile_picture": {
+        "links": [
+          {
+            "rel": "fill_960x500",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/fill_960x500_Foto-2.jpg"
+          },
+          {
+            "rel": "fill_730x380",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/fill_730x380_Foto-2.jpg"
+          },
+          {
+            "rel": "fill_618x322",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/fill_618x322_Foto-2.jpg"
+          },
+          {
+            "rel": "fill_410x214",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/fill_410x214_Foto-2.jpg"
+          },
+          {
+            "rel": "fill_270x141",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/fill_270x141_Foto-2.jpg"
+          },
+          {
+            "rel": "original",
+            "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/007/629/crop_original_Foto-2.jpg"
+          }
+        ]
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.betterplace.org/de/api_v4/volunteering/7629.json"
+        },
+        {
+          "rel": "platform",
+          "href": "https://www.betterplace.org/de/volunteering/7629-werde-neuheiten-tester-in-und-hilf-mit-betterplace-org-zu-verbessern"
+        },
+        {
+          "rel": "inquiries",
+          "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/7629-werde-neuheiten-tester-in-und-hilf-mit-betterplace-org-zu-verbessern/inquiries.json",
           "templated": true
         }
       ]

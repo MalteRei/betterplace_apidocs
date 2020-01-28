@@ -723,16 +723,16 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "progress_percentage": 9260,
       "contact": {
         "id": 6,
-        "name": "Selina Vogt",
+        "name": "Ezekiel Thomas",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/fill_100x100_original_eckert.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/fill_100x100_bp1576594541_original_eckert.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/crop_original_original_eckert.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/crop_original_bp1576594541_original_eckert.png"
             }
           ]
         },
@@ -833,7 +833,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "progress_percentage": null,
       "contact": {
         "id": 152691,
-        "name": "Maria Kühn",
+        "name": "Miko Gottschalk",
         "picture": {
           "fallback": true,
           "links": [
@@ -945,16 +945,16 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "progress_percentage": null,
       "contact": {
         "id": 6,
-        "name": "Selina Vogt",
+        "name": "Ezekiel Thomas",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/fill_100x100_original_eckert.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/fill_100x100_bp1576594541_original_eckert.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/crop_original_original_eckert.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/000/006/crop_original_bp1576594541_original_eckert.png"
             }
           ]
         },

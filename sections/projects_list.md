@@ -1392,7 +1392,7 @@ information for the donors.
     {
       "id": 6233,
       "created_at": "2011-02-25T08:48:43+01:00",
-      "updated_at": "2019-12-04T00:01:50+01:00",
+      "updated_at": "2020-01-13T00:01:47+01:00",
       "latitude": 11.55883121490479,
       "longitude": 104.9174423217773,
       "street": null,
@@ -1408,30 +1408,30 @@ information for the donors.
       "donations_prohibited": false,
       "completed_at": null,
       "closed_at": null,
-      "open_amount_in_cents": 146996,
-      "donated_amount_in_cents": 826304,
-      "positive_opinions_count": 62,
+      "open_amount_in_cents": 144496,
+      "donated_amount_in_cents": 828804,
+      "positive_opinions_count": 63,
       "negative_opinions_count": 0,
-      "donations_count": 62,
-      "newsletter_subscriptions_count": 27,
+      "donations_count": 63,
+      "newsletter_subscriptions_count": 28,
       "comments_count": 0,
-      "donor_count": 59,
-      "progress_percentage": 84,
+      "donor_count": 60,
+      "progress_percentage": 85,
       "incomplete_need_count": 5,
       "completed_need_count": 18,
       "blog_post_count": 38,
       "contact": {
         "id": 287126,
-        "name": "Katharina Pfeffer",
+        "name": "Alica Born",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1523439147_Skateistan_facebook-02.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1576607865_Skateistan_facebook-02.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1523439147_Skateistan_facebook-02.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1576607865_Skateistan_facebook-02.png"
             }
           ]
         },
@@ -1548,7 +1548,7 @@ information for the donors.
       "updated_at": "2019-05-29T00:29:24+02:00",
       "latitude": -26.19943231282456,
       "longitude": 28.0458325040039,
-      "street": "Karlstraße 108",
+      "street": "Kirchweg 32",
       "zip": "1937",
       "city": "Johannesburg",
       "country": "Südafrika",
@@ -1575,16 +1575,16 @@ information for the donors.
       "blog_post_count": 8,
       "contact": {
         "id": 506119,
-        "name": "Miray Yıldırım",
+        "name": "Michelle Thomas",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/fill_100x100_bp1507482554_Profilbild_Skateistan.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/fill_100x100_bp1576633179_Profilbild_Skateistan.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/crop_original_bp1507482554_Profilbild_Skateistan.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/crop_original_bp1576633179_Profilbild_Skateistan.png"
             }
           ]
         },
@@ -1705,7 +1705,7 @@ information for the donors.
       "updated_at": "2019-12-02T18:19:56+01:00",
       "latitude": 34.5553494,
       "longitude": 69.207486,
-      "street": "Meisenweg 48",
+      "street": "Birkenstraße 59",
       "zip": "",
       "city": "Kabul",
       "country": "Afghanistan",
@@ -1732,16 +1732,16 @@ information for the donors.
       "blog_post_count": 0,
       "contact": {
         "id": 506119,
-        "name": "Miray Yıldırım",
+        "name": "Michelle Thomas",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/fill_100x100_bp1507482554_Profilbild_Skateistan.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/fill_100x100_bp1576633179_Profilbild_Skateistan.png"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/crop_original_bp1507482554_Profilbild_Skateistan.png"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/506/119/crop_original_bp1576633179_Profilbild_Skateistan.png"
             }
           ]
         },

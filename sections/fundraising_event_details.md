@@ -633,16 +633,16 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "progress_percentage": null,
   "contact": {
     "id": 397832,
-    "name": "Moritz Krüger",
+    "name": "Shirin Schreiber",
     "picture": {
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/397/832/fill_100x100_JoJo.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/397/832/fill_100x100_bp1576616546_JoJo.jpg"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/397/832/crop_original_JoJo.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/397/832/crop_original_bp1576616546_JoJo.jpg"
         }
       ]
     },

@@ -3,6 +3,11 @@ All notable changes to the betterplace.org API v4 will be documented in this
 file. Notifications about changes will also be send to the [mailing list for
 service announcements](README.md#mailing-list-for-service-announcements).
 
+
+## 2020-01-27
+### Removed
+- Listing of illustrations
+
 ## 2019-02-25
 ### Changed
 - Changed behavior of `validate_address` of [donation pledges](sections/client_donation_pledges.md): `first_name`, `last_name` and `email` won't be validated if set to `false`

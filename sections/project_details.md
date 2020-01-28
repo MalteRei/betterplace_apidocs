@@ -1211,10 +1211,10 @@ information for the donors.
 {
   "id": 1114,
   "created_at": "2009-03-10T11:12:16+01:00",
-  "updated_at": "2019-12-04T00:01:22+01:00",
+  "updated_at": "2020-01-13T00:01:20+01:00",
   "latitude": 34.5553494,
   "longitude": 69.207486,
-  "street": "Talstraße 40",
+  "street": "Tulpenstraße 125",
   "zip": "",
   "city": "Afghanistan, Cambodia",
   "country": "Südafrika",
@@ -1227,30 +1227,30 @@ information for the donors.
   "donations_prohibited": false,
   "completed_at": null,
   "closed_at": null,
-  "open_amount_in_cents": 1049939,
-  "donated_amount_in_cents": 6524913,
-  "positive_opinions_count": 909,
+  "open_amount_in_cents": 738439,
+  "donated_amount_in_cents": 6886413,
+  "positive_opinions_count": 944,
   "negative_opinions_count": 0,
-  "donations_count": 909,
-  "newsletter_subscriptions_count": 345,
+  "donations_count": 944,
+  "newsletter_subscriptions_count": 368,
   "comments_count": 0,
-  "donor_count": 659,
-  "progress_percentage": 86,
-  "incomplete_need_count": 5,
-  "completed_need_count": 96,
+  "donor_count": 684,
+  "progress_percentage": 90,
+  "incomplete_need_count": 3,
+  "completed_need_count": 99,
   "blog_post_count": 95,
   "contact": {
     "id": 287126,
-    "name": "Katharina Pfeffer",
+    "name": "Alica Born",
     "picture": {
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1523439147_Skateistan_facebook-02.png"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/fill_100x100_bp1576607865_Skateistan_facebook-02.png"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1523439147_Skateistan_facebook-02.png"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/287/126/crop_original_bp1576607865_Skateistan_facebook-02.png"
         }
       ]
     },
@@ -1344,7 +1344,7 @@ information for the donors.
     },
     {
       "rel": "video",
-      "href": "https://www.youtube.com/watch?v=nl79wvm3s_g"
+      "href": "https://www.youtube.com/watch?v=49ilNgE5jO4&feature=youtu.be"
     },
     {
       "rel": "matching_funds",

@@ -2,7 +2,7 @@
 # Volunteering Details ⇄ [List](volunteering_list.md)
 
 ```Cirru
-GET https://api.betterplace.org/de/api_v4/volunteering/77787.json
+GET https://api.betterplace.org/de/api_v4/volunteering/77848.json
 ```
 
 The details of a betterplace.org volunteering offer (donate time).
@@ -22,7 +22,7 @@ This resource is not available at the moment.
   </tr>
   <tr>
     <th align="left">id</th>
-    <td><code>77787</code></td>
+    <td><code>77848</code></td>
     <td>yes</td>
 <td>
 
@@ -879,63 +879,62 @@ Maximum sized image. This is the original image with default-cropping or user-cr
 
 ```json
 {
-  "id": 77787,
-  "created_at": "2019-12-04T15:42:17+01:00",
-  "updated_at": "2019-12-04T15:44:52+01:00",
-  "latitude": 52.5421,
-  "longitude": 13.3901,
-  "street": "Gartenweg 41",
-  "zip": "13355",
-  "city": "Berlin",
-  "country": "Deutschland",
-  "content_updated_at": "2019-12-04T15:44:52+01:00",
-  "title": "Unterstützt uns als Redakteur*in bei unserer konstruktiven News-App",
-  "description": "Wir sind ein kleiner Verein in der Gründungsphase, dessen Ziel es ist, dem Übergewicht an schlechten Nachrichten und Medienbeiträgen ohne Lösungsperspektive etwas entgegenzusetzen. Dafür setzen wir auf digitale Medien und einen neuartigen, kuratierten News-Service.<br><br>Hilfe brauchen wir zurzeit noch bei unserer deutschen Ausgabe: Du könntest an einem oder zwei Tagen pro Woche (jeweils eher 5 als 8 Stunden) die Recherche und Produktion einer News-Ausgabe übernehmen. Dabei durchsuchst Du einen Großteil der verfügbaren, deutschsprachigen Online-Artikel auf spannende und relevante lösungsorientierte Beiträge. Anschließend triffst Du eine Auswahl und sortiert die besten Artikel, Videos etc. nach verschiedenen Kriterien. Teilweise müssen Überschriften und Teaser-Texte umgeschrieben oder neu geschrieben werden. Am Ende wird die fertige Ausgabe in unsere Content Management Systeme (für App, Website und Newsletter) eingespeist und über unsere Social Media Kanäle verbreitet.<br><br>Wenn ihr journalistische Berufserfahrung habt, ist das super. Wichtig ist dabei vor allem das Schreiben von Überschriften und Teasern, das Gewichten und Setzen von Themen, sowie die Auswahl guter Bilder.<br><br>Vor und nach unserem Launch Anfang 2020 werden wir zunächst alle ehrenamtlich arbeiten. Gleichzeitig verfolgen wir aber auch ein solides Online-Fundraising-Modell, so dass nach einiger Zeit auch Budget zur Verfügung stehen soll, um Honorare zu zahlen.<br><br>Home-Office ist grundsätzlich möglich. Allerdings wäre es am besten sich zumindest ein mal pro Woche auch vor Ort (in Berlin) zu treffen und zusammen zu arbeiten (ua. auch mit den Kolleg*innen unserer englischen Ausgabe).",
+  "id": 77848,
+  "created_at": "2020-01-13T17:17:34+01:00",
+  "updated_at": "2020-01-13T17:17:34+01:00",
+  "latitude": -7.63128,
+  "longitude": 35.7598,
+  "street": "Waldstraße 10",
+  "zip": "",
+  "city": "Iringa",
+  "country": "Tansania",
+  "content_updated_at": "2020-01-13T17:17:34+01:00",
+  "title": "Country Project Manager Volunteer Post For CCDO Bamboo Centre",
+  "description": "The Children Care Development Organization (CCDO) is looking for the Project Manager Volunteer and English Teachers to our English Medium School - Peace Flame Pre and Primary School, and our Street Children Bamboo Centre. We have mobilized workshop tools for carpentry, tailoring and sweater machines, and computers. The needed volunteers will help us to: Establish a Bamboo Centre for our street children and girls, to train the street children and girls on how to make bamboo home furniture. Such skills need to be coupled with other business trainings. The CCDO Bamboo Centre will serve as a national focal point for bamboo related activities including botanical and agricultural research, mapping of bamboo habitats around the town, advocacy work, research in innovative applications (such as paper making and cloth making for example), training in propagation and also in the skills required in its many applications, and establishing policy that is conducive for the growth of the industry. <br>The Project Manager will be responsible to: Establishment of training facility, identify suitable location of the centre, obtain permit for building training centre, design and construct training centre and procure training and workshop facilities, raising fund for the centre, conduct capacity building and demonstrations, recruit project staffs, conduct training and workshop.",
   "carrier": null,
-  "vacancies": 2,
+  "vacancies": 3,
   "image": {
-    "description": "© Stokpic / Pixabay (CC0)",
+    "description": "The photo above describes the duties offered by the Children Care Development Organization (CCDO) to the disadvantaged street children and girls in Ir",
     "links": [
       {
         "rel": "fill_618x322",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_618x322_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/fill_618x322_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "fill_270x141",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_270x141_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/fill_270x141_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "original",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "thumb",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/thumb_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/thumb_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "medium",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/medium_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/medium_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "regular",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/regular_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/regular_bp1578932254_ict_orphans5.jpg"
       }
     ]
   },
   "contact": {
-    "name": "Davina Gerber",
-    "phone": "",
-    "email": "0110245283d881e7fe5713e26d3703adb24dcbc2fa3716f1cd1e76ac6bc39933@betterplace.jp",
+    "name": "Edwin Smith",
+    "phone": "+255754813368",
+    "email": "c10a49b38d702a923189e3ca19cee29c3ef1c7a15eba58bf7c8c7dbbecde41e9@betterplace.jp",
     "picture": {
-      "fallback": true,
       "links": [
         {
           "rel": "fill_100x100",
-          "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/583/486/fill_100x100_bp1578933505_CCDO_NEMBO2__2_.JPG"
         },
         {
           "rel": "original",
-          "href": "https://betterplace-assets.betterplace.org/assets/default/user_profile_picture/fill_100x100_default.jpg"
+          "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/583/486/crop_original_bp1578933505_CCDO_NEMBO2__2_.JPG"
         }
       ]
     },
@@ -944,24 +943,25 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     ]
   },
   "location_fixed": true,
-  "working_time_selection": "regelmäßig/langfristig",
+  "working_time_selection": "egal wann / nach Vereinbarung",
   "working_time_weekends": [
 
   ],
   "working_time_weekdays": [
-    "vormittags",
-    "nachmittags"
+
   ],
   "begins_at": null,
   "ends_at": null,
   "topics": [
     "Bildung",
-    "Kultur, Freizeit & Sport",
-    "Menschenrechte"
+    "Entwicklungszusammenarbeit",
+    "Kinder & Jugendliche",
+    "Kultur, Freizeit & Sport"
   ],
   "activities": [
-    "Büroarbeit",
-    "schreiben/übersetzen",
+    "beraten/coachen",
+    "werken/gärtnern",
+    "organisieren/planen",
     "PR / Social Media"
   ],
   "imported_from": null,
@@ -970,42 +970,42 @@ Maximum sized image. This is the original image with default-cropping or user-cr
     "links": [
       {
         "rel": "fill_960x500",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_960x500_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/fill_960x500_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "fill_730x380",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_730x380_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/fill_730x380_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "fill_618x322",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_618x322_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/fill_618x322_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "fill_410x214",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_410x214_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/fill_410x214_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "fill_270x141",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/fill_270x141_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/fill_270x141_bp1578932254_ict_orphans5.jpg"
       },
       {
         "rel": "original",
-        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/787/crop_original_bp1575470537_squirrel-Titelbild-1920.jpg"
+        "href": "https://betterplace-assets.betterplace.org/uploads/bettertime/job_description/profile_picture/000/077/848/crop_original_bp1578932254_ict_orphans5.jpg"
       }
     ]
   },
   "links": [
     {
       "rel": "self",
-      "href": "https://api.betterplace.org/de/api_v4/volunteering/77787.json"
+      "href": "https://api.betterplace.org/de/api_v4/volunteering/77848.json"
     },
     {
       "rel": "platform",
-      "href": "https://www.betterplace.org/de/volunteering/77787-unterstutzt-uns-als-redakteur-in-bei-unserer-konstruktiven-news-app"
+      "href": "https://www.betterplace.org/de/volunteering/77848-country-project-manager-volunteer-post-for-ccdo-bamboo-centre"
     },
     {
       "rel": "inquiries",
-      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/77787-unterstutzt-uns-als-redakteur-in-bei-unserer-konstruktiven-news-app/inquiries.json",
+      "href": "https://api.betterplace.org/de/api_v4/clients/%7Bclient_id%7D/volunteering/77848-country-project-manager-volunteer-post-for-ccdo-bamboo-centre/inquiries.json",
       "templated": true
     }
   ]

@@ -350,16 +350,16 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       "body": "<p><br></p><p>Approximately one year ago, a young German hairstyling student read a piece about Skateistan. When she found herself working as a nurse in the German military hospital in Mazar-e-Sharif soon after, the skateboarding students of Kabul lingered in her mind. The soldier, Alexandra H., decided to use her skills to support Skateistan in any way she could — so she began to collect donations by giving haircuts to German soldiers serving in Afghanistan.</p><br><p>News of Alexandra’s “haircuts for a good cause” spread rapidly at Mazar-e-Sharif’s Camp Marmal. Before long, she had given 150 haircuts: at the end of June 2009, she generously handed all of the profits to Skateistan.</p><br><p>Alexandra, who has promised to continue her fundraising efforts for Skateistan when she returns to Germany, has quickly become one of the organization’s most innovative and committed supporters.</p><br>",
       "author": {
         "id": 9238,
-        "name": "Edwin Hentschel",
+        "name": "Mira Dietrich",
         "picture": {
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/fill_100x100_original_maxn_skate.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/fill_100x100_bp1576596032_original_maxn_skate.jpg"
             },
             {
               "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/crop_original_original_maxn_skate.jpg"
+              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/crop_original_bp1576596032_original_maxn_skate.jpg"
             }
           ]
         },
@@ -381,7 +381,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/7019"
+          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/7019#ppp-sticky-anchor"
         },
         {
           "rel": "documentation",
@@ -405,7 +405,7 @@ Maximum sized image. This is the original image with default-cropping or user-cr
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/8076"
+          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/8076#ppp-sticky-anchor"
         },
         {
           "rel": "documentation",
